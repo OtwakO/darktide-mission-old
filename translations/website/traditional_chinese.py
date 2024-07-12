@@ -22,7 +22,7 @@ FILTERS = {
     "Low-Intensity": "低強度",
     "Engagement Zone": "交戰區",
     "Shock Troop": "突擊兵部隊",
-    "Nurgle-Blessed": "Nurgle-Blessed",
+    "Nurgle-Blessed": "納垢賜福",
     "Hunting Grounds": "狩獵場",
     "Mutants": "變種人",
     "Poxbursters": "自爆",

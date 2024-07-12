@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="retro">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Darktide Mission</title>
+    <link rel="icon"
+        href="https://cdn.prod.website-files.com/65786ec854ee7451f4f7291a/65786ec854ee7451f4f729ba_favicon-32x32.png">
+    <link href="https://cdn.jsdelivr.net/npm/daisyui@4.12.10/dist/full.min.css" rel="stylesheet" type="text/css" />
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://unpkg.com/htmx.org@2.0.0"></script>
+    <link rel="stylesheet" href="https://raheelize.github.io/CrispyToastJS/crispy-toast.css">
+    <script src="https://raheelize.github.io/CrispyToastJS/crispy-toast.js"></script>
+    <meta name="htmx-config" content='{"selfRequestsOnly": false}'>
+</head>
+
+<style>
+    .main-page {
+        height: 100%;
+        width: 100%;
+        overflow-y: hidden;
+    }
+
+    .filter-list {
+        overflow-y: scroll;
+    }
+
+    .filter-search-btn {
+        background-color: rgba(222, 184, 135, 0.5);
+    }
+
+    .filter-search-btn:hover {
+        background-color: rgba(222, 184, 135, 1);
+    }
+
+    .mission-page-container {
+        background-color: rgb(216, 207, 182)
+    }
+
+    .mission-grid {
+        display: grid;
+        max-height: 100%;
+        grid-template-columns: repeat(auto-fit, minmax(100%, 1fr));
+        overflow-y: scroll;
+    }
+</style>
+
+<body class="h-screen w-screen">
+    <div class="start-page flex w-screen h-screen justify-center items-center gap-2">
+        <button class="btn btn-lg filter-search-btn" hx-get="http://127.0.0.1" hx-swap="outerHTML"
+            hx-target=".start-page" hx-vals='{"entry_point": "http://127.0.0.1", "language": "en"}'>English</button>
+        <button class="btn btn-lg filter-search-btn" hx-get="http://127.0.0.1" hx-swap="outerHTML"
+            hx-target=".start-page" hx-vals='{"entry_point": "http://127.0.0.1", "language": "zh-tw"}'>繁體中文</button>
+    </div>
+</body>
+
+</html>

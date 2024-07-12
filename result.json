@@ -1,0 +1,4194 @@
+[
+    {
+        "map_name": "Mercantile HL-70-04",
+        "mission_type": "Raid",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Default"
+        ],
+        "book": "No books",
+        "started_time": "23.9 hours ago",
+        "mmt_code": "/mmtimport 41bce372-5b5c-4e9b-a79c-5a870ef04402"
+    },
+    {
+        "map_name": "Chasm Station HL-16-11",
+        "mission_type": "Assassination",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Shock Troop"
+        ],
+        "book": "Seize Grimoires",
+        "started_time": "23.9 hours ago",
+        "mmt_code": "/mmtimport 6b57587d-5ae3-4bfb-bbc8-0b8f23239994"
+    },
+    {
+        "map_name": "Comms-Plex 154/2f",
+        "mission_type": "Espionage",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Default"
+        ],
+        "book": "No books",
+        "started_time": "23.9 hours ago",
+        "mmt_code": "/mmtimport c25bd16c-365e-45aa-83f9-ecdad76f913b"
+    },
+    {
+        "map_name": "Consignment Yard HL-17-36",
+        "mission_type": "Raid",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Shock Troop"
+        ],
+        "book": "No books",
+        "started_time": "23.8 hours ago",
+        "mmt_code": "/mmtimport 58e6cf84-425d-475a-8af4-063f35669446"
+    },
+    {
+        "map_name": "Vigil Station Oblivium",
+        "mission_type": "Espionage",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Default"
+        ],
+        "book": "No books",
+        "started_time": "23.6 hours ago",
+        "mmt_code": "/mmtimport 710f3196-0921-44c9-bacf-06a241365d33"
+    },
+    {
+        "map_name": "Clandestium Gloriana",
+        "mission_type": "Repair",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Low-Intensity",
+            "Engagement Zone"
+        ],
+        "book": "Recover Scriptures",
+        "started_time": "23.6 hours ago",
+        "mmt_code": "/mmtimport 92f6311d-28ff-4d23-965d-e3b4200d500f"
+    },
+    {
+        "map_name": "Power Matrix HL-17-36",
+        "mission_type": "Repair",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Default"
+        ],
+        "book": "No books",
+        "started_time": "23.5 hours ago",
+        "mmt_code": "/mmtimport 64126716-1344-4ce8-a26a-32715664be77"
+    },
+    {
+        "map_name": "Relay Station TRS-150",
+        "mission_type": "Disruption",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Hi-Intensity",
+            "Engagement Zone"
+        ],
+        "book": "Seize Grimoires",
+        "started_time": "23.5 hours ago",
+        "mmt_code": "/mmtimport 72597aa0-0cec-49c5-ad0f-598f9f3fa828"
+    },
+    {
+        "map_name": "Excise Vault Spireside-13",
+        "mission_type": "Raid",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Shock Troop",
+            "Hunting Grounds"
+        ],
+        "book": "No books",
+        "started_time": "23.5 hours ago",
+        "mmt_code": "/mmtimport e1cebc09-7444-4feb-b4e0-74160e81b3ad"
+    },
+    {
+        "map_name": "Smelter Complex HL-17-36",
+        "mission_type": "Strike",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Default"
+        ],
+        "book": "No books",
+        "started_time": "23.4 hours ago",
+        "mmt_code": "/mmtimport 59e7ec5f-775b-44b5-98d4-b3a803709915"
+    },
+    {
+        "map_name": "Silo Cluster 18-66/a",
+        "mission_type": "Strike",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Low-Intensity",
+            "Hunting Grounds"
+        ],
+        "book": "Seize Grimoires",
+        "started_time": "23.3 hours ago",
+        "mmt_code": "/mmtimport a6daa4f4-c967-43bd-98de-e003ead3f1b5"
+    },
+    {
+        "map_name": "Chasm Station HL-16-11",
+        "mission_type": "Assassination",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Low-Intensity",
+            "Engagement Zone"
+        ],
+        "book": "Seize Grimoires",
+        "started_time": "23.3 hours ago",
+        "mmt_code": "/mmtimport bcc4b0aa-794b-44b1-b44c-7d6b4048c9cb"
+    },
+    {
+        "map_name": "Hab Dreyko",
+        "mission_type": "Investigation",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Default"
+        ],
+        "book": "No books",
+        "started_time": "23.3 hours ago",
+        "mmt_code": "/mmtimport b0636e7a-3c6e-412c-a59c-a19f831c3e04"
+    },
+    {
+        "map_name": "Archivum Sycorax",
+        "mission_type": "Espionage",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Default"
+        ],
+        "book": "No books",
+        "started_time": "23.1 hours ago",
+        "mmt_code": "/mmtimport 92bf7c53-9e6b-4b9b-ac79-41ceefd78c13"
+    },
+    {
+        "map_name": "Refinery Delta-17",
+        "mission_type": "Disruption",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Hunting Grounds"
+        ],
+        "book": "Recover Scriptures",
+        "started_time": "23 hours ago",
+        "mmt_code": "/mmtimport c66cd536-c438-4e2c-aa02-fe0d2e94640d"
+    },
+    {
+        "map_name": "Warren 6-19",
+        "mission_type": "Disruption",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Toxic Gas"
+        ],
+        "book": "Seize Grimoires",
+        "started_time": "23 hours ago",
+        "mmt_code": "/mmtimport 1cd04654-74b2-456c-919e-1998c99febff"
+    },
+    {
+        "map_name": "Hab Dreyko",
+        "mission_type": "Investigation",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Default"
+        ],
+        "book": "No books",
+        "started_time": "23 hours ago",
+        "mmt_code": "/mmtimport b18bf1da-78c0-4832-8d3f-356e20c13d09"
+    },
+    {
+        "map_name": "Consignment Yard HL-17-36",
+        "mission_type": "Raid",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Default"
+        ],
+        "book": "No books",
+        "started_time": "22.9 hours ago",
+        "mmt_code": "/mmtimport dbbbe4b5-726a-46ca-b337-0c760b4b80b7"
+    },
+    {
+        "map_name": "Ascension Riser 31",
+        "mission_type": "Raid",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Default"
+        ],
+        "book": "Recover Scriptures",
+        "started_time": "22.7 hours ago",
+        "mmt_code": "/mmtimport d6ee4463-d1d6-469f-8aae-3fb0d5e0bb27"
+    },
+    {
+        "map_name": "Power Matrix HL-17-36",
+        "mission_type": "Repair",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Shock Troop"
+        ],
+        "book": "No books",
+        "started_time": "22.7 hours ago",
+        "mmt_code": "/mmtimport c53fb0e9-92d2-49e1-9c12-2abf541a933d"
+    },
+    {
+        "map_name": "Chasm Station HL-16-11",
+        "mission_type": "Assassination",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Hi-Intensity",
+            "Shock Troop"
+        ],
+        "book": "Recover Scriptures",
+        "started_time": "22.7 hours ago",
+        "mmt_code": "/mmtimport 58994cfb-d27e-41a5-acb1-4c0ee00c85bf"
+    },
+    {
+        "map_name": "Mercantile HL-70-04",
+        "mission_type": "Raid",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Default"
+        ],
+        "book": "No books",
+        "started_time": "22.6 hours ago",
+        "mmt_code": "/mmtimport 7168d1df-6056-4f9a-9f60-737f534cd99e"
+    },
+    {
+        "map_name": "Archivum Sycorax",
+        "mission_type": "Espionage",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Shock Troop",
+            "Melee",
+            "Scab Enemies Only"
+        ],
+        "book": "No books",
+        "started_time": "22.5 hours ago",
+        "mmt_code": "/mmtimport 6a21d7d2-28e2-4685-9be9-70b1d633fe18"
+    },
+    {
+        "map_name": "Consignment Yard HL-17-36",
+        "mission_type": "Raid",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Default"
+        ],
+        "book": "Recover Scriptures",
+        "started_time": "22.4 hours ago",
+        "mmt_code": "/mmtimport 71d19fc6-0825-40f9-a4b1-cc61fcc38c65"
+    },
+    {
+        "map_name": "Power Matrix HL-17-36",
+        "mission_type": "Repair",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Low-Intensity Toxic Gas"
+        ],
+        "book": "No books",
+        "started_time": "22.4 hours ago",
+        "mmt_code": "/mmtimport e62c1270-91b9-46b6-8041-aa21322efafe"
+    },
+    {
+        "map_name": "Warren 6-19",
+        "mission_type": "Disruption",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Default"
+        ],
+        "book": "No books",
+        "started_time": "22.4 hours ago",
+        "mmt_code": "/mmtimport dceaa3a8-b73e-447e-92c0-46b393c541a3"
+    },
+    {
+        "map_name": "Comms-Plex 154/2f",
+        "mission_type": "Espionage",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Low-Intensity",
+            "Hunting Grounds"
+        ],
+        "book": "No books",
+        "started_time": "22.4 hours ago",
+        "mmt_code": "/mmtimport 6056d3d0-2bd7-4d81-9379-2d86ca763228"
+    },
+    {
+        "map_name": "Chasm Station HL-16-11",
+        "mission_type": "Assassination",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Low-Intensity",
+            "Ventilation Purge"
+        ],
+        "book": "No books",
+        "started_time": "22.1 hours ago",
+        "mmt_code": "/mmtimport 22556f12-d22e-4e84-b375-04e70ed69306"
+    },
+    {
+        "map_name": "Vigil Station Oblivium",
+        "mission_type": "Espionage",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Default"
+        ],
+        "book": "No books",
+        "started_time": "22.1 hours ago",
+        "mmt_code": "/mmtimport 24487047-3500-43d5-a66e-f14aa231cf3d"
+    },
+    {
+        "map_name": "Mercantile HL-70-04",
+        "mission_type": "Raid",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Hi-Intensity",
+            "Engagement Zone"
+        ],
+        "book": "Seize Grimoires",
+        "started_time": "22.1 hours ago",
+        "mmt_code": "/mmtimport ca580fa5-df5e-4538-afed-96c47252050c"
+    },
+    {
+        "map_name": "Consignment Yard HL-17-36",
+        "mission_type": "Raid",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Default"
+        ],
+        "book": "No books",
+        "started_time": "22.1 hours ago",
+        "mmt_code": "/mmtimport 5588374e-51ef-4051-b2c3-56c74b549052"
+    },
+    {
+        "map_name": "Chasm Station HL-16-11",
+        "mission_type": "Assassination",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Default"
+        ],
+        "book": "No books",
+        "started_time": "21.9 hours ago",
+        "mmt_code": "/mmtimport 4ef91d9b-864c-4180-9be0-fb9e2a868a5b"
+    },
+    {
+        "map_name": "Silo Cluster 18-66/a",
+        "mission_type": "Strike",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Low-Intensity",
+            "Hunting Grounds"
+        ],
+        "book": "No books",
+        "started_time": "21.9 hours ago",
+        "mmt_code": "/mmtimport a0645a9b-6b22-4a95-8ee2-8eed812009ff"
+    },
+    {
+        "map_name": "Power Matrix HL-17-36",
+        "mission_type": "Repair",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Hi-Intensity",
+            "Shock Troop"
+        ],
+        "book": "Seize Grimoires",
+        "started_time": "21.8 hours ago",
+        "mmt_code": "/mmtimport b11e10ae-cf8a-4503-95a9-ebb8afbc9f26"
+    },
+    {
+        "map_name": "Clandestium Gloriana",
+        "mission_type": "Repair",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Default"
+        ],
+        "book": "Seize Grimoires",
+        "started_time": "21.8 hours ago",
+        "mmt_code": "/mmtimport b55bdb93-9b70-4e40-af44-d8949315fc7b"
+    },
+    {
+        "map_name": "Vigil Station Oblivium",
+        "mission_type": "Espionage",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Nurgle-Blessed",
+            "Shock Troop",
+            "Mutants",
+            "Cooldowns Reduced",
+            "Barrels"
+        ],
+        "book": "No books",
+        "started_time": "21.6 hours ago",
+        "mmt_code": "/mmtimport 8ffd42c7-d8dc-4508-b3b8-c50f454c6d62"
+    },
+    {
+        "map_name": "Mercantile HL-70-04",
+        "mission_type": "Raid",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Default"
+        ],
+        "book": "No books",
+        "started_time": "21.6 hours ago",
+        "mmt_code": "/mmtimport 48495c3f-0c76-406c-8843-c948c1deb3e3"
+    },
+    {
+        "map_name": "Ascension Riser 31",
+        "mission_type": "Raid",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Low-Intensity",
+            "Hunting Grounds"
+        ],
+        "book": "Seize Grimoires",
+        "started_time": "21.6 hours ago",
+        "mmt_code": "/mmtimport ed1335a9-1645-4798-91bf-15e7da6902c2"
+    },
+    {
+        "map_name": "Chasm Station HL-16-11",
+        "mission_type": "Assassination",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Hi-Intensity",
+            "Engagement Zone"
+        ],
+        "book": "No books",
+        "started_time": "21.6 hours ago",
+        "mmt_code": "/mmtimport d064ce56-1158-405b-b008-f257ebeac042"
+    },
+    {
+        "map_name": "Relay Station TRS-150",
+        "mission_type": "Disruption",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Default"
+        ],
+        "book": "No books",
+        "started_time": "21.5 hours ago",
+        "mmt_code": "/mmtimport 191b11ad-8461-45e4-8b7f-203587d3cc52"
+    },
+    {
+        "map_name": "Consignment Yard HL-17-36",
+        "mission_type": "Raid",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Default"
+        ],
+        "book": "No books",
+        "started_time": "21.4 hours ago",
+        "mmt_code": "/mmtimport c738a835-435a-493b-a9a4-d139dfdd6ec0"
+    },
+    {
+        "map_name": "Chasm Logistratum",
+        "mission_type": "Raid",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Low-Intensity",
+            "Engagement Zone"
+        ],
+        "book": "Recover Scriptures",
+        "started_time": "21.3 hours ago",
+        "mmt_code": "/mmtimport f8f7eebb-12a7-45d9-84a3-1f80b4cf3557"
+    },
+    {
+        "map_name": "Enclavum Baross",
+        "mission_type": "Strike",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Shock Troop"
+        ],
+        "book": "Recover Scriptures",
+        "started_time": "21.2 hours ago",
+        "mmt_code": "/mmtimport 2d6dab85-2354-442a-a699-a718602c861e"
+    },
+    {
+        "map_name": "Magistrati Oubliette TM8-707",
+        "mission_type": "Assassination",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Default"
+        ],
+        "book": "No books",
+        "started_time": "21.2 hours ago",
+        "mmt_code": "/mmtimport 4b73f72b-c70c-447a-ba1c-6aec67adc29a"
+    },
+    {
+        "map_name": "Silo Cluster 18-66/a",
+        "mission_type": "Strike",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Default"
+        ],
+        "book": "No books",
+        "started_time": "21.1 hours ago",
+        "mmt_code": "/mmtimport ac0ab279-86a7-468b-9d0d-a5e1e47bcf92"
+    },
+    {
+        "map_name": "Vigil Station Oblivium",
+        "mission_type": "Espionage",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Default"
+        ],
+        "book": "No books",
+        "started_time": "20.9 hours ago",
+        "mmt_code": "/mmtimport 2a075def-925a-4f6c-b576-b4a47f8ec3a4"
+    },
+    {
+        "map_name": "Relay Station TRS-150",
+        "mission_type": "Disruption",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Low-Intensity",
+            "Engagement Zone"
+        ],
+        "book": "Seize Grimoires",
+        "started_time": "21 hours ago",
+        "mmt_code": "/mmtimport 9af0f2e1-13ba-4316-8e9e-cbead9866675"
+    },
+    {
+        "map_name": "Comms-Plex 154/2f",
+        "mission_type": "Espionage",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Hi-Intensity",
+            "Shock Troop"
+        ],
+        "book": "Seize Grimoires",
+        "started_time": "20.9 hours ago",
+        "mmt_code": "/mmtimport 7d894980-42fe-409a-ad3b-fb5cef785aef"
+    },
+    {
+        "map_name": "Refinery Delta-17",
+        "mission_type": "Disruption",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Default"
+        ],
+        "book": "No books",
+        "started_time": "20.9 hours ago",
+        "mmt_code": "/mmtimport b14cb8fc-29ca-4a58-bfb7-ccd5b1cd63b2"
+    },
+    {
+        "map_name": "Enclavum Baross",
+        "mission_type": "Strike",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Low-Intensity",
+            "Shock Troop"
+        ],
+        "book": "Seize Grimoires",
+        "started_time": "20.7 hours ago",
+        "mmt_code": "/mmtimport 0afe1d30-ff0e-4fba-ab6e-c033ec02c6cf"
+    },
+    {
+        "map_name": "Warren 6-19",
+        "mission_type": "Disruption",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Default"
+        ],
+        "book": "No books",
+        "started_time": "20.7 hours ago",
+        "mmt_code": "/mmtimport e199b684-75bf-412e-95cc-90ebca3c35db"
+    },
+    {
+        "map_name": "Clandestium Gloriana",
+        "mission_type": "Repair",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Default"
+        ],
+        "book": "No books",
+        "started_time": "20.6 hours ago",
+        "mmt_code": "/mmtimport 8dd6d751-e0f3-4cc0-a249-cc7e95db501a"
+    },
+    {
+        "map_name": "Power Matrix HL-17-36",
+        "mission_type": "Repair",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Low-Intensity",
+            "Engagement Zone"
+        ],
+        "book": "No books",
+        "started_time": "20.6 hours ago",
+        "mmt_code": "/mmtimport e3095537-2103-4837-9af7-f55fc64aadd2"
+    },
+    {
+        "map_name": "Chasm Station HL-16-11",
+        "mission_type": "Assassination",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Low-Intensity Toxic Gas"
+        ],
+        "book": "Recover Scriptures",
+        "started_time": "20.4 hours ago",
+        "mmt_code": "/mmtimport 55622a3d-0506-48ce-8db6-57f100b197e9"
+    },
+    {
+        "map_name": "Magistrati Oubliette TM8-707",
+        "mission_type": "Assassination",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Default"
+        ],
+        "book": "No books",
+        "started_time": "20.4 hours ago",
+        "mmt_code": "/mmtimport 7bdcce16-a30b-4aa6-889c-3bcf1930cbb9"
+    },
+    {
+        "map_name": "Warren 6-19",
+        "mission_type": "Disruption",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Default"
+        ],
+        "book": "No books",
+        "started_time": "20.4 hours ago",
+        "mmt_code": "/mmtimport f06d54e8-99ff-4a16-a582-657198565c6b"
+    },
+    {
+        "map_name": "Archivum Sycorax",
+        "mission_type": "Espionage",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Low-Intensity",
+            "Hunting Grounds"
+        ],
+        "book": "Seize Grimoires",
+        "started_time": "20.3 hours ago",
+        "mmt_code": "/mmtimport 28a0e447-321f-4196-a9a2-3029135a5826"
+    },
+    {
+        "map_name": "Refinery Delta-17",
+        "mission_type": "Disruption",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Default"
+        ],
+        "book": "No books",
+        "started_time": "20.1 hours ago",
+        "mmt_code": "/mmtimport 988a2725-6872-428f-be35-66bea180feb8"
+    },
+    {
+        "map_name": "Magistrati Oubliette TM8-707",
+        "mission_type": "Assassination",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Default"
+        ],
+        "book": "No books",
+        "started_time": "20.1 hours ago",
+        "mmt_code": "/mmtimport 0da55a0e-8896-4c18-ba67-ce6a90cf801d"
+    },
+    {
+        "map_name": "Power Matrix HL-17-36",
+        "mission_type": "Repair",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Hi-Intensity",
+            "Shock Troop"
+        ],
+        "book": "No books",
+        "started_time": "20.1 hours ago",
+        "mmt_code": "/mmtimport 3e5b23cb-ab36-4be6-8e3e-1ea03d125f61"
+    },
+    {
+        "map_name": "Consignment Yard HL-17-36",
+        "mission_type": "Raid",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Low-Intensity",
+            "Engagement Zone"
+        ],
+        "book": "Recover Scriptures",
+        "started_time": "20.1 hours ago",
+        "mmt_code": "/mmtimport 3ce77658-62c6-4813-90f2-c6ae7e1e4882"
+    },
+    {
+        "map_name": "Hab Dreyko",
+        "mission_type": "Investigation",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Default"
+        ],
+        "book": "No books",
+        "started_time": "19.9 hours ago",
+        "mmt_code": "/mmtimport 0f7858ab-046d-4fe9-8403-1bab34caee24"
+    },
+    {
+        "map_name": "Warren 6-19",
+        "mission_type": "Disruption",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Hi-Intensity",
+            "Shock Troop"
+        ],
+        "book": "No books",
+        "started_time": "19.8 hours ago",
+        "mmt_code": "/mmtimport 3f52cef2-b275-41bc-b90f-f6ef142f4bfe"
+    },
+    {
+        "map_name": "Clandestium Gloriana",
+        "mission_type": "Repair",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Low-Intensity",
+            "Shock Troop"
+        ],
+        "book": "No books",
+        "started_time": "19.8 hours ago",
+        "mmt_code": "/mmtimport 7785aa29-f4a6-4749-98d2-7562ee8145cc"
+    },
+    {
+        "map_name": "Comms-Plex 154/2f",
+        "mission_type": "Espionage",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Default"
+        ],
+        "book": "Seize Grimoires",
+        "started_time": "19.8 hours ago",
+        "mmt_code": "/mmtimport d436f93f-bc60-455b-a3f0-f8331be6fbbc"
+    },
+    {
+        "map_name": "Magistrati Oubliette TM8-707",
+        "mission_type": "Assassination",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Default"
+        ],
+        "book": "No books",
+        "started_time": "19.6 hours ago",
+        "mmt_code": "/mmtimport 1a7770c1-3fd2-4584-8f78-5f6761e52687"
+    },
+    {
+        "map_name": "Silo Cluster 18-66/a",
+        "mission_type": "Strike",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Hunting Grounds"
+        ],
+        "book": "Recover Scriptures",
+        "started_time": "19.5 hours ago",
+        "mmt_code": "/mmtimport e016fb71-b30d-49b9-8f1d-8c529ab6559c"
+    },
+    {
+        "map_name": "Warren 6-19",
+        "mission_type": "Disruption",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Default"
+        ],
+        "book": "No books",
+        "started_time": "19.4 hours ago",
+        "mmt_code": "/mmtimport 9e8178d5-bd7b-41cc-be22-0827b723f417"
+    },
+    {
+        "map_name": "Enclavum Baross",
+        "mission_type": "Strike",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Hunting Grounds"
+        ],
+        "book": "Seize Grimoires",
+        "started_time": "19.4 hours ago",
+        "mmt_code": "/mmtimport 8b60dbac-18d1-4812-b954-55d4c11e0c85"
+    },
+    {
+        "map_name": "Vigil Station Oblivium",
+        "mission_type": "Espionage",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Default"
+        ],
+        "book": "No books",
+        "started_time": "19.4 hours ago",
+        "mmt_code": "/mmtimport 3295747a-11ac-4445-a873-599a12905b14"
+    },
+    {
+        "map_name": "Silo Cluster 18-66/a",
+        "mission_type": "Strike",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Shock Troop"
+        ],
+        "book": "No books",
+        "started_time": "19.3 hours ago",
+        "mmt_code": "/mmtimport 9f4b18ce-d57d-4c17-9ce5-93a130c8f336"
+    },
+    {
+        "map_name": "Power Matrix HL-17-36",
+        "mission_type": "Repair",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Default"
+        ],
+        "book": "No books",
+        "started_time": "19.2 hours ago",
+        "mmt_code": "/mmtimport 970c34f7-4c62-4f38-a614-4d2bddec0b8e"
+    },
+    {
+        "map_name": "Warren 6-19",
+        "mission_type": "Disruption",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Default"
+        ],
+        "book": "No books",
+        "started_time": "19.1 hours ago",
+        "mmt_code": "/mmtimport cc4f0d3b-6673-4e3e-9e29-d98e9558fc58"
+    },
+    {
+        "map_name": "Comms-Plex 154/2f",
+        "mission_type": "Espionage",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Low-Intensity",
+            "Engagement Zone"
+        ],
+        "book": "Recover Scriptures",
+        "started_time": "19.1 hours ago",
+        "mmt_code": "/mmtimport a62ccd68-3dde-4ddc-966f-7696d098b61a"
+    },
+    {
+        "map_name": "Silo Cluster 18-66/a",
+        "mission_type": "Strike",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Low-Intensity",
+            "Ventilation Purge"
+        ],
+        "book": "No books",
+        "started_time": "19 hours ago",
+        "mmt_code": "/mmtimport 531d76a7-b742-49c5-ae9a-d54c19968e2a"
+    },
+    {
+        "map_name": "Ascension Riser 31",
+        "mission_type": "Raid",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Default"
+        ],
+        "book": "Seize Grimoires",
+        "started_time": "18.9 hours ago",
+        "mmt_code": "/mmtimport c229f338-0a35-4f2b-a792-31a05ff93290"
+    },
+    {
+        "map_name": "Refinery Delta-17",
+        "mission_type": "Disruption",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Default"
+        ],
+        "book": "No books",
+        "started_time": "18.9 hours ago",
+        "mmt_code": "/mmtimport 956ad459-5227-4d69-bb57-fffaf8d0ddd8"
+    },
+    {
+        "map_name": "Clandestium Gloriana",
+        "mission_type": "Repair",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Hi-Intensity",
+            "Engagement Zone"
+        ],
+        "book": "Recover Scriptures",
+        "started_time": "18.8 hours ago",
+        "mmt_code": "/mmtimport f8ee53d6-d069-448c-ac18-325ffefd70d0"
+    },
+    {
+        "map_name": "Mercantile HL-70-04",
+        "mission_type": "Raid",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Shock Troop",
+            "Melee",
+            "Scab Enemies Only"
+        ],
+        "book": "No books",
+        "started_time": "18.8 hours ago",
+        "mmt_code": "/mmtimport 22edb783-35ca-41b7-b6a8-6630a4e58252"
+    },
+    {
+        "map_name": "Magistrati Oubliette TM8-707",
+        "mission_type": "Assassination",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Low-Intensity",
+            "Engagement Zone"
+        ],
+        "book": "No books",
+        "started_time": "18.7 hours ago",
+        "mmt_code": "/mmtimport 76ac4197-7083-4d05-9a16-b7a31b9afeef"
+    },
+    {
+        "map_name": "Enclavum Baross",
+        "mission_type": "Strike",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Default"
+        ],
+        "book": "No books",
+        "started_time": "18.6 hours ago",
+        "mmt_code": "/mmtimport d612a45e-ee11-41f9-95e6-8e4db1b4acb6"
+    },
+    {
+        "map_name": "Vigil Station Oblivium",
+        "mission_type": "Espionage",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Low-Intensity",
+            "Engagement Zone"
+        ],
+        "book": "No books",
+        "started_time": "18.6 hours ago",
+        "mmt_code": "/mmtimport d6c8881a-4204-4dc3-a912-b0937c1a4d87"
+    },
+    {
+        "map_name": "Relay Station TRS-150",
+        "mission_type": "Disruption",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Low-Intensity",
+            "Hunting Grounds"
+        ],
+        "book": "Seize Grimoires",
+        "started_time": "18.5 hours ago",
+        "mmt_code": "/mmtimport 8970b608-88e0-4177-9750-97e31643b873"
+    },
+    {
+        "map_name": "Ascension Riser 31",
+        "mission_type": "Raid",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Default"
+        ],
+        "book": "Recover Scriptures",
+        "started_time": "18.4 hours ago",
+        "mmt_code": "/mmtimport 01a1855f-478c-4641-86e5-cd876617eb04"
+    },
+    {
+        "map_name": "Archivum Sycorax",
+        "mission_type": "Espionage",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Default"
+        ],
+        "book": "No books",
+        "started_time": "18.4 hours ago",
+        "mmt_code": "/mmtimport 173376d7-d211-4aba-a25a-2f0e88d704bd"
+    },
+    {
+        "map_name": "Chasm Logistratum",
+        "mission_type": "Raid",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Hi-Intensity",
+            "Engagement Zone"
+        ],
+        "book": "No books",
+        "started_time": "18.3 hours ago",
+        "mmt_code": "/mmtimport a6c306e7-38b2-417a-b4b3-17e26f6485e9"
+    },
+    {
+        "map_name": "Power Matrix HL-17-36",
+        "mission_type": "Repair",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Shock Troop",
+            "Melee",
+            "Scab Enemies Only"
+        ],
+        "book": "No books",
+        "started_time": "18.3 hours ago",
+        "mmt_code": "/mmtimport c2ed87d4-cae1-4fa8-962b-8b883523ef5d"
+    },
+    {
+        "map_name": "Vigil Station Oblivium",
+        "mission_type": "Espionage",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Low-Intensity",
+            "Engagement Zone"
+        ],
+        "book": "Recover Scriptures",
+        "started_time": "18.2 hours ago",
+        "mmt_code": "/mmtimport c0e2eeab-1b2b-4537-997c-0f367b71c193"
+    },
+    {
+        "map_name": "Smelter Complex HL-17-36",
+        "mission_type": "Strike",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Default"
+        ],
+        "book": "No books",
+        "started_time": "18.1 hours ago",
+        "mmt_code": "/mmtimport 2bd58f33-ee4b-4723-9f28-042dae1e45c7"
+    },
+    {
+        "map_name": "Warren 6-19",
+        "mission_type": "Disruption",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Low-Intensity",
+            "Hunting Grounds"
+        ],
+        "book": "Recover Scriptures",
+        "started_time": "18.1 hours ago",
+        "mmt_code": "/mmtimport ac88d078-a2d7-40fd-86b9-883fcc197e9b"
+    },
+    {
+        "map_name": "Relay Station TRS-150",
+        "mission_type": "Disruption",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Hunting Grounds"
+        ],
+        "book": "No books",
+        "started_time": "18 hours ago",
+        "mmt_code": "/mmtimport ff65a671-fa02-437a-be3b-595822a11860"
+    },
+    {
+        "map_name": "Chasm Logistratum",
+        "mission_type": "Raid",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Default"
+        ],
+        "book": "No books",
+        "started_time": "17.9 hours ago",
+        "mmt_code": "/mmtimport 7f0827bc-fa2a-449d-8efc-426e8ba57d56"
+    },
+    {
+        "map_name": "Hab Dreyko",
+        "mission_type": "Investigation",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Default"
+        ],
+        "book": "No books",
+        "started_time": "17.9 hours ago",
+        "mmt_code": "/mmtimport e78bce4c-4ddb-43a7-998d-a331e58395bc"
+    },
+    {
+        "map_name": "Ascension Riser 31",
+        "mission_type": "Raid",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Shock Troop",
+            "Melee",
+            "Scab Enemies Only"
+        ],
+        "book": "No books",
+        "started_time": "17.9 hours ago",
+        "mmt_code": "/mmtimport 2329d441-5281-4303-8a2e-bfd06b68a4bb"
+    },
+    {
+        "map_name": "Enclavum Baross",
+        "mission_type": "Strike",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Low-Intensity",
+            "Engagement Zone"
+        ],
+        "book": "Recover Scriptures",
+        "started_time": "17.8 hours ago",
+        "mmt_code": "/mmtimport 4bf9b884-ae41-4d15-bc40-8c5c1720a6c8"
+    },
+    {
+        "map_name": "Mercantile HL-70-04",
+        "mission_type": "Raid",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Low-Intensity",
+            "Hunting Grounds"
+        ],
+        "book": "No books",
+        "started_time": "17.7 hours ago",
+        "mmt_code": "/mmtimport 1463e680-1dc2-4d4f-8066-8707e4dc888a"
+    },
+    {
+        "map_name": "Smelter Complex HL-17-36",
+        "mission_type": "Strike",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Default"
+        ],
+        "book": "No books",
+        "started_time": "17.6 hours ago",
+        "mmt_code": "/mmtimport be15a6e3-4be1-41ca-875e-217fc3a459b8"
+    },
+    {
+        "map_name": "Consignment Yard HL-17-36",
+        "mission_type": "Raid",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Default"
+        ],
+        "book": "No books",
+        "started_time": "17.6 hours ago",
+        "mmt_code": "/mmtimport f4da3ad0-de32-4379-9418-d9891d23c138"
+    },
+    {
+        "map_name": "Vigil Station Oblivium",
+        "mission_type": "Espionage",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Hi-Intensity",
+            "Engagement Zone"
+        ],
+        "book": "Seize Grimoires",
+        "started_time": "17.5 hours ago",
+        "mmt_code": "/mmtimport 15b493d7-e07a-4b0b-9ec5-f26a57fabab0"
+    },
+    {
+        "map_name": "Magistrati Oubliette TM8-707",
+        "mission_type": "Assassination",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Hi-Intensity",
+            "Engagement Zone"
+        ],
+        "book": "Seize Grimoires",
+        "started_time": "17.4 hours ago",
+        "mmt_code": "/mmtimport ae1d0b80-8601-4472-99df-af853a880825"
+    },
+    {
+        "map_name": "Chasm Station HL-16-11",
+        "mission_type": "Assassination",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Nurgle-Blessed",
+            "Shock Troop"
+        ],
+        "book": "No books",
+        "started_time": "17.4 hours ago",
+        "mmt_code": "/mmtimport 36d7c48b-8d21-4829-a255-9b6864b624d2"
+    },
+    {
+        "map_name": "Archivum Sycorax",
+        "mission_type": "Espionage",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Default"
+        ],
+        "book": "No books",
+        "started_time": "17.4 hours ago",
+        "mmt_code": "/mmtimport d970aca7-16d7-4ed0-ae3a-542c13849ae3"
+    },
+    {
+        "map_name": "Vigil Station Oblivium",
+        "mission_type": "Espionage",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Ventilation Purge"
+        ],
+        "book": "Seize Grimoires",
+        "started_time": "17.2 hours ago",
+        "mmt_code": "/mmtimport f6e7951f-ce4a-4a4b-81d0-511ee4ffd6dd"
+    },
+    {
+        "map_name": "Hab Dreyko",
+        "mission_type": "Investigation",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Hi-Intensity",
+            "Engagement Zone"
+        ],
+        "book": "No books",
+        "started_time": "17.2 hours ago",
+        "mmt_code": "/mmtimport 30f23ab0-efaa-483c-8c80-ae9edd7ece58"
+    },
+    {
+        "map_name": "Comms-Plex 154/2f",
+        "mission_type": "Espionage",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Hunting Grounds"
+        ],
+        "book": "No books",
+        "started_time": "17.1 hours ago",
+        "mmt_code": "/mmtimport 96514267-da8f-4c27-8029-46d65ff80be4"
+    },
+    {
+        "map_name": "Chasm Logistratum",
+        "mission_type": "Raid",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Default"
+        ],
+        "book": "No books",
+        "started_time": "17.1 hours ago",
+        "mmt_code": "/mmtimport 65c748d1-e725-4661-a8a9-d286e2d612c0"
+    },
+    {
+        "map_name": "Clandestium Gloriana",
+        "mission_type": "Repair",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Default"
+        ],
+        "book": "Seize Grimoires",
+        "started_time": "17 hours ago",
+        "mmt_code": "/mmtimport a50ceca9-5745-432e-b438-b9a0e7d8cded"
+    },
+    {
+        "map_name": "Refinery Delta-17",
+        "mission_type": "Disruption",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Hi-Intensity",
+            "Engagement Zone"
+        ],
+        "book": "Seize Grimoires",
+        "started_time": "16.9 hours ago",
+        "mmt_code": "/mmtimport 225ae09b-1a74-41c3-8285-fe9f0d6f36bf"
+    },
+    {
+        "map_name": "Archivum Sycorax",
+        "mission_type": "Espionage",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Default"
+        ],
+        "book": "No books",
+        "started_time": "16.9 hours ago",
+        "mmt_code": "/mmtimport df247ada-18db-42b3-8298-c6eb64f0d989"
+    },
+    {
+        "map_name": "Mercantile HL-70-04",
+        "mission_type": "Raid",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Shock Troop"
+        ],
+        "book": "No books",
+        "started_time": "16.8 hours ago",
+        "mmt_code": "/mmtimport a24e0f89-2e9a-4940-bdce-c2c31639ab4d"
+    },
+    {
+        "map_name": "Vigil Station Oblivium",
+        "mission_type": "Espionage",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Default"
+        ],
+        "book": "No books",
+        "started_time": "16.7 hours ago",
+        "mmt_code": "/mmtimport ecb2d7c3-b861-4771-92b8-180887e7aa47"
+    },
+    {
+        "map_name": "Relay Station TRS-150",
+        "mission_type": "Disruption",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Low-Intensity",
+            "Shock Troop"
+        ],
+        "book": "Recover Scriptures",
+        "started_time": "16.7 hours ago",
+        "mmt_code": "/mmtimport 14f32d4e-1894-427d-ade0-9b74deddafbc"
+    },
+    {
+        "map_name": "Smelter Complex HL-17-36",
+        "mission_type": "Strike",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Default"
+        ],
+        "book": "No books",
+        "started_time": "16.6 hours ago",
+        "mmt_code": "/mmtimport 95311f06-3233-4ac5-9eca-83e17f6be040"
+    },
+    {
+        "map_name": "Chasm Station HL-16-11",
+        "mission_type": "Assassination",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Low-Intensity",
+            "Shock Troop"
+        ],
+        "book": "No books",
+        "started_time": "16.5 hours ago",
+        "mmt_code": "/mmtimport 8e161547-4718-4aa3-be56-835bc29f3c60"
+    },
+    {
+        "map_name": "Hab Dreyko",
+        "mission_type": "Investigation",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Default"
+        ],
+        "book": "Recover Scriptures",
+        "started_time": "16.4 hours ago",
+        "mmt_code": "/mmtimport b3339acc-dccf-46b3-850a-f6585c6b5017"
+    },
+    {
+        "map_name": "Refinery Delta-17",
+        "mission_type": "Disruption",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Shock Troop",
+            "Hunting Grounds"
+        ],
+        "book": "No books",
+        "started_time": "16.4 hours ago",
+        "mmt_code": "/mmtimport 64a5ab94-b49d-4b2b-a389-8b46a332b4fd"
+    },
+    {
+        "map_name": "Magistrati Oubliette TM8-707",
+        "mission_type": "Assassination",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Default"
+        ],
+        "book": "No books",
+        "started_time": "16.4 hours ago",
+        "mmt_code": "/mmtimport 0db3b6b9-be1d-4669-8e46-6c89e2b3f5a8"
+    },
+    {
+        "map_name": "Relay Station TRS-150",
+        "mission_type": "Disruption",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Shock Troop"
+        ],
+        "book": "No books",
+        "started_time": "16.4 hours ago",
+        "mmt_code": "/mmtimport 361e848c-e63d-4fe0-a5dd-ec584ac641af"
+    },
+    {
+        "map_name": "Archivum Sycorax",
+        "mission_type": "Espionage",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Shock Troop"
+        ],
+        "book": "Seize Grimoires",
+        "started_time": "16.3 hours ago",
+        "mmt_code": "/mmtimport 6b48605d-b9d0-45d7-9c79-1b6db1d97d5b"
+    },
+    {
+        "map_name": "Warren 6-19",
+        "mission_type": "Disruption",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Default"
+        ],
+        "book": "Recover Scriptures",
+        "started_time": "16.2 hours ago",
+        "mmt_code": "/mmtimport ba64ed49-fc2c-4b40-81d4-7820ae96d3db"
+    },
+    {
+        "map_name": "Clandestium Gloriana",
+        "mission_type": "Repair",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Default"
+        ],
+        "book": "No books",
+        "started_time": "16.1 hours ago",
+        "mmt_code": "/mmtimport ee2f0179-a256-4235-9344-9bbacb0ade28"
+    },
+    {
+        "map_name": "Comms-Plex 154/2f",
+        "mission_type": "Espionage",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Low-Intensity",
+            "Engagement Zone"
+        ],
+        "book": "No books",
+        "started_time": "16.1 hours ago",
+        "mmt_code": "/mmtimport ed1c9979-42e5-4a05-84f5-f8292c0d2374"
+    },
+    {
+        "map_name": "Mercantile HL-70-04",
+        "mission_type": "Raid",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Shock Troop",
+            "Melee",
+            "Scab Enemies Only"
+        ],
+        "book": "No books",
+        "started_time": "16 hours ago",
+        "mmt_code": "/mmtimport 005b4054-3bab-4a5f-a6ec-7284cf162277"
+    },
+    {
+        "map_name": "Smelter Complex HL-17-36",
+        "mission_type": "Strike",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Low-Intensity",
+            "Engagement Zone"
+        ],
+        "book": "Seize Grimoires",
+        "started_time": "15.9 hours ago",
+        "mmt_code": "/mmtimport 55972d39-fa2a-4ae0-81da-63701a447b1f"
+    },
+    {
+        "map_name": "Excise Vault Spireside-13",
+        "mission_type": "Raid",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Default"
+        ],
+        "book": "No books",
+        "started_time": "15.9 hours ago",
+        "mmt_code": "/mmtimport 2fdb3156-9700-43fb-b0cd-5eed6ddcd7e6"
+    },
+    {
+        "map_name": "Warren 6-19",
+        "mission_type": "Disruption",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Default"
+        ],
+        "book": "No books",
+        "started_time": "15.9 hours ago",
+        "mmt_code": "/mmtimport a1999a7a-0d41-4863-b9c0-9a103e932a13"
+    },
+    {
+        "map_name": "Hab Dreyko",
+        "mission_type": "Investigation",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Hi-Intensity",
+            "Engagement Zone"
+        ],
+        "book": "No books",
+        "started_time": "15.7 hours ago",
+        "mmt_code": "/mmtimport cfa566cd-9bb8-496e-97fb-44d768e03f21"
+    },
+    {
+        "map_name": "Vigil Station Oblivium",
+        "mission_type": "Espionage",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Default"
+        ],
+        "book": "No books",
+        "started_time": "15.6 hours ago",
+        "mmt_code": "/mmtimport 47d0fa3a-63c3-46b3-88e8-6c2e5666d446"
+    },
+    {
+        "map_name": "Refinery Delta-17",
+        "mission_type": "Disruption",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Shock Troop"
+        ],
+        "book": "Recover Scriptures",
+        "started_time": "15.6 hours ago",
+        "mmt_code": "/mmtimport d239d09f-8c13-48d1-ac07-d9d58a4b6084"
+    },
+    {
+        "map_name": "Magistrati Oubliette TM8-707",
+        "mission_type": "Assassination",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Default"
+        ],
+        "book": "Seize Grimoires",
+        "started_time": "15.5 hours ago",
+        "mmt_code": "/mmtimport 622e4122-ab86-4716-a0cf-611a936b6382"
+    },
+    {
+        "map_name": "Warren 6-19",
+        "mission_type": "Disruption",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Low-Intensity",
+            "Hunting Grounds"
+        ],
+        "book": "No books",
+        "started_time": "15.5 hours ago",
+        "mmt_code": "/mmtimport a4dcafd6-c53f-4eb7-9a1e-7b48df4ad4c2"
+    },
+    {
+        "map_name": "Excise Vault Spireside-13",
+        "mission_type": "Raid",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Default"
+        ],
+        "book": "No books",
+        "started_time": "15.4 hours ago",
+        "mmt_code": "/mmtimport 16a4ce3c-7a5f-40b6-9d84-352b625ba606"
+    },
+    {
+        "map_name": "Vigil Station Oblivium",
+        "mission_type": "Espionage",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Low-Intensity",
+            "Shock Troop"
+        ],
+        "book": "No books",
+        "started_time": "15.3 hours ago",
+        "mmt_code": "/mmtimport e64d6378-8d79-4110-8a48-b20b2483f0f0"
+    },
+    {
+        "map_name": "Relay Station TRS-150",
+        "mission_type": "Disruption",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Hi-Intensity",
+            "Engagement Zone"
+        ],
+        "book": "Seize Grimoires",
+        "started_time": "15.3 hours ago",
+        "mmt_code": "/mmtimport dc5f279b-555a-4692-ba2a-425ff9ae50d0"
+    },
+    {
+        "map_name": "Mercantile HL-70-04",
+        "mission_type": "Raid",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Low-Intensity",
+            "Engagement Zone"
+        ],
+        "book": "Recover Scriptures",
+        "started_time": "15.2 hours ago",
+        "mmt_code": "/mmtimport f571b6bc-33da-435f-aaae-742010529b77"
+    },
+    {
+        "map_name": "Excise Vault Spireside-13",
+        "mission_type": "Raid",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Default"
+        ],
+        "book": "No books",
+        "started_time": "15.1 hours ago",
+        "mmt_code": "/mmtimport 1225c0a5-cc2b-478a-9277-058cb4f9336f"
+    },
+    {
+        "map_name": "Relay Station TRS-150",
+        "mission_type": "Disruption",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Default"
+        ],
+        "book": "No books",
+        "started_time": "15 hours ago",
+        "mmt_code": "/mmtimport 289d84c6-50c1-4a56-8a60-da6edd714ca7"
+    },
+    {
+        "map_name": "Magistrati Oubliette TM8-707",
+        "mission_type": "Assassination",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Low-Intensity",
+            "Hunting Grounds"
+        ],
+        "book": "Recover Scriptures",
+        "started_time": "15 hours ago",
+        "mmt_code": "/mmtimport d04c17b7-0dc7-4ecf-b2ad-9a00085f4128"
+    },
+    {
+        "map_name": "Warren 6-19",
+        "mission_type": "Disruption",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Hi-Intensity",
+            "Engagement Zone"
+        ],
+        "book": "No books",
+        "started_time": "14.9 hours ago",
+        "mmt_code": "/mmtimport ff0e201d-7d5b-47fa-8c62-25b43d2eb21f"
+    },
+    {
+        "map_name": "Mercantile HL-70-04",
+        "mission_type": "Raid",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Default"
+        ],
+        "book": "No books",
+        "started_time": "14.9 hours ago",
+        "mmt_code": "/mmtimport 7a922e17-dfc1-427b-a51d-b0a2f0bad6bc"
+    },
+    {
+        "map_name": "Excise Vault Spireside-13",
+        "mission_type": "Raid",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Default"
+        ],
+        "book": "Seize Grimoires",
+        "started_time": "14.8 hours ago",
+        "mmt_code": "/mmtimport 504f8516-1a75-4627-be26-31f41fc83b96"
+    },
+    {
+        "map_name": "Refinery Delta-17",
+        "mission_type": "Disruption",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Hi-Intensity",
+            "Hunting Grounds"
+        ],
+        "book": "Seize Grimoires",
+        "started_time": "14.7 hours ago",
+        "mmt_code": "/mmtimport 22fdead3-c2c5-49c2-b3e3-520f4ee711d2"
+    },
+    {
+        "map_name": "Magistrati Oubliette TM8-707",
+        "mission_type": "Assassination",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Default"
+        ],
+        "book": "No books",
+        "started_time": "14.6 hours ago",
+        "mmt_code": "/mmtimport d6fdf297-8fe7-49d8-b6c7-0cbd3005189a"
+    },
+    {
+        "map_name": "Smelter Complex HL-17-36",
+        "mission_type": "Strike",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Low-Intensity",
+            "Engagement Zone"
+        ],
+        "book": "No books",
+        "started_time": "14.6 hours ago",
+        "mmt_code": "/mmtimport b25149bb-e454-4904-b2f6-7c5ff03bdc84"
+    },
+    {
+        "map_name": "Mercantile HL-70-04",
+        "mission_type": "Raid",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Default"
+        ],
+        "book": "Seize Grimoires",
+        "started_time": "14.5 hours ago",
+        "mmt_code": "/mmtimport 43c9091d-e421-4de8-8b19-3ccb432e767c"
+    },
+    {
+        "map_name": "Power Matrix HL-17-36",
+        "mission_type": "Repair",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Low-Intensity",
+            "Engagement Zone"
+        ],
+        "book": "No books",
+        "started_time": "14.4 hours ago",
+        "mmt_code": "/mmtimport 1f1e2dd6-6268-4101-8cba-190ade9b19fc"
+    },
+    {
+        "map_name": "Ascension Riser 31",
+        "mission_type": "Raid",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Default"
+        ],
+        "book": "No books",
+        "started_time": "14.4 hours ago",
+        "mmt_code": "/mmtimport 4e1b8e26-7972-4e05-a8cb-f73ff5d41bdd"
+    },
+    {
+        "map_name": "Silo Cluster 18-66/a",
+        "mission_type": "Strike",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Low-Intensity",
+            "Engagement Zone"
+        ],
+        "book": "No books",
+        "started_time": "14.3 hours ago",
+        "mmt_code": "/mmtimport 5c6f8764-ad9c-41a3-abc7-81c355675e68"
+    },
+    {
+        "map_name": "Comms-Plex 154/2f",
+        "mission_type": "Espionage",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Default"
+        ],
+        "book": "Recover Scriptures",
+        "started_time": "14.2 hours ago",
+        "mmt_code": "/mmtimport d6ffaae7-fdf6-431b-aea9-fd24ba3927a3"
+    },
+    {
+        "map_name": "Mercantile HL-70-04",
+        "mission_type": "Raid",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Default"
+        ],
+        "book": "No books",
+        "started_time": "14.1 hours ago",
+        "mmt_code": "/mmtimport ff2f4e69-76cc-477f-8cc6-5b433dcf1350"
+    },
+    {
+        "map_name": "Chasm Station HL-16-11",
+        "mission_type": "Assassination",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Low-Intensity",
+            "Engagement Zone"
+        ],
+        "book": "No books",
+        "started_time": "14.1 hours ago",
+        "mmt_code": "/mmtimport 8064e629-f623-4814-aa11-e348a0f94558"
+    },
+    {
+        "map_name": "Clandestium Gloriana",
+        "mission_type": "Repair",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Shock Troop"
+        ],
+        "book": "No books",
+        "started_time": "14 hours ago",
+        "mmt_code": "/mmtimport 0f522d8f-3626-46e9-ab96-fe7b2cc43a6a"
+    },
+    {
+        "map_name": "Ascension Riser 31",
+        "mission_type": "Raid",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Default"
+        ],
+        "book": "Recover Scriptures",
+        "started_time": "13.9 hours ago",
+        "mmt_code": "/mmtimport 22c50b9a-8fdf-40e9-bb14-e4d58720822f"
+    },
+    {
+        "map_name": "Power Matrix HL-17-36",
+        "mission_type": "Repair",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Default"
+        ],
+        "book": "No books",
+        "started_time": "13.9 hours ago",
+        "mmt_code": "/mmtimport 0a3bac20-5e11-4b42-b871-5d2aa793d50e"
+    },
+    {
+        "map_name": "Enclavum Baross",
+        "mission_type": "Strike",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Low-Intensity",
+            "Hunting Grounds"
+        ],
+        "book": "No books",
+        "started_time": "13.8 hours ago",
+        "mmt_code": "/mmtimport b72241dd-da0f-4007-82d9-8cda17120520"
+    },
+    {
+        "map_name": "Clandestium Gloriana",
+        "mission_type": "Repair",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Low-Intensity",
+            "Hunting Grounds"
+        ],
+        "book": "Recover Scriptures",
+        "started_time": "13.6 hours ago",
+        "mmt_code": "/mmtimport c0474888-b440-40ba-96da-5302ccb9ad83"
+    },
+    {
+        "map_name": "Archivum Sycorax",
+        "mission_type": "Espionage",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Default"
+        ],
+        "book": "No books",
+        "started_time": "13.6 hours ago",
+        "mmt_code": "/mmtimport 495e8da1-fd7f-4dd9-8760-cd329a24e274"
+    },
+    {
+        "map_name": "Refinery Delta-17",
+        "mission_type": "Disruption",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Low-Intensity",
+            "Engagement Zone"
+        ],
+        "book": "Seize Grimoires",
+        "started_time": "13.6 hours ago",
+        "mmt_code": "/mmtimport 871b4c22-0c4e-4daa-a3af-219715e94f49"
+    },
+    {
+        "map_name": "Enclavum Baross",
+        "mission_type": "Strike",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Default"
+        ],
+        "book": "No books",
+        "started_time": "13.5 hours ago",
+        "mmt_code": "/mmtimport 66c15262-5409-49d0-b4a8-7ab8a64064dc"
+    },
+    {
+        "map_name": "Silo Cluster 18-66/a",
+        "mission_type": "Strike",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Default"
+        ],
+        "book": "No books",
+        "started_time": "13.4 hours ago",
+        "mmt_code": "/mmtimport 489adbf4-2f23-40ad-a4bc-7fd0b215cf2c"
+    },
+    {
+        "map_name": "Relay Station TRS-150",
+        "mission_type": "Disruption",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Low-Intensity",
+            "Hunting Grounds"
+        ],
+        "book": "No books",
+        "started_time": "13.3 hours ago",
+        "mmt_code": "/mmtimport 1048dc28-f03b-4152-8558-8d081e29e8fd"
+    },
+    {
+        "map_name": "Magistrati Oubliette TM8-707",
+        "mission_type": "Assassination",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Hi-Intensity",
+            "Engagement Zone"
+        ],
+        "book": "Seize Grimoires",
+        "started_time": "13.3 hours ago",
+        "mmt_code": "/mmtimport 152e5485-43a0-4b69-96a6-8b93bb23001d"
+    },
+    {
+        "map_name": "Ascension Riser 31",
+        "mission_type": "Raid",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Shock Troop"
+        ],
+        "book": "No books",
+        "started_time": "13.1 hours ago",
+        "mmt_code": "/mmtimport 8d2c4241-76f2-4ec6-9509-24cfb5768502"
+    },
+    {
+        "map_name": "Power Matrix HL-17-36",
+        "mission_type": "Repair",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Default"
+        ],
+        "book": "No books",
+        "started_time": "13.1 hours ago",
+        "mmt_code": "/mmtimport be3d1af8-9049-4177-95bf-9f345f625e41"
+    },
+    {
+        "map_name": "Silo Cluster 18-66/a",
+        "mission_type": "Strike",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Default"
+        ],
+        "book": "No books",
+        "started_time": "13.1 hours ago",
+        "mmt_code": "/mmtimport 78694a08-d666-454e-b395-459989adbd17"
+    },
+    {
+        "map_name": "Consignment Yard HL-17-36",
+        "mission_type": "Raid",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Low-Intensity",
+            "Shock Troop"
+        ],
+        "book": "Recover Scriptures",
+        "started_time": "13 hours ago",
+        "mmt_code": "/mmtimport c1e0c286-0be4-469d-9905-39aa3d743ec5"
+    },
+    {
+        "map_name": "Refinery Delta-17",
+        "mission_type": "Disruption",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Default"
+        ],
+        "book": "No books",
+        "started_time": "12.9 hours ago",
+        "mmt_code": "/mmtimport 75c98a24-5daf-4828-8afc-eb50cbba5e7a"
+    },
+    {
+        "map_name": "Magistrati Oubliette TM8-707",
+        "mission_type": "Assassination",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Low-Intensity",
+            "Hunting Grounds"
+        ],
+        "book": "Recover Scriptures",
+        "started_time": "12.9 hours ago",
+        "mmt_code": "/mmtimport e274d41a-c7ff-4072-8c5d-ad62a2faceb7"
+    },
+    {
+        "map_name": "Ascension Riser 31",
+        "mission_type": "Raid",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Default"
+        ],
+        "book": "No books",
+        "started_time": "12.8 hours ago",
+        "mmt_code": "/mmtimport 0b71a72a-ce41-46bb-8464-786b964b55de"
+    },
+    {
+        "map_name": "Enclavum Baross",
+        "mission_type": "Strike",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Shock Troop"
+        ],
+        "book": "No books",
+        "started_time": "12.7 hours ago",
+        "mmt_code": "/mmtimport 1c3b176a-e847-4644-9762-0ddc1edcd435"
+    },
+    {
+        "map_name": "Smelter Complex HL-17-36",
+        "mission_type": "Strike",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Nurgle-Blessed",
+            "Shock Troop",
+            "Mutants",
+            "Cooldowns Reduced",
+            "Barrels"
+        ],
+        "book": "No books",
+        "started_time": "12.7 hours ago",
+        "mmt_code": "/mmtimport 3f2a91f8-766e-4259-83cc-1a124a3def7a"
+    },
+    {
+        "map_name": "Warren 6-19",
+        "mission_type": "Disruption",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Default"
+        ],
+        "book": "No books",
+        "started_time": "12.6 hours ago",
+        "mmt_code": "/mmtimport d64ba471-23cb-45d3-b5e6-7fde93bf0ffc"
+    },
+    {
+        "map_name": "Hab Dreyko",
+        "mission_type": "Investigation",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Hi-Intensity",
+            "Hunting Grounds"
+        ],
+        "book": "Recover Scriptures",
+        "started_time": "12.6 hours ago",
+        "mmt_code": "/mmtimport 9c0d178a-6cab-46b0-8e2b-da0d9d642702"
+    },
+    {
+        "map_name": "Magistrati Oubliette TM8-707",
+        "mission_type": "Assassination",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Default"
+        ],
+        "book": "No books",
+        "started_time": "12.5 hours ago",
+        "mmt_code": "/mmtimport ad19298f-9ac0-4611-8113-c7a220878832"
+    },
+    {
+        "map_name": "Chasm Station HL-16-11",
+        "mission_type": "Assassination",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Shock Troop"
+        ],
+        "book": "Recover Scriptures",
+        "started_time": "12.4 hours ago",
+        "mmt_code": "/mmtimport 38145ba3-6ce1-46f2-b9ce-9c2e1c71d132"
+    },
+    {
+        "map_name": "Enclavum Baross",
+        "mission_type": "Strike",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Default"
+        ],
+        "book": "No books",
+        "started_time": "12.4 hours ago",
+        "mmt_code": "/mmtimport c014835d-ffe5-4841-a6df-841fbe28194d"
+    },
+    {
+        "map_name": "Warren 6-19",
+        "mission_type": "Disruption",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Low-Intensity",
+            "Engagement Zone"
+        ],
+        "book": "No books",
+        "started_time": "12.3 hours ago",
+        "mmt_code": "/mmtimport beb726dd-ca80-48c4-8386-f4273800e1f0"
+    },
+    {
+        "map_name": "Smelter Complex HL-17-36",
+        "mission_type": "Strike",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Hi-Intensity",
+            "Ventilation Purge"
+        ],
+        "book": "Seize Grimoires",
+        "started_time": "12.2 hours ago",
+        "mmt_code": "/mmtimport d61f2a44-fc55-4737-9012-c62e1c78612e"
+    },
+    {
+        "map_name": "Power Matrix HL-17-36",
+        "mission_type": "Repair",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Default"
+        ],
+        "book": "No books",
+        "started_time": "12.1 hours ago",
+        "mmt_code": "/mmtimport 8111b2e5-9513-4432-85bb-bae62b4ea6a0"
+    },
+    {
+        "map_name": "Clandestium Gloriana",
+        "mission_type": "Repair",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Default"
+        ],
+        "book": "Seize Grimoires",
+        "started_time": "12.1 hours ago",
+        "mmt_code": "/mmtimport c02e1076-5cd0-4b7e-9f17-a761ea641e31"
+    },
+    {
+        "map_name": "Magistrati Oubliette TM8-707",
+        "mission_type": "Assassination",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Hi-Intensity",
+            "Engagement Zone"
+        ],
+        "book": "No books",
+        "started_time": "12 hours ago",
+        "mmt_code": "/mmtimport fde03db2-f4f2-464c-97d2-8063ba224c27"
+    },
+    {
+        "map_name": "Excise Vault Spireside-13",
+        "mission_type": "Raid",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Hi-Intensity",
+            "Shock Troop"
+        ],
+        "book": "No books",
+        "started_time": "11.9 hours ago",
+        "mmt_code": "/mmtimport a1916846-dfe3-4749-9dba-dc0b5bfa797b"
+    },
+    {
+        "map_name": "Hab Dreyko",
+        "mission_type": "Investigation",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Default"
+        ],
+        "book": "No books",
+        "started_time": "11.9 hours ago",
+        "mmt_code": "/mmtimport 8c39c886-459d-457c-8478-7a0ac4aa72bb"
+    },
+    {
+        "map_name": "Smelter Complex HL-17-36",
+        "mission_type": "Strike",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Default"
+        ],
+        "book": "Seize Grimoires",
+        "started_time": "11.8 hours ago",
+        "mmt_code": "/mmtimport 143977bb-c5d7-435e-a27d-f425162c2a33"
+    },
+    {
+        "map_name": "Enclavum Baross",
+        "mission_type": "Strike",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Hi-Intensity",
+            "Engagement Zone"
+        ],
+        "book": "Seize Grimoires",
+        "started_time": "11.7 hours ago",
+        "mmt_code": "/mmtimport b14d5bb8-825b-48ab-84ca-58994e717e45"
+    },
+    {
+        "map_name": "Consignment Yard HL-17-36",
+        "mission_type": "Raid",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Default"
+        ],
+        "book": "No books",
+        "started_time": "11.6 hours ago",
+        "mmt_code": "/mmtimport 8d700bbd-7121-4f2b-979d-485b9cce9603"
+    },
+    {
+        "map_name": "Magistrati Oubliette TM8-707",
+        "mission_type": "Assassination",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Hunting Grounds"
+        ],
+        "book": "No books",
+        "started_time": "11.6 hours ago",
+        "mmt_code": "/mmtimport 98d6bb4c-1bde-4824-ad46-b03f2ca39e4f"
+    },
+    {
+        "map_name": "Power Matrix HL-17-36",
+        "mission_type": "Repair",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Hi-Intensity",
+            "Hunting Grounds"
+        ],
+        "book": "No books",
+        "started_time": "11.5 hours ago",
+        "mmt_code": "/mmtimport 24c8ff1a-904b-47d0-93b5-54a01dab173e"
+    },
+    {
+        "map_name": "Vigil Station Oblivium",
+        "mission_type": "Espionage",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Low-Intensity",
+            "Engagement Zone"
+        ],
+        "book": "Recover Scriptures",
+        "started_time": "11.5 hours ago",
+        "mmt_code": "/mmtimport 44996fbd-e5c8-4946-bbc6-7dd6c546534d"
+    },
+    {
+        "map_name": "Enclavum Baross",
+        "mission_type": "Strike",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Default"
+        ],
+        "book": "No books",
+        "started_time": "11.4 hours ago",
+        "mmt_code": "/mmtimport e0d481a3-3835-4e5f-acad-274f68936f68"
+    },
+    {
+        "map_name": "Relay Station TRS-150",
+        "mission_type": "Disruption",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Monstrous",
+            "Shock Troop"
+        ],
+        "book": "No books",
+        "started_time": "11.4 hours ago",
+        "mmt_code": "/mmtimport 24c31136-e158-4dd1-90c6-98521809a43f"
+    },
+    {
+        "map_name": "Ascension Riser 31",
+        "mission_type": "Raid",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Default"
+        ],
+        "book": "Seize Grimoires",
+        "started_time": "11.3 hours ago",
+        "mmt_code": "/mmtimport f0068101-6c1d-45d0-8b16-20b05a44ab99"
+    },
+    {
+        "map_name": "Archivum Sycorax",
+        "mission_type": "Espionage",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Low-Intensity",
+            "Engagement Zone"
+        ],
+        "book": "No books",
+        "started_time": "11.2 hours ago",
+        "mmt_code": "/mmtimport e2315a9e-5941-4499-af9c-bba73cd7b337"
+    },
+    {
+        "map_name": "Hab Dreyko",
+        "mission_type": "Investigation",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Low-Intensity",
+            "Engagement Zone"
+        ],
+        "book": "Recover Scriptures",
+        "started_time": "11.2 hours ago",
+        "mmt_code": "/mmtimport 7c00bfb9-1494-4c98-a67b-7c90634a5a3e"
+    },
+    {
+        "map_name": "Mercantile HL-70-04",
+        "mission_type": "Raid",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Default"
+        ],
+        "book": "No books",
+        "started_time": "11.1 hours ago",
+        "mmt_code": "/mmtimport eea313de-0366-4435-9188-846e70accd53"
+    },
+    {
+        "map_name": "km_enforcer_twins",
+        "mission_type": "Special",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Twin Toxic Gas"
+        ],
+        "book": "No books",
+        "started_time": "11.1 hours ago",
+        "mmt_code": "/mmtimport a1a88b5d-13e3-411c-9add-aa2b8bc0caf5"
+    },
+    {
+        "map_name": "Vigil Station Oblivium",
+        "mission_type": "Espionage",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Hunting Grounds"
+        ],
+        "book": "Seize Grimoires",
+        "started_time": "11 hours ago",
+        "mmt_code": "/mmtimport 7c522145-2fd7-4276-b391-628e1ec1ae05"
+    },
+    {
+        "map_name": "Smelter Complex HL-17-36",
+        "mission_type": "Strike",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Hunting Grounds"
+        ],
+        "book": "No books",
+        "started_time": "10.9 hours ago",
+        "mmt_code": "/mmtimport f35e99d5-3fe5-4f38-a214-4c8f330e7333"
+    },
+    {
+        "map_name": "Power Matrix HL-17-36",
+        "mission_type": "Repair",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Nurgle-Blessed",
+            "Hunting Grounds",
+            "Cooldowns Reduced"
+        ],
+        "book": "No books",
+        "started_time": "10.9 hours ago",
+        "mmt_code": "/mmtimport 18a98926-e6f5-496c-98fc-f47bf9c0b68f"
+    },
+    {
+        "map_name": "Hab Dreyko",
+        "mission_type": "Investigation",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Default"
+        ],
+        "book": "Recover Scriptures",
+        "started_time": "10.9 hours ago",
+        "mmt_code": "/mmtimport b477679a-5b5a-4ba9-b8ec-b8ef09336dd7"
+    },
+    {
+        "map_name": "Chasm Logistratum",
+        "mission_type": "Raid",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Default"
+        ],
+        "book": "No books",
+        "started_time": "10.9 hours ago",
+        "mmt_code": "/mmtimport ec7502bd-b856-4d6e-acdf-187a62736138"
+    },
+    {
+        "map_name": "Refinery Delta-17",
+        "mission_type": "Disruption",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Low-Intensity",
+            "Hunting Grounds"
+        ],
+        "book": "Recover Scriptures",
+        "started_time": "10.7 hours ago",
+        "mmt_code": "/mmtimport 274d77e1-8fd4-497f-ab3d-255c71cc9e46"
+    },
+    {
+        "map_name": "Archivum Sycorax",
+        "mission_type": "Espionage",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Default"
+        ],
+        "book": "No books",
+        "started_time": "10.6 hours ago",
+        "mmt_code": "/mmtimport c9176a99-d24e-482c-a31b-c005af38cfb6"
+    },
+    {
+        "map_name": "Ascension Riser 31",
+        "mission_type": "Raid",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Low-Intensity",
+            "Engagement Zone"
+        ],
+        "book": "No books",
+        "started_time": "10.6 hours ago",
+        "mmt_code": "/mmtimport b8d960b0-931f-4332-8a9e-803447d42824"
+    },
+    {
+        "map_name": "Smelter Complex HL-17-36",
+        "mission_type": "Strike",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Default"
+        ],
+        "book": "No books",
+        "started_time": "10.6 hours ago",
+        "mmt_code": "/mmtimport aaa33b13-2e37-4b80-acbf-5fa807b09281"
+    },
+    {
+        "map_name": "Enclavum Baross",
+        "mission_type": "Strike",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Monstrous",
+            "Shock Troop"
+        ],
+        "book": "No books",
+        "started_time": "10.4 hours ago",
+        "mmt_code": "/mmtimport f273a873-de5f-493b-99ee-e3ed8b92221b"
+    },
+    {
+        "map_name": "Warren 6-19",
+        "mission_type": "Disruption",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Default"
+        ],
+        "book": "No books",
+        "started_time": "10.4 hours ago",
+        "mmt_code": "/mmtimport fc7d4cc9-639c-492d-9b29-77a6f3e715e9"
+    },
+    {
+        "map_name": "Excise Vault Spireside-13",
+        "mission_type": "Raid",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Low-Intensity",
+            "Engagement Zone"
+        ],
+        "book": "No books",
+        "started_time": "10.3 hours ago",
+        "mmt_code": "/mmtimport fea63d32-13f7-4d68-a655-77920ae5d276"
+    },
+    {
+        "map_name": "Relay Station TRS-150",
+        "mission_type": "Disruption",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Low-Intensity",
+            "Engagement Zone"
+        ],
+        "book": "Recover Scriptures",
+        "started_time": "10.4 hours ago",
+        "mmt_code": "/mmtimport 7cee8d3e-5c2e-4213-9b03-04b72fc97b57"
+    },
+    {
+        "map_name": "Consignment Yard HL-17-36",
+        "mission_type": "Raid",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Hi-Intensity",
+            "Engagement Zone"
+        ],
+        "book": "Recover Scriptures",
+        "started_time": "10.3 hours ago",
+        "mmt_code": "/mmtimport 7dff6463-2672-434b-83e3-488bfef8e869"
+    },
+    {
+        "map_name": "Vigil Station Oblivium",
+        "mission_type": "Espionage",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Default"
+        ],
+        "book": "No books",
+        "started_time": "10.1 hours ago",
+        "mmt_code": "/mmtimport dfe393ee-c984-41c7-8e06-8f4e746b8838"
+    },
+    {
+        "map_name": "Clandestium Gloriana",
+        "mission_type": "Repair",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Default"
+        ],
+        "book": "No books",
+        "started_time": "10.1 hours ago",
+        "mmt_code": "/mmtimport edf062b5-32a3-4193-ab30-1f53b511a752"
+    },
+    {
+        "map_name": "Smelter Complex HL-17-36",
+        "mission_type": "Strike",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Low-Intensity",
+            "Engagement Zone"
+        ],
+        "book": "Seize Grimoires",
+        "started_time": "10.1 hours ago",
+        "mmt_code": "/mmtimport e0a7f427-7468-48e1-a483-9ac38e8a5370"
+    },
+    {
+        "map_name": "Archivum Sycorax",
+        "mission_type": "Espionage",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Shock Troop"
+        ],
+        "book": "Recover Scriptures",
+        "started_time": "10 hours ago",
+        "mmt_code": "/mmtimport 1add0518-e691-49a9-88c0-a08988998d21"
+    },
+    {
+        "map_name": "Warren 6-19",
+        "mission_type": "Disruption",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Monstrous",
+            "Shock Troop"
+        ],
+        "book": "No books",
+        "started_time": "10 hours ago",
+        "mmt_code": "/mmtimport d2eb6fe5-218e-44c1-96cd-45fa05e33d1f"
+    },
+    {
+        "map_name": "Silo Cluster 18-66/a",
+        "mission_type": "Strike",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Default"
+        ],
+        "book": "No books",
+        "started_time": "9.9 hours ago",
+        "mmt_code": "/mmtimport 3759cd8c-6646-409c-8c18-35bc08b59d71"
+    },
+    {
+        "map_name": "Chasm Station HL-16-11",
+        "mission_type": "Assassination",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Hi-Intensity",
+            "Engagement Zone"
+        ],
+        "book": "No books",
+        "started_time": "9.8 hours ago",
+        "mmt_code": "/mmtimport d8f36e47-ff5c-429a-8c32-57f691166fdf"
+    },
+    {
+        "map_name": "Clandestium Gloriana",
+        "mission_type": "Repair",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Low-Intensity",
+            "Hunting Grounds"
+        ],
+        "book": "Recover Scriptures",
+        "started_time": "9.7 hours ago",
+        "mmt_code": "/mmtimport a43d7daa-4a95-47fb-9a70-4da0a211cd35"
+    },
+    {
+        "map_name": "Hab Dreyko",
+        "mission_type": "Investigation",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Low-Intensity",
+            "Engagement Zone"
+        ],
+        "book": "Recover Scriptures",
+        "started_time": "9.7 hours ago",
+        "mmt_code": "/mmtimport 2dd4666a-4616-446e-b521-4f4430bd6f1e"
+    },
+    {
+        "map_name": "Consignment Yard HL-17-36",
+        "mission_type": "Raid",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Default"
+        ],
+        "book": "No books",
+        "started_time": "9.6 hours ago",
+        "mmt_code": "/mmtimport 790df3ac-6e3b-42e1-a6c2-261066e38a7c"
+    },
+    {
+        "map_name": "Vigil Station Oblivium",
+        "mission_type": "Espionage",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Shock Troop"
+        ],
+        "book": "No books",
+        "started_time": "9.5 hours ago",
+        "mmt_code": "/mmtimport a0c24c85-d5a0-4dc7-9504-e7109fa8c8c0"
+    },
+    {
+        "map_name": "Smelter Complex HL-17-36",
+        "mission_type": "Strike",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Default"
+        ],
+        "book": "No books",
+        "started_time": "9.5 hours ago",
+        "mmt_code": "/mmtimport 0fd5f6bd-2b74-41bf-a282-7551f3fd0e14"
+    },
+    {
+        "map_name": "Chasm Logistratum",
+        "mission_type": "Raid",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Nurgle-Blessed",
+            "Hunting Grounds",
+            "Cooldowns Reduced"
+        ],
+        "book": "No books",
+        "started_time": "9.5 hours ago",
+        "mmt_code": "/mmtimport c7070a4a-32de-4262-b048-1457cc01b126"
+    },
+    {
+        "map_name": "Clandestium Gloriana",
+        "mission_type": "Repair",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Low-Intensity",
+            "Hunting Grounds"
+        ],
+        "book": "Recover Scriptures",
+        "started_time": "9.4 hours ago",
+        "mmt_code": "/mmtimport 0f3e3bed-8d3b-410f-a8c2-4b231de844ce"
+    },
+    {
+        "map_name": "Consignment Yard HL-17-36",
+        "mission_type": "Raid",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Default"
+        ],
+        "book": "No books",
+        "started_time": "9.4 hours ago",
+        "mmt_code": "/mmtimport 260a1af6-9ee0-4014-8a1b-675dbfe9c5c9"
+    },
+    {
+        "map_name": "Chasm Station HL-16-11",
+        "mission_type": "Assassination",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Low-Intensity",
+            "Hunting Grounds"
+        ],
+        "book": "Seize Grimoires",
+        "started_time": "9.2 hours ago",
+        "mmt_code": "/mmtimport 850d671d-485f-45b9-8aed-5b8fe06dc725"
+    },
+    {
+        "map_name": "Power Matrix HL-17-36",
+        "mission_type": "Repair",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Default"
+        ],
+        "book": "No books",
+        "started_time": "9.2 hours ago",
+        "mmt_code": "/mmtimport 664a7cd4-c889-4f7b-827b-d5f4a6acdba5"
+    },
+    {
+        "map_name": "Relay Station TRS-150",
+        "mission_type": "Disruption",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Hi-Intensity",
+            "Engagement Zone"
+        ],
+        "book": "No books",
+        "started_time": "9.1 hours ago",
+        "mmt_code": "/mmtimport 8857914a-8a82-43ea-afab-7cc289a0b0f2"
+    },
+    {
+        "map_name": "Magistrati Oubliette TM8-707",
+        "mission_type": "Assassination",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Default"
+        ],
+        "book": "No books",
+        "started_time": "9.1 hours ago",
+        "mmt_code": "/mmtimport b85e6093-c1e9-4365-8a8a-1786a58d5343"
+    },
+    {
+        "map_name": "Silo Cluster 18-66/a",
+        "mission_type": "Strike",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Nurgle-Blessed",
+            "Hunting Grounds",
+            "Cooldowns Reduced"
+        ],
+        "book": "No books",
+        "started_time": "9.1 hours ago",
+        "mmt_code": "/mmtimport 3673edbe-b8b4-4307-a62e-1f5939315658"
+    },
+    {
+        "map_name": "Comms-Plex 154/2f",
+        "mission_type": "Espionage",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Hi-Intensity",
+            "Engagement Zone"
+        ],
+        "book": "Recover Scriptures",
+        "started_time": "9 hours ago",
+        "mmt_code": "/mmtimport 4b930d1a-00cf-4c82-90da-d02663fd6cb2"
+    },
+    {
+        "map_name": "Excise Vault Spireside-13",
+        "mission_type": "Raid",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Default"
+        ],
+        "book": "No books",
+        "started_time": "8.9 hours ago",
+        "mmt_code": "/mmtimport e51e6d81-7402-45a3-9684-26da422d12df"
+    },
+    {
+        "map_name": "Magistrati Oubliette TM8-707",
+        "mission_type": "Assassination",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Default"
+        ],
+        "book": "No books",
+        "started_time": "8.9 hours ago",
+        "mmt_code": "/mmtimport be094e36-f932-4af8-ba2d-ef22318e4b44"
+    },
+    {
+        "map_name": "Mercantile HL-70-04",
+        "mission_type": "Raid",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Low-Intensity",
+            "Engagement Zone"
+        ],
+        "book": "Recover Scriptures",
+        "started_time": "8.9 hours ago",
+        "mmt_code": "/mmtimport bf826c8d-e4c1-462e-be48-a635d3324868"
+    },
+    {
+        "map_name": "Enclavum Baross",
+        "mission_type": "Strike",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Low-Intensity",
+            "Hunting Grounds"
+        ],
+        "book": "Recover Scriptures",
+        "started_time": "8.7 hours ago",
+        "mmt_code": "/mmtimport c55b1486-962d-4e40-acf3-956e7724a141"
+    },
+    {
+        "map_name": "Power Matrix HL-17-36",
+        "mission_type": "Repair",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Default"
+        ],
+        "book": "No books",
+        "started_time": "8.6 hours ago",
+        "mmt_code": "/mmtimport 99a52354-7238-44cc-b579-a3b9fdd02151"
+    },
+    {
+        "map_name": "Chasm Station HL-16-11",
+        "mission_type": "Assassination",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Low-Intensity",
+            "Engagement Zone"
+        ],
+        "book": "No books",
+        "started_time": "8.6 hours ago",
+        "mmt_code": "/mmtimport 1d914654-0746-41e5-9558-4714c8b7c402"
+    },
+    {
+        "map_name": "Relay Station TRS-150",
+        "mission_type": "Disruption",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Low-Intensity",
+            "Hunting Grounds"
+        ],
+        "book": "Seize Grimoires",
+        "started_time": "8.5 hours ago",
+        "mmt_code": "/mmtimport df5c5279-4567-4376-9daf-1911f41967ec"
+    },
+    {
+        "map_name": "Excise Vault Spireside-13",
+        "mission_type": "Raid",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Low-Intensity",
+            "Shock Troop"
+        ],
+        "book": "No books",
+        "started_time": "8.4 hours ago",
+        "mmt_code": "/mmtimport b7608b97-2647-474e-bd84-4192de535fa5"
+    },
+    {
+        "map_name": "Refinery Delta-17",
+        "mission_type": "Disruption",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Default"
+        ],
+        "book": "No books",
+        "started_time": "8.4 hours ago",
+        "mmt_code": "/mmtimport 7d208068-1b54-4502-89f6-3f279ce1e08b"
+    },
+    {
+        "map_name": "Power Matrix HL-17-36",
+        "mission_type": "Repair",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Default"
+        ],
+        "book": "No books",
+        "started_time": "8.3 hours ago",
+        "mmt_code": "/mmtimport f076a557-e675-4d2b-a036-a9781fa7cda2"
+    },
+    {
+        "map_name": "Ascension Riser 31",
+        "mission_type": "Raid",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Low-Intensity",
+            "Shock Troop"
+        ],
+        "book": "Recover Scriptures",
+        "started_time": "8.2 hours ago",
+        "mmt_code": "/mmtimport 587062b7-a94e-4557-9141-6a985eb13d07"
+    },
+    {
+        "map_name": "Clandestium Gloriana",
+        "mission_type": "Repair",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Shock Troop"
+        ],
+        "book": "Recover Scriptures",
+        "started_time": "8.1 hours ago",
+        "mmt_code": "/mmtimport eca78e5b-ba6a-4f04-9de4-eb9ac8367196"
+    },
+    {
+        "map_name": "Chasm Station HL-16-11",
+        "mission_type": "Assassination",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Default"
+        ],
+        "book": "No books",
+        "started_time": "8.1 hours ago",
+        "mmt_code": "/mmtimport c412f53d-558c-44cb-af7a-a6c0f94d1910"
+    },
+    {
+        "map_name": "Excise Vault Spireside-13",
+        "mission_type": "Raid",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Default"
+        ],
+        "book": "Seize Grimoires",
+        "started_time": "8 hours ago",
+        "mmt_code": "/mmtimport da641138-99d7-4c49-8fab-d6800e49a55a"
+    },
+    {
+        "map_name": "Enclavum Baross",
+        "mission_type": "Strike",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Low-Intensity",
+            "Engagement Zone"
+        ],
+        "book": "No books",
+        "started_time": "8 hours ago",
+        "mmt_code": "/mmtimport 6c260657-7713-4804-b4c7-38a07a320d6a"
+    },
+    {
+        "map_name": "Warren 6-19",
+        "mission_type": "Disruption",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Default"
+        ],
+        "book": "No books",
+        "started_time": "7.9 hours ago",
+        "mmt_code": "/mmtimport 19b55fdb-8fd4-44f0-8ea4-b5e47d30aca1"
+    },
+    {
+        "map_name": "Chasm Station HL-16-11",
+        "mission_type": "Assassination",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Low-Intensity",
+            "Shock Troop"
+        ],
+        "book": "No books",
+        "started_time": "7.8 hours ago",
+        "mmt_code": "/mmtimport 120441ac-4bd2-4962-94b7-a29ba336769e"
+    },
+    {
+        "map_name": "Clandestium Gloriana",
+        "mission_type": "Repair",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Shock Troop",
+            "Melee",
+            "Scab Enemies Only"
+        ],
+        "book": "No books",
+        "started_time": "7.7 hours ago",
+        "mmt_code": "/mmtimport 515e81ad-4a7d-404c-9a62-60685c691b06"
+    },
+    {
+        "map_name": "Mercantile HL-70-04",
+        "mission_type": "Raid",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Ventilation Purge"
+        ],
+        "book": "No books",
+        "started_time": "7.7 hours ago",
+        "mmt_code": "/mmtimport 89c6b558-891b-4ecd-bca2-dd285fc57b4e"
+    },
+    {
+        "map_name": "Relay Station TRS-150",
+        "mission_type": "Disruption",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Default"
+        ],
+        "book": "Recover Scriptures",
+        "started_time": "7.7 hours ago",
+        "mmt_code": "/mmtimport 6d1de2b8-8abd-4b41-8c85-51bec56ab114"
+    },
+    {
+        "map_name": "Enclavum Baross",
+        "mission_type": "Strike",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Default"
+        ],
+        "book": "No books",
+        "started_time": "7.6 hours ago",
+        "mmt_code": "/mmtimport aece34e4-a56c-4817-8af6-e18cb1d11d1d"
+    },
+    {
+        "map_name": "Magistrati Oubliette TM8-707",
+        "mission_type": "Assassination",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Hunting Grounds"
+        ],
+        "book": "No books",
+        "started_time": "7.5 hours ago",
+        "mmt_code": "/mmtimport e908974d-309a-4ce2-990a-74181738c099"
+    },
+    {
+        "map_name": "Chasm Logistratum",
+        "mission_type": "Raid",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Low-Intensity",
+            "Hunting Grounds"
+        ],
+        "book": "Recover Scriptures",
+        "started_time": "7.4 hours ago",
+        "mmt_code": "/mmtimport b7af7db2-fa31-4012-bae4-99266860cb35"
+    },
+    {
+        "map_name": "Consignment Yard HL-17-36",
+        "mission_type": "Raid",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Default"
+        ],
+        "book": "No books",
+        "started_time": "7.4 hours ago",
+        "mmt_code": "/mmtimport af9a3c2e-7d25-4689-b4f1-14472bfcc283"
+    },
+    {
+        "map_name": "Power Matrix HL-17-36",
+        "mission_type": "Repair",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Default"
+        ],
+        "book": "Seize Grimoires",
+        "started_time": "7.4 hours ago",
+        "mmt_code": "/mmtimport 8de8aede-8571-4929-9881-aebd3dafc0c5"
+    },
+    {
+        "map_name": "Archivum Sycorax",
+        "mission_type": "Espionage",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Monstrous",
+            "Shock Troop"
+        ],
+        "book": "No books",
+        "started_time": "7.3 hours ago",
+        "mmt_code": "/mmtimport 009ae76b-f162-450f-90dc-448de3ad4c14"
+    },
+    {
+        "map_name": "Silo Cluster 18-66/a",
+        "mission_type": "Strike",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Low-Intensity",
+            "Engagement Zone"
+        ],
+        "book": "No books",
+        "started_time": "7.2 hours ago",
+        "mmt_code": "/mmtimport 31cce378-e1d9-4bd6-a86e-c54fbc895c93"
+    },
+    {
+        "map_name": "Enclavum Baross",
+        "mission_type": "Strike",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Default"
+        ],
+        "book": "No books",
+        "started_time": "7.1 hours ago",
+        "mmt_code": "/mmtimport aa9331d5-5efe-4e4e-ab3d-1576cc19c958"
+    },
+    {
+        "map_name": "Clandestium Gloriana",
+        "mission_type": "Repair",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Hi-Intensity",
+            "Hunting Grounds"
+        ],
+        "book": "Recover Scriptures",
+        "started_time": "7.1 hours ago",
+        "mmt_code": "/mmtimport 8ddc72a8-de00-4149-ad1b-77b362978aca"
+    },
+    {
+        "map_name": "Relay Station TRS-150",
+        "mission_type": "Disruption",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Default"
+        ],
+        "book": "Recover Scriptures",
+        "started_time": "7 hours ago",
+        "mmt_code": "/mmtimport b0969dd3-8784-4961-bc9d-db0c2b8aefcd"
+    },
+    {
+        "map_name": "Ascension Riser 31",
+        "mission_type": "Raid",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Low-Intensity",
+            "Shock Troop"
+        ],
+        "book": "No books",
+        "started_time": "7 hours ago",
+        "mmt_code": "/mmtimport 3b405198-e994-4de1-9dab-057175e55b9c"
+    },
+    {
+        "map_name": "Hab Dreyko",
+        "mission_type": "Investigation",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Default"
+        ],
+        "book": "No books",
+        "started_time": "6.9 hours ago",
+        "mmt_code": "/mmtimport ba1f1522-91b4-485c-8f8f-fc03d5077104"
+    },
+    {
+        "map_name": "Archivum Sycorax",
+        "mission_type": "Espionage",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Hunting Grounds"
+        ],
+        "book": "No books",
+        "started_time": "6.8 hours ago",
+        "mmt_code": "/mmtimport 2efa04d8-d95f-419b-bb69-e344b02cc118"
+    },
+    {
+        "map_name": "Clandestium Gloriana",
+        "mission_type": "Repair",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Hi-Intensity",
+            "Engagement Zone"
+        ],
+        "book": "Seize Grimoires",
+        "started_time": "6.7 hours ago",
+        "mmt_code": "/mmtimport af7a1f1c-8bb2-4786-8615-4b14326af5e8"
+    },
+    {
+        "map_name": "Relay Station TRS-150",
+        "mission_type": "Disruption",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Default"
+        ],
+        "book": "No books",
+        "started_time": "6.7 hours ago",
+        "mmt_code": "/mmtimport 01f0a27d-430a-4e4b-a7de-defefe06977c"
+    },
+    {
+        "map_name": "Power Matrix HL-17-36",
+        "mission_type": "Repair",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Default"
+        ],
+        "book": "No books",
+        "started_time": "6.6 hours ago",
+        "mmt_code": "/mmtimport fc5f3ec4-4214-4b64-9053-97589e02c4c9"
+    },
+    {
+        "map_name": "Archivum Sycorax",
+        "mission_type": "Espionage",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Hi-Intensity",
+            "Engagement Zone"
+        ],
+        "book": "No books",
+        "started_time": "6.4 hours ago",
+        "mmt_code": "/mmtimport 47a04599-a3a0-4465-8915-0c34118d1709"
+    },
+    {
+        "map_name": "Enclavum Baross",
+        "mission_type": "Strike",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Default"
+        ],
+        "book": "No books",
+        "started_time": "6.4 hours ago",
+        "mmt_code": "/mmtimport 077128fb-63e3-4272-b584-b62511200b79"
+    },
+    {
+        "map_name": "Magistrati Oubliette TM8-707",
+        "mission_type": "Assassination",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Low-Intensity",
+            "Engagement Zone"
+        ],
+        "book": "Recover Scriptures",
+        "started_time": "6.4 hours ago",
+        "mmt_code": "/mmtimport 64f2df73-7cb7-46ab-9ddb-349e482afeb6"
+    },
+    {
+        "map_name": "Vigil Station Oblivium",
+        "mission_type": "Espionage",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Default"
+        ],
+        "book": "No books",
+        "started_time": "6.4 hours ago",
+        "mmt_code": "/mmtimport b174481e-521e-43fb-82f8-d2179d6e6038"
+    },
+    {
+        "map_name": "Smelter Complex HL-17-36",
+        "mission_type": "Strike",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Shock Troop"
+        ],
+        "book": "No books",
+        "started_time": "6.2 hours ago",
+        "mmt_code": "/mmtimport ee28988f-6b84-45db-bdf0-a7754ceec2b2"
+    },
+    {
+        "map_name": "Relay Station TRS-150",
+        "mission_type": "Disruption",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Default"
+        ],
+        "book": "No books",
+        "started_time": "6.1 hours ago",
+        "mmt_code": "/mmtimport a4f4f659-8d41-415a-a8b9-379a7c737e3f"
+    },
+    {
+        "map_name": "Warren 6-19",
+        "mission_type": "Disruption",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Default"
+        ],
+        "book": "Seize Grimoires",
+        "started_time": "6.1 hours ago",
+        "mmt_code": "/mmtimport e391839d-486b-4e72-b322-68e915a6f082"
+    },
+    {
+        "map_name": "Comms-Plex 154/2f",
+        "mission_type": "Espionage",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Low-Intensity",
+            "Shock Troop"
+        ],
+        "book": "Recover Scriptures",
+        "started_time": "6.1 hours ago",
+        "mmt_code": "/mmtimport 806eef9e-1cde-4d52-90e0-3c45f848db41"
+    },
+    {
+        "map_name": "Vigil Station Oblivium",
+        "mission_type": "Espionage",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Default"
+        ],
+        "book": "No books",
+        "started_time": "5.9 hours ago",
+        "mmt_code": "/mmtimport 7ed6fda4-46d2-4070-a7b4-2d211b93eb41"
+    },
+    {
+        "map_name": "Excise Vault Spireside-13",
+        "mission_type": "Raid",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Hi-Intensity",
+            "Shock Troop"
+        ],
+        "book": "No books",
+        "started_time": "5.8 hours ago",
+        "mmt_code": "/mmtimport 98e67840-e011-4f8c-94ad-05b9f6ec57ae"
+    },
+    {
+        "map_name": "Mercantile HL-70-04",
+        "mission_type": "Raid",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Hi-Intensity",
+            "Hunting Grounds"
+        ],
+        "book": "No books",
+        "started_time": "5.8 hours ago",
+        "mmt_code": "/mmtimport c95cd0d8-2c84-4330-9967-7a039ff9b1bc"
+    },
+    {
+        "map_name": "Archivum Sycorax",
+        "mission_type": "Espionage",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Shock Troop"
+        ],
+        "book": "Seize Grimoires",
+        "started_time": "5.8 hours ago",
+        "mmt_code": "/mmtimport d8a89de9-5aed-4e6e-96a9-b7d4a1279d5e"
+    },
+    {
+        "map_name": "Warren 6-19",
+        "mission_type": "Disruption",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Default"
+        ],
+        "book": "No books",
+        "started_time": "5.6 hours ago",
+        "mmt_code": "/mmtimport e13824f8-974b-441c-8f3b-bb248e721f5c"
+    },
+    {
+        "map_name": "Consignment Yard HL-17-36",
+        "mission_type": "Raid",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Low-Intensity",
+            "Engagement Zone"
+        ],
+        "book": "No books",
+        "started_time": "5.5 hours ago",
+        "mmt_code": "/mmtimport e5a47d47-9731-4986-bcc6-37f7ec338738"
+    },
+    {
+        "map_name": "Hab Dreyko",
+        "mission_type": "Investigation",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Low-Intensity",
+            "Engagement Zone"
+        ],
+        "book": "Seize Grimoires",
+        "started_time": "5.5 hours ago",
+        "mmt_code": "/mmtimport eb014547-89d9-44a8-b03c-594fbeb778d5"
+    },
+    {
+        "map_name": "Power Matrix HL-17-36",
+        "mission_type": "Repair",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Low-Intensity",
+            "Hunting Grounds"
+        ],
+        "book": "No books",
+        "started_time": "5.5 hours ago",
+        "mmt_code": "/mmtimport c08a0b01-2169-4520-8fd9-c0695ad4c3a6"
+    },
+    {
+        "map_name": "Ascension Riser 31",
+        "mission_type": "Raid",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Default"
+        ],
+        "book": "No books",
+        "started_time": "5.4 hours ago",
+        "mmt_code": "/mmtimport cf2e66ae-746f-4cba-90da-ec9503af5c0d"
+    },
+    {
+        "map_name": "Warren 6-19",
+        "mission_type": "Disruption",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Shock Troop"
+        ],
+        "book": "Recover Scriptures",
+        "started_time": "5.2 hours ago",
+        "mmt_code": "/mmtimport 987901ad-022c-415e-a0cf-43067888fc34"
+    },
+    {
+        "map_name": "Chasm Station HL-16-11",
+        "mission_type": "Assassination",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Hi-Intensity",
+            "Engagement Zone"
+        ],
+        "book": "No books",
+        "started_time": "5.2 hours ago",
+        "mmt_code": "/mmtimport 9f2e8a37-b0c6-40cc-9ded-459efa63942c"
+    },
+    {
+        "map_name": "Comms-Plex 154/2f",
+        "mission_type": "Espionage",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Hunting Grounds"
+        ],
+        "book": "No books",
+        "started_time": "5.2 hours ago",
+        "mmt_code": "/mmtimport 3c3da0b6-3eca-4c56-afd2-bc3f9d530908"
+    },
+    {
+        "map_name": "Clandestium Gloriana",
+        "mission_type": "Repair",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Default"
+        ],
+        "book": "No books",
+        "started_time": "5.1 hours ago",
+        "mmt_code": "/mmtimport 27bb35ed-ce2b-4236-8d63-4e7041b7ad85"
+    },
+    {
+        "map_name": "Chasm Logistratum",
+        "mission_type": "Raid",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Shock Troop"
+        ],
+        "book": "Seize Grimoires",
+        "started_time": "5 hours ago",
+        "mmt_code": "/mmtimport 06441206-5693-4596-8696-53486641f651"
+    },
+    {
+        "map_name": "Archivum Sycorax",
+        "mission_type": "Espionage",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Default"
+        ],
+        "book": "No books",
+        "started_time": "4.9 hours ago",
+        "mmt_code": "/mmtimport 33d1288a-535e-4d0b-a01b-3b2aaa35a9f7"
+    },
+    {
+        "map_name": "Excise Vault Spireside-13",
+        "mission_type": "Raid",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Low-Intensity",
+            "Engagement Zone"
+        ],
+        "book": "Seize Grimoires",
+        "started_time": "4.9 hours ago",
+        "mmt_code": "/mmtimport f745ed2d-33aa-4f85-b85f-f6553b867bf2"
+    },
+    {
+        "map_name": "Vigil Station Oblivium",
+        "mission_type": "Espionage",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Default"
+        ],
+        "book": "No books",
+        "started_time": "4.9 hours ago",
+        "mmt_code": "/mmtimport 0fea8cb3-5ab1-4a39-94c3-cad0fa0ea9e5"
+    },
+    {
+        "map_name": "Smelter Complex HL-17-36",
+        "mission_type": "Strike",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Hi-Intensity",
+            "Hunting Grounds"
+        ],
+        "book": "Recover Scriptures",
+        "started_time": "4.7 hours ago",
+        "mmt_code": "/mmtimport b52c1263-8474-4c02-9bbe-ff3377d0e6e9"
+    },
+    {
+        "map_name": "Enclavum Baross",
+        "mission_type": "Strike",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Default"
+        ],
+        "book": "No books",
+        "started_time": "4.6 hours ago",
+        "mmt_code": "/mmtimport d540172a-cb68-4d4a-91de-7a3ee3fd508f"
+    },
+    {
+        "map_name": "Ascension Riser 31",
+        "mission_type": "Raid",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Low-Intensity",
+            "Engagement Zone"
+        ],
+        "book": "Recover Scriptures",
+        "started_time": "4.6 hours ago",
+        "mmt_code": "/mmtimport 08966e90-8035-4e8f-96ea-07f186647a92"
+    },
+    {
+        "map_name": "Hab Dreyko",
+        "mission_type": "Investigation",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Shock Troop"
+        ],
+        "book": "No books",
+        "started_time": "4.6 hours ago",
+        "mmt_code": "/mmtimport 07d1b6d4-8bf9-4ff0-a413-bd781ad0369e"
+    },
+    {
+        "map_name": "Magistrati Oubliette TM8-707",
+        "mission_type": "Assassination",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Low-Intensity",
+            "Shock Troop"
+        ],
+        "book": "Seize Grimoires",
+        "started_time": "4.4 hours ago",
+        "mmt_code": "/mmtimport bebaa6b0-8888-4346-8606-7b4cc293e479"
+    },
+    {
+        "map_name": "Power Matrix HL-17-36",
+        "mission_type": "Repair",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Default"
+        ],
+        "book": "No books",
+        "started_time": "4.4 hours ago",
+        "mmt_code": "/mmtimport 7e824e8b-2a5d-485b-b70d-1848af00d4ac"
+    },
+    {
+        "map_name": "Relay Station TRS-150",
+        "mission_type": "Disruption",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Hi-Intensity",
+            "Engagement Zone"
+        ],
+        "book": "Recover Scriptures",
+        "started_time": "4.3 hours ago",
+        "mmt_code": "/mmtimport 096a466e-c834-4eff-8c7b-2da576481e5b"
+    },
+    {
+        "map_name": "Enclavum Baross",
+        "mission_type": "Strike",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Hunting Grounds"
+        ],
+        "book": "No books",
+        "started_time": "4.3 hours ago",
+        "mmt_code": "/mmtimport 6881f05e-6a49-4ab2-8f0a-539da8258042"
+    },
+    {
+        "map_name": "Vigil Station Oblivium",
+        "mission_type": "Espionage",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Default"
+        ],
+        "book": "No books",
+        "started_time": "4.1 hours ago",
+        "mmt_code": "/mmtimport 470390a5-de04-44ff-9acb-5e0ee94b9c6d"
+    },
+    {
+        "map_name": "Clandestium Gloriana",
+        "mission_type": "Repair",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Shock Troop"
+        ],
+        "book": "No books",
+        "started_time": "4.1 hours ago",
+        "mmt_code": "/mmtimport dc70fba3-2f5c-4956-a215-b0ee6f1aecbf"
+    },
+    {
+        "map_name": "Ascension Riser 31",
+        "mission_type": "Raid",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Shock Troop"
+        ],
+        "book": "Recover Scriptures",
+        "started_time": "4 hours ago",
+        "mmt_code": "/mmtimport 357069ce-5ecf-4fb8-8703-70159cd6c720"
+    },
+    {
+        "map_name": "Power Matrix HL-17-36",
+        "mission_type": "Repair",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Mutants",
+            "Poxbursters",
+            "Hunting Grounds",
+            "Grenades",
+            "Barrels"
+        ],
+        "book": "No books",
+        "started_time": "4 hours ago",
+        "mmt_code": "/mmtimport 8e4444d6-e931-4239-a875-9fab3494755f"
+    },
+    {
+        "map_name": "Mercantile HL-70-04",
+        "mission_type": "Raid",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Default"
+        ],
+        "book": "Recover Scriptures",
+        "started_time": "3.9 hours ago",
+        "mmt_code": "/mmtimport 3fa2eee9-25e8-4768-821d-89294eceaead"
+    },
+    {
+        "map_name": "Smelter Complex HL-17-36",
+        "mission_type": "Strike",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Default"
+        ],
+        "book": "No books",
+        "started_time": "3.9 hours ago",
+        "mmt_code": "/mmtimport 51b1974a-6d7f-49d4-a3b2-bfbafe140faa"
+    },
+    {
+        "map_name": "Chasm Station HL-16-11",
+        "mission_type": "Assassination",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Low-Intensity",
+            "Shock Troop"
+        ],
+        "book": "No books",
+        "started_time": "3.9 hours ago",
+        "mmt_code": "/mmtimport 6a4214d5-fab3-4646-ab2a-fc19a65f9222"
+    },
+    {
+        "map_name": "Archivum Sycorax",
+        "mission_type": "Espionage",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Low-Intensity",
+            "Engagement Zone"
+        ],
+        "book": "No books",
+        "started_time": "3.7 hours ago",
+        "mmt_code": "/mmtimport cb7f25ce-85d1-4872-b0b5-1a88ba194232"
+    },
+    {
+        "map_name": "Ascension Riser 31",
+        "mission_type": "Raid",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Low-Intensity",
+            "Hunting Grounds"
+        ],
+        "book": "Recover Scriptures",
+        "started_time": "3.6 hours ago",
+        "mmt_code": "/mmtimport 04e122bf-ded1-45a8-b3b7-0ce49f9aebd4"
+    },
+    {
+        "map_name": "Vigil Station Oblivium",
+        "mission_type": "Espionage",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Default"
+        ],
+        "book": "No books",
+        "started_time": "3.6 hours ago",
+        "mmt_code": "/mmtimport efe1b8d2-eff3-4464-ae8b-1a5757e397bb"
+    },
+    {
+        "map_name": "Magistrati Oubliette TM8-707",
+        "mission_type": "Assassination",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Low-Intensity",
+            "Engagement Zone"
+        ],
+        "book": "No books",
+        "started_time": "3.5 hours ago",
+        "mmt_code": "/mmtimport 44cfa55a-3367-4581-9990-638c26b91861"
+    },
+    {
+        "map_name": "Power Matrix HL-17-36",
+        "mission_type": "Repair",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Nurgle-Blessed",
+            "Shock Troop"
+        ],
+        "book": "No books",
+        "started_time": "3.5 hours ago",
+        "mmt_code": "/mmtimport c4569427-cf52-4c52-a1c3-6240a9099714"
+    },
+    {
+        "map_name": "Chasm Station HL-16-11",
+        "mission_type": "Assassination",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Default"
+        ],
+        "book": "No books",
+        "started_time": "3.5 hours ago",
+        "mmt_code": "/mmtimport 6be8ca69-d1fc-4ab0-8555-93dd72736b86"
+    },
+    {
+        "map_name": "Refinery Delta-17",
+        "mission_type": "Disruption",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Default"
+        ],
+        "book": "No books",
+        "started_time": "3.4 hours ago",
+        "mmt_code": "/mmtimport 385f97b7-1290-4c01-9ff7-ab33a1f39241"
+    },
+    {
+        "map_name": "Relay Station TRS-150",
+        "mission_type": "Disruption",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Hi-Intensity",
+            "Shock Troop"
+        ],
+        "book": "Recover Scriptures",
+        "started_time": "3.3 hours ago",
+        "mmt_code": "/mmtimport cabadc8a-64ca-4e58-ba1b-9bbd1950b896"
+    },
+    {
+        "map_name": "Silo Cluster 18-66/a",
+        "mission_type": "Strike",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Low-Intensity",
+            "Shock Troop"
+        ],
+        "book": "Recover Scriptures",
+        "started_time": "3.2 hours ago",
+        "mmt_code": "/mmtimport 57cf3715-6da0-426c-95ce-8e0bdab4ac59"
+    },
+    {
+        "map_name": "Excise Vault Spireside-13",
+        "mission_type": "Raid",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Default"
+        ],
+        "book": "No books",
+        "started_time": "3.1 hours ago",
+        "mmt_code": "/mmtimport ea453eeb-0b8b-4967-a1a2-20b92f651e7f"
+    },
+    {
+        "map_name": "Chasm Station HL-16-11",
+        "mission_type": "Assassination",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Default"
+        ],
+        "book": "No books",
+        "started_time": "3.1 hours ago",
+        "mmt_code": "/mmtimport 39c2d7fd-58a8-4d38-a168-5285273eba00"
+    },
+    {
+        "map_name": "Hab Dreyko",
+        "mission_type": "Investigation",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Low-Intensity",
+            "Ventilation Purge"
+        ],
+        "book": "Recover Scriptures",
+        "started_time": "3 hours ago",
+        "mmt_code": "/mmtimport af7e0453-e39b-4805-b446-3918449aae57"
+    },
+    {
+        "map_name": "Comms-Plex 154/2f",
+        "mission_type": "Espionage",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Low-Intensity",
+            "Engagement Zone"
+        ],
+        "book": "No books",
+        "started_time": "3 hours ago",
+        "mmt_code": "/mmtimport 0c403b72-f9a8-4b4d-9d1e-8fca59ef43b5"
+    },
+    {
+        "map_name": "Excise Vault Spireside-13",
+        "mission_type": "Raid",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Low-Intensity",
+            "Shock Troop"
+        ],
+        "book": "No books",
+        "started_time": "2.9 hours ago",
+        "mmt_code": "/mmtimport 77c2659c-4f19-40b0-9da4-458c3cacde53"
+    },
+    {
+        "map_name": "Smelter Complex HL-17-36",
+        "mission_type": "Strike",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Default"
+        ],
+        "book": "No books",
+        "started_time": "2.9 hours ago",
+        "mmt_code": "/mmtimport 1be5bb50-9322-4203-8a7b-7b29287c726d"
+    },
+    {
+        "map_name": "Mercantile HL-70-04",
+        "mission_type": "Raid",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Hi-Intensity",
+            "Hunting Grounds"
+        ],
+        "book": "Seize Grimoires",
+        "started_time": "2.7 hours ago",
+        "mmt_code": "/mmtimport c35026ed-5b5a-43e9-a7b0-2bc02cfe2407"
+    },
+    {
+        "map_name": "Comms-Plex 154/2f",
+        "mission_type": "Espionage",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Default"
+        ],
+        "book": "No books",
+        "started_time": "2.7 hours ago",
+        "mmt_code": "/mmtimport 852a3e7d-fa62-4674-99a9-bade79ca8c53"
+    },
+    {
+        "map_name": "Archivum Sycorax",
+        "mission_type": "Espionage",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Monstrous",
+            "Shock Troop",
+            "Power Supply Interruption"
+        ],
+        "book": "No books",
+        "started_time": "2.7 hours ago",
+        "mmt_code": "/mmtimport ef960d95-ab8f-4d09-b2d5-8ca58a4fd513"
+    },
+    {
+        "map_name": "Chasm Station HL-16-11",
+        "mission_type": "Assassination",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Default"
+        ],
+        "book": "No books",
+        "started_time": "2.6 hours ago",
+        "mmt_code": "/mmtimport dc20ad4d-b3ad-4e97-900b-101f2ca70d27"
+    },
+    {
+        "map_name": "Silo Cluster 18-66/a",
+        "mission_type": "Strike",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Low-Intensity",
+            "Engagement Zone"
+        ],
+        "book": "Seize Grimoires",
+        "started_time": "2.6 hours ago",
+        "mmt_code": "/mmtimport 909d12f3-7345-4057-b8a0-82a119928eb0"
+    },
+    {
+        "map_name": "Enclavum Baross",
+        "mission_type": "Strike",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Hi-Intensity",
+            "Shock Troop"
+        ],
+        "book": "Recover Scriptures",
+        "started_time": "2.4 hours ago",
+        "mmt_code": "/mmtimport c8057e90-61a0-467e-8323-5ea058ebf6ab"
+    },
+    {
+        "map_name": "Hab Dreyko",
+        "mission_type": "Investigation",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Hi-Intensity",
+            "Hunting Grounds"
+        ],
+        "book": "No books",
+        "started_time": "2.4 hours ago",
+        "mmt_code": "/mmtimport 163bcbc5-a87e-4861-a8a1-5fb2ff141705"
+    },
+    {
+        "map_name": "Chasm Station HL-16-11",
+        "mission_type": "Assassination",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Default"
+        ],
+        "book": "No books",
+        "started_time": "2.4 hours ago",
+        "mmt_code": "/mmtimport 402411d2-6511-4bb7-a5f9-1f3a94b7daf6"
+    },
+    {
+        "map_name": "Vigil Station Oblivium",
+        "mission_type": "Espionage",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Default"
+        ],
+        "book": "No books",
+        "started_time": "2.3 hours ago",
+        "mmt_code": "/mmtimport 679310e2-9c65-48db-8a7f-0e39bb50335b"
+    },
+    {
+        "map_name": "Consignment Yard HL-17-36",
+        "mission_type": "Raid",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Shock Troop"
+        ],
+        "book": "No books",
+        "started_time": "2.1 hours ago",
+        "mmt_code": "/mmtimport 37ee1a32-4342-40c9-b689-f3a1b0fc3efe"
+    },
+    {
+        "map_name": "Power Matrix HL-17-36",
+        "mission_type": "Repair",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Low-Intensity Toxic Gas"
+        ],
+        "book": "Recover Scriptures",
+        "started_time": "2.1 hours ago",
+        "mmt_code": "/mmtimport 457c5877-aa66-437d-b2b2-2c96718d0aa7"
+    },
+    {
+        "map_name": "Magistrati Oubliette TM8-707",
+        "mission_type": "Assassination",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Default"
+        ],
+        "book": "No books",
+        "started_time": "2.1 hours ago",
+        "mmt_code": "/mmtimport c0e58c52-4b89-476f-9399-d5ec83f1169a"
+    },
+    {
+        "map_name": "Chasm Logistratum",
+        "mission_type": "Raid",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Hi-Intensity",
+            "Engagement Zone"
+        ],
+        "book": "No books",
+        "started_time": "2 hours ago",
+        "mmt_code": "/mmtimport ad8f7f37-6263-4cb5-836c-83b4330ae873"
+    },
+    {
+        "map_name": "Clandestium Gloriana",
+        "mission_type": "Repair",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Default"
+        ],
+        "book": "No books",
+        "started_time": "1.9 hours ago",
+        "mmt_code": "/mmtimport 90007d14-e396-4fff-91c2-3ae00f95e137"
+    },
+    {
+        "map_name": "Chasm Station HL-16-11",
+        "mission_type": "Assassination",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Low-Intensity",
+            "Ventilation Purge"
+        ],
+        "book": "No books",
+        "started_time": "1.8 hours ago",
+        "mmt_code": "/mmtimport 789e939f-9809-40c4-88cd-be02180b1786"
+    },
+    {
+        "map_name": "Hab Dreyko",
+        "mission_type": "Investigation",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Default"
+        ],
+        "book": "Seize Grimoires",
+        "started_time": "1.8 hours ago",
+        "mmt_code": "/mmtimport 01f9f14f-486b-474e-bb95-08e6bc1da0d4"
+    },
+    {
+        "map_name": "Excise Vault Spireside-13",
+        "mission_type": "Raid",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Hi-Intensity",
+            "Engagement Zone"
+        ],
+        "book": "Recover Scriptures",
+        "started_time": "1.7 hours ago",
+        "mmt_code": "/mmtimport 4e6a845c-6cd9-409c-a843-5f8eb8107723"
+    },
+    {
+        "map_name": "Chasm Logistratum",
+        "mission_type": "Raid",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Monstrous",
+            "Shock Troop"
+        ],
+        "book": "No books",
+        "started_time": "1.7 hours ago",
+        "mmt_code": "/mmtimport b7de1771-d629-44c5-b010-8b545902c577"
+    },
+    {
+        "map_name": "Consignment Yard HL-17-36",
+        "mission_type": "Raid",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Default"
+        ],
+        "book": "No books",
+        "started_time": "1.6 hours ago",
+        "mmt_code": "/mmtimport 3ded2e02-2c79-452f-94ff-357ccc5b7365"
+    },
+    {
+        "map_name": "Vigil Station Oblivium",
+        "mission_type": "Espionage",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Low-Intensity",
+            "Engagement Zone"
+        ],
+        "book": "No books",
+        "started_time": "1.6 hours ago",
+        "mmt_code": "/mmtimport d559a62c-d4a5-4b4b-9bcf-aa6fbe3b51bc"
+    },
+    {
+        "map_name": "Hab Dreyko",
+        "mission_type": "Investigation",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Default"
+        ],
+        "book": "Seize Grimoires",
+        "started_time": "1.5 hours ago",
+        "mmt_code": "/mmtimport b4b8de4c-f991-474d-8e87-dcda14be29d7"
+    },
+    {
+        "map_name": "Magistrati Oubliette TM8-707",
+        "mission_type": "Assassination",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Low-Intensity",
+            "Shock Troop"
+        ],
+        "book": "No books",
+        "started_time": "1.5 hours ago",
+        "mmt_code": "/mmtimport 9d99bcfd-d6d7-4e91-92ac-9c13e12250d0"
+    },
+    {
+        "map_name": "Archivum Sycorax",
+        "mission_type": "Espionage",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Default"
+        ],
+        "book": "No books",
+        "started_time": "1.4 hours ago",
+        "mmt_code": "/mmtimport 74f1a84f-c724-4672-ac28-166449ffc348"
+    },
+    {
+        "map_name": "Enclavum Baross",
+        "mission_type": "Strike",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Low-Intensity",
+            "Engagement Zone"
+        ],
+        "book": "Seize Grimoires",
+        "started_time": "1.2 hours ago",
+        "mmt_code": "/mmtimport 26a92c4f-efb6-418e-9ac2-be9d661af6a7"
+    },
+    {
+        "map_name": "Clandestium Gloriana",
+        "mission_type": "Repair",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Low-Intensity",
+            "Shock Troop"
+        ],
+        "book": "No books",
+        "started_time": "1.2 hours ago",
+        "mmt_code": "/mmtimport 73a899da-baec-4aa5-b8cd-babda8376a80"
+    },
+    {
+        "map_name": "Magistrati Oubliette TM8-707",
+        "mission_type": "Assassination",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Shock Troop"
+        ],
+        "book": "No books",
+        "started_time": "1.1 hours ago",
+        "mmt_code": "/mmtimport af909cbf-91f4-4360-b74a-b9fc6049172c"
+    },
+    {
+        "map_name": "Refinery Delta-17",
+        "mission_type": "Disruption",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Default"
+        ],
+        "book": "No books",
+        "started_time": "1.1 hours ago",
+        "mmt_code": "/mmtimport e6286772-4b43-4e98-979f-9b924673c116"
+    },
+    {
+        "map_name": "Archivum Sycorax",
+        "mission_type": "Espionage",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Default"
+        ],
+        "book": "Seize Grimoires",
+        "started_time": "1 hours ago",
+        "mmt_code": "/mmtimport bbd8e7ae-3560-452e-bf2c-731f00dd963a"
+    },
+    {
+        "map_name": "Silo Cluster 18-66/a",
+        "mission_type": "Strike",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Hi-Intensity",
+            "Engagement Zone"
+        ],
+        "book": "No books",
+        "started_time": "0.9 hours ago",
+        "mmt_code": "/mmtimport 59712353-0514-4eba-91ed-b6e8fca7203a"
+    },
+    {
+        "map_name": "Clandestium Gloriana",
+        "mission_type": "Repair",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Hi-Intensity",
+            "Engagement Zone"
+        ],
+        "book": "Recover Scriptures",
+        "started_time": "0.9 hours ago",
+        "mmt_code": "/mmtimport c17d6921-083f-4484-8610-edfa24dbcb53"
+    },
+    {
+        "map_name": "Hab Dreyko",
+        "mission_type": "Investigation",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Default"
+        ],
+        "book": "No books",
+        "started_time": "0.9 hours ago",
+        "mmt_code": "/mmtimport c5db5cf4-264d-4384-8ed6-8601c164e81f"
+    },
+    {
+        "map_name": "Chasm Station HL-16-11",
+        "mission_type": "Assassination",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Low-Intensity",
+            "Shock Troop"
+        ],
+        "book": "No books",
+        "started_time": "0.7 hours ago",
+        "mmt_code": "/mmtimport d79996af-3219-4536-8dc3-98748c0c1205"
+    },
+    {
+        "map_name": "Refinery Delta-17",
+        "mission_type": "Disruption",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Low-Intensity",
+            "Engagement Zone"
+        ],
+        "book": "No books",
+        "started_time": "0.7 hours ago",
+        "mmt_code": "/mmtimport bab789b4-7058-4269-bc73-b9d353362e1c"
+    },
+    {
+        "map_name": "Comms-Plex 154/2f",
+        "mission_type": "Espionage",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Default"
+        ],
+        "book": "No books",
+        "started_time": "0.6 hours ago",
+        "mmt_code": "/mmtimport a52c0494-c0ea-400f-99b0-b19b882ef6a5"
+    },
+    {
+        "map_name": "Chasm Logistratum",
+        "mission_type": "Raid",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Default"
+        ],
+        "book": "Recover Scriptures",
+        "started_time": "0.5 hours ago",
+        "mmt_code": "/mmtimport 8e32a22c-bc0b-48d3-9f23-876462c8048d"
+    },
+    {
+        "map_name": "Clandestium Gloriana",
+        "mission_type": "Repair",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Shock Troop"
+        ],
+        "book": "No books",
+        "started_time": "0.4 hours ago",
+        "mmt_code": "/mmtimport bb1e6dcc-742a-4fd1-a2e5-7247b349e8ce"
+    },
+    {
+        "map_name": "Relay Station TRS-150",
+        "mission_type": "Disruption",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Low-Intensity",
+            "Shock Troop"
+        ],
+        "book": "Seize Grimoires",
+        "started_time": "0.4 hours ago",
+        "mmt_code": "/mmtimport a0954d6f-6d8a-4fe8-89a4-7b611f3b7719"
+    },
+    {
+        "map_name": "Consignment Yard HL-17-36",
+        "mission_type": "Raid",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Default"
+        ],
+        "book": "No books",
+        "started_time": "0.4 hours ago",
+        "mmt_code": "/mmtimport 28037de4-b810-422f-ae28-264da3f1809f"
+    },
+    {
+        "map_name": "Silo Cluster 18-66/a",
+        "mission_type": "Strike",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Default"
+        ],
+        "book": "No books",
+        "started_time": "0.3 hours ago",
+        "mmt_code": "/mmtimport 069a5933-be34-41e8-a057-25d606625899"
+    },
+    {
+        "map_name": "Comms-Plex 154/2f",
+        "mission_type": "Espionage",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Shock Troop"
+        ],
+        "book": "Recover Scriptures",
+        "started_time": "0.1 hours ago",
+        "mmt_code": "/mmtimport 53d27011-32c8-4d7d-9ce8-14150503414e"
+    },
+    {
+        "map_name": "Chasm Logistratum",
+        "mission_type": "Raid",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Default"
+        ],
+        "book": "No books",
+        "started_time": "0.1 hours ago",
+        "mmt_code": "/mmtimport 6d845f1a-d2c3-4015-b11a-15d761b75326"
+    },
+    {
+        "map_name": "Relay Station TRS-150",
+        "mission_type": "Disruption",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Hi-Intensity",
+            "Engagement Zone"
+        ],
+        "book": "Seize Grimoires",
+        "started_time": "0.1 hours ago",
+        "mmt_code": "/mmtimport 9dddadda-821f-4d0e-9790-86bea7d5b635"
+    },
+    {
+        "map_name": "Ascension Riser 31",
+        "mission_type": "Raid",
+        "difficulty": "Malice(T3)",
+        "modifiers": [
+            "Default"
+        ],
+        "book": "No books",
+        "started_time": "0 hours ago",
+        "mmt_code": "/mmtimport c90f9d50-5f21-4f4a-b053-61fa77536ffb"
+    }
+]

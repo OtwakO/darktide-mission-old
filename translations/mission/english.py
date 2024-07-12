@@ -1,0 +1,48 @@
+TRANSLATION = (
+    # Remove unwanted characters
+    ("\(", ""),
+    ("\)", ""),
+    ("&", ""),
+    ("Extra", ""),
+    ("  ", " "),
+    ("Gauntlet", ""),
+    ("With", ""),
+    ("Started", ""),
+    # Precondition
+    ("hrs", " hours"),
+    ("Snipers", "Sniper"),
+    # Regex
+    ("flash_mission_(\d+)", "Flash Mission"),
+    # Difficulty
+    ("Sedition", "Sedition(T1)"),
+    ("Uprising", "Uprising(T2)"),
+    ("Malice", "Malice(T3)"),
+    ("Heresy", "Heresy(T4)"),
+    ("Damnation", "Damnation(T5)"),
+    # Modifiers
+    ("Default", "#Default"),
+    ("Hi-Intensity", "#Hi-Intensity"),
+    ("Low-Intensity", "#Low-Intensity"),
+    ("Engagement Zone", "#Engagement Zone"),
+    ("Shock Troop", "#Shock Troop"),
+    ("Nurgle-Blessed", "#Nurgle-Blessed"),
+    ("Hunting Grounds", "#Hunting Grounds"),
+    ("Mutants", "#Mutants"),
+    ("Poxbursters", "#Poxbursters"),
+    ("Sniper", "#Sniper"),
+    ("Monstrous", "#Monstrous"),
+    ("Ventilation Purge", "#Ventilation Purge"),
+    ("Power Supply Interruption", "#Power Supply Interruption"),
+    ("Grenades", "#Grenades"),
+    ("Melee", "#Melee"),
+    ("Ranged", "#Ranged"),
+    ("Scab Enemies Only", "#Scab Enemies Only"),
+    ("Cooldowns Reduced", "#Cooldowns Reduced"),
+    ("Barrels", "#Barrels"),
+    ("toxic_gas_01", "#Toxic Gas"),
+    ("toxic_gas_more_resistance_01", "#High-Intensity Toxic Gas"),
+    ("toxic_gas_less_resistance_01", "#Low-Intensity Toxic Gas"),
+    ("toxic_gas_twins_01", "#Twin Toxic Gas"),
+    # Maps
+    ("core_research", "Clandestium Gloriana"),
+)

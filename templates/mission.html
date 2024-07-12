@@ -1,0 +1,25 @@
+{% for mission in missions %}
+<div class="card bg-base-100 shadow-xl m-2">
+    <div class="card-body">
+        <div class="card-header flex justify-between">
+            <h2 class="card-title justify-center">
+                {{ mission.map_name }}
+            </h2>
+            <button class="btn btn-md btn-neutral"
+                onclick="navigator.clipboard.writeText('{{ mission.mmt_code }}');CrispyToast.success('{{ ui_translations.copy_success }}', { position: 'bottom-right'})">
+                {{ ui_translations.copy_btn }}</button>
+        </div>
+        <div class="card-actions">
+            <div class="badge badge-secondary">{{ mission.mission_type }}</div>
+            <div class="badge badge-accent">{{ mission.difficulty }}</div>
+            <div class="badge badge-ghost">{{ mission.started_time }}</div>
+        </div>
+        <div class="divider m-0 p-0"></div>
+        <div class="card-actions">
+            {% for modifier in mission.modifiers %}
+            <div class="badge badge-accent badge-outline">{{ modifier}}</div>
+            {% endfor %}
+        </div>
+    </div>
+</div>
+{% endfor %}

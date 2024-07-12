@@ -1,0 +1,5 @@
+__pycache__
+.venv
+.dockerignore
+result.json
+tailwind.config.js

@@ -67,7 +67,7 @@ TRANSLATION = (
     ("Hab Dreyko", "德雷科居住區"),
     ("Magistrati Oubliette TM8-707", "TM8-708 法庭密牢"),
     ("Mercantile HL-70-04", "HL-70-04 貿易區"),
-    ("Power Matrix HL-17-36", "能量矩陣 HL-17-36"),
+    ("Power Matrix HL-17-36", "HL-17-36 能量矩陣"),
     ("Refinery Delta-17", "D17 - 精煉廠"),
     ("Relay Station TRS-150", "中繼站 TRS-150"),
     ("Silo Cluster 18-66/a", "18-66/a 水倉群"),

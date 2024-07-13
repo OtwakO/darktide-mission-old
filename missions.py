@@ -141,5 +141,5 @@ if __name__ == "__main__":
     test = MissionGatherer()
     test.language = "en"
     test.filter_keywords = ["Toxic Gas"]
-    missions = test.get_requested_missions()
+    missions = test.get_requested_missions(auric_maelstrom_only=False)
     print(missions)

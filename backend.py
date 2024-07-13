@@ -52,14 +52,11 @@ async def get_missions(request: Request) -> Template:
 
         if language == "zh-tw":
             mission_gatherer.language = "zh-tw"
-            from translations.website.traditional_chinese import (
-                FILTERS,
-                UI_TRANSLATIONS,
-            )
+            from translations.website.traditional_chinese import UI_TRANSLATIONS
 
         else:
             mission_gatherer.language = "en"
-            from translations.website.english import FILTERS, UI_TRANSLATIONS
+            from translations.website.english import UI_TRANSLATIONS
 
         filter_keywords = [
             key
@@ -69,7 +66,6 @@ async def get_missions(request: Request) -> Template:
         mission_gatherer.filter_keywords = filter_keywords
         if form_data.get("auric_maelstrom_only", "false") == "on":
             auric_maelstrom_only = True
-            mission_gatherer.filter_keywords.append(FILTERS["Hi-Intensity"])
         else:
             auric_maelstrom_only = False
         mission_data = mission_gatherer.get_requested_missions(

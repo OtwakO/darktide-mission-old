@@ -68,6 +68,10 @@
                     {% endfor %}
 
                     <p class="font-bold text-center"> {{ ui_translations.filter_header }} </p>
+                    <label class="cursor-pointer label">
+                        <span class="label-text">{{ ui_translations.maelstrom_translation }}</span>
+                        <input type="checkbox" class="checkbox" name="auric_maelstrom_only" />
+                    </label>
                     {% for filter, translation in filters.items() %}
                     <label class="cursor-pointer label">
                         <span class="label-text">{{ translation }}</span>

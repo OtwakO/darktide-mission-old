@@ -5,20 +5,21 @@ UI_TRANSLATIONS = {
     "search_button": "Search",
     "copy_btn": "Copy",
     "copy_success": "Copied to clipboard!",
+    "maelstrom_translation": "Auric Maelstrom Only",
 }
 
 DIFFICULTIES = {
-    "Sedition": "Sedition(T1)",
-    "Uprising": "Uprising(T2)",
-    "Malice": "Malice(T3)",
-    "Heresy": "Heresy(T4)",
-    "Damnation": "Damnation(T5)",
+    "Sedition": "Sedition (T1)",
+    "Uprising": "Uprising (T2)",
+    "Malice": "Malice (T3)",
+    "Heresy": "Heresy (T4)",
+    "Damnation": "Damnation (T5)",
 }
 
 FILTERS = {
     # Modifiers
     "Default": "Default",
-    "Hi-Intensity": "High-Intensity",
+    "Hi-Intensity": "Hi-Intensity",
     "Low-Intensity": "Low-Intensity",
     "Engagement Zone": "Engagement Zone",
     "Shock Troop": "Shock Troop",
@@ -36,7 +37,6 @@ FILTERS = {
     "Scab Enemies Only": "Scab Enemies Only",
     "Cooldowns Reduced": "Cooldowns Reduced",
     "Barrels": "Barrels",
-    "Flash Mission": "Flash Mission",
     # Toxic Gas
     "Toxic Gas": "Toxic Gas",
     "High-Intensity Toxic Gas": "High-Intensity Toxic Gas",

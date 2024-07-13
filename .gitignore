@@ -3,3 +3,4 @@ __pycache__
 .dockerignore
 result.json
 tailwind.config.js
+test

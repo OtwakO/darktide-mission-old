@@ -5,6 +5,8 @@ import re
 import requests
 from bs4 import BeautifulSoup
 
+from translations.mission.flash import FLASH_MISSIONS
+
 
 class MissionGatherer:
     def __init__(self):
@@ -13,10 +15,14 @@ class MissionGatherer:
         pass
 
     # Helper functions
-    def get_missions(self):
+    def get_missions(self, auric_maelstrom_only=False):
         req_url = "https://maelstroom.net/filtered.php"
         headers_list = {"Content-Type": "application/x-www-form-urlencoded"}
-        payload = "bookCir=0&missionDif=&missionCir=&button1=Filter+Missions"
+        if auric_maelstrom_only:
+            payload = "bookCir=0&missionDif=Damnation&missionCir=&flashOnly=0&button1=Filter+Missions"
+        else:
+            payload = "bookCir=0&missionDif=&missionCir=&button1=Filter+Missions"
+
         response = requests.request("POST", req_url, data=payload, headers=headers_list)
         soup = BeautifulSoup(response.content, "html.parser")
 
@@ -55,6 +61,17 @@ class MissionGatherer:
 
         return filtered_missions, filtered_mmt_codes
 
+    def convert_flash_missions(self, missions):
+        converted_missions = []
+        for mission in missions:
+            translated_mission = mission
+            for replacement in FLASH_MISSIONS:
+                translated_mission = re.sub(
+                    rf"{replacement[0]}", replacement[1], translated_mission
+                )
+            converted_missions.append(translated_mission)
+        return converted_missions
+
     def translate_missions(self, missions, language="zh-tw"):
         if language == "zh-tw":
             from translations.mission.traditional_chinese import TRANSLATION
@@ -92,10 +109,11 @@ class MissionGatherer:
         )
 
     # Main functions
-    def get_requested_missions(self):
+    def get_requested_missions(self, auric_maelstrom_only=False):
         mission_data = []
-        self.get_missions()
-        translated_missions = self.translate_missions(self.missions, self.language)
+        self.get_missions(auric_maelstrom_only)
+        converted_missions = self.convert_flash_missions(self.missions)
+        translated_missions = self.translate_missions(converted_missions, self.language)
         chosen_missions, chosen_mmt_codes = self.filter_missions(
             translated_missions, self.filter_keywords
         )

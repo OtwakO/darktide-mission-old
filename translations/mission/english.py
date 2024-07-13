@@ -11,14 +11,12 @@ TRANSLATION = (
     # Precondition
     ("hrs", " hours"),
     ("Snipers", "Sniper"),
-    # Regex
-    ("flash_mission_(\d+)", "Flash Mission"),
     # Difficulty
-    ("Sedition", "Sedition(T1)"),
-    ("Uprising", "Uprising(T2)"),
-    ("Malice", "Malice(T3)"),
-    ("Heresy", "Heresy(T4)"),
-    ("Damnation", "Damnation(T5)"),
+    ("Sedition", "Sedition (T1)"),
+    ("Uprising", "Uprising (T2)"),
+    ("Malice", "Malice (T3)"),
+    ("Heresy", "Heresy (T4)"),
+    ("Damnation", "Damnation (T5)"),
     # Modifiers
     ("Default", "#Default"),
     ("Hi-Intensity", "#Hi-Intensity"),

@@ -5,14 +5,15 @@ UI_TRANSLATIONS = {
     "search_button": "搜尋",
     "copy_btn": "複製",
     "copy_success": "已複製到剪貼簿",
+    "maelstrom_translation": "僅金漩渦",
 }
 
 DIFFICULTIES = {
-    "Sedition": "暴動(T1)",
-    "Uprising": "起義(T2)",
-    "Malice": "惡毒(T3)",
-    "Heresy": "叛亂(T4)",
-    "Damnation": "詛咒(T5)",
+    "Sedition": "暴動 (T1)",
+    "Uprising": "起義 (T2)",
+    "Malice": "惡毒 (T3)",
+    "Heresy": "叛亂 (T4)",
+    "Damnation": "詛咒 (T5)",
 }
 
 FILTERS = {
@@ -36,7 +37,6 @@ FILTERS = {
     "Scab Enemies Only": "僅血痂敵人",
     "Cooldowns Reduced": "冷卻時間減少",
     "Barrels": "較多爆炸桶",
-    "Flash Mission": "閃擊任務",
     # Toxic Gas
     "Toxic Gas": "瘟疫毒氣",
     "High-Intensity Toxic Gas": "高強度瘟疫毒氣",

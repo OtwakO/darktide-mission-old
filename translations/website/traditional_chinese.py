@@ -8,7 +8,7 @@ UI_TRANSLATIONS = {
     "maelstrom_translation": "僅金漩渦",
     "maps_header": "地圖",
     "km_enforcer_twins": "雙頭犬攻勢",
-    "core_research": "克蘭岱斯提恩 - 格洛裡亞納",
+    "core_research": "克蘭岱斯提恩 - 格洛里亞納",
 }
 
 DIFFICULTIES = {
@@ -64,6 +64,6 @@ MAPS = {
     "Relay Station TRS-150": "中繼站 TRS-150",
     "Silo Cluster 18-66/a": "18-66/a 水倉群",
     "Smelter Complex HL-17-36": "HL-17-36 冶煉廠大樓",
-    "Vigil Station Oblivium": "奧布裡維姆守夜站",
+    "Vigil Station Oblivium": "奧布里維姆守夜站",
     "Warren 6-19": "窄巷區 6-19",
 }

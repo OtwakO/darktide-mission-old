@@ -6,6 +6,9 @@ UI_TRANSLATIONS = {
     "copy_btn": "Copy",
     "copy_success": "Copied to clipboard!",
     "maelstrom_translation": "Auric Maelstrom Only",
+    "maps_header": "Maps",
+    "km_enforcer_twins": "The Orthus Offensive",
+    "core_research": "Clandestium Gloriana",
 }
 
 DIFFICULTIES = {
@@ -42,4 +45,25 @@ FILTERS = {
     "High-Intensity Toxic Gas": "High-Intensity Toxic Gas",
     "Low-Intensity Toxic Gas": "Low-Intensity Toxic Gas",
     "Twin Toxic Gas": "Twin Toxic Gas",
+}
+
+MAPS = {
+    "Archivum Sycorax": "Archivum Sycorax",
+    "Ascension Riser 31": "Ascension Riser 31",
+    "Chasm Logistratum": "Chasm Logistratum",
+    "Chasm Station HL-16-11": "Chasm Station HL-16-11",
+    "Comms-Plex 154/2f": "Comms-Plex 154/2f",
+    "Consignment Yard HL-17-36": "Consignment Yard HL-17-36",
+    "Enclavum Baross": "Enclavum Baross",
+    "Excise Vault Spireside-13": "Excise Vault Spireside-13",
+    "Hab Dreyko": "Hab Dreyko",
+    "Magistrati Oubliette TM8-707": "Magistrati Oubliette TM8-707",
+    "Mercantile HL-70-04": "Mercantile HL-70-04",
+    "Power Matrix HL-17-36": "Power Matrix HL-17-36",
+    "Refinery Delta-17": "Refinery Delta-17",
+    "Relay Station TRS-150": "Relay Station TRS-150",
+    "Silo Cluster 18-66/a": "Silo Cluster 18-66/a",
+    "Smelter Complex HL-17-36": "Smelter Complex HL-17-36",
+    "Vigil Station Oblivium": "Vigil Station Oblivium",
+    "Warren 6-19": "Warren 6-19",
 }

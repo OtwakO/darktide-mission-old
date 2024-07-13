@@ -5,5 +5,5 @@ services:
       dockerfile: Dockerfile
     container_name: "darktide-mission-board"
     ports:
-      - "80:80"
+      - ":80"
     restart: always

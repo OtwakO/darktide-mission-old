@@ -78,6 +78,22 @@
                         <input type="checkbox" class="checkbox" name="{{ translation }}" />
                     </label>
                     {% endfor %}
+
+                    <p class="font-bold text-center"> {{ ui_translations.maps_header }} </p>
+                    {% for map, translation in maps.items() %}
+                    <label class="cursor-pointer label">
+                        <span class="label-text">{{ translation }}</span>
+                        <input type="checkbox" class="checkbox" name="{{ translation }}" />
+                    </label>
+                    {% endfor %}
+                    <label class="cursor-pointer label">
+                        <span class="label-text">{{ ui_translations.km_enforcer_twins }}</span>
+                        <input type="checkbox" class="checkbox" name="{{ ui_translations.km_enforcer_twins }}" />
+                    </label>
+                    <label class="cursor-pointer label">
+                        <span class="label-text">{{ ui_translations.core_research }}</span>
+                        <input type="checkbox" class="checkbox" name="{{ ui_translations.core_research }}" />
+                    </label>
                 </form>
             </div>
         </div>

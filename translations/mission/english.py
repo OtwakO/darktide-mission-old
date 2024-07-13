@@ -43,4 +43,5 @@ TRANSLATION = (
     ("toxic_gas_twins_01", "#Twin Toxic Gas"),
     # Maps
     ("core_research", "Clandestium Gloriana"),
+    ("km_enforcer_twins", "The Orthus Offensive"),
 )

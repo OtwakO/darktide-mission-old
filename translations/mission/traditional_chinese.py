@@ -26,7 +26,7 @@ TRANSLATION = (
     ("Shock Troop", "#突擊兵部隊"),
     ("Nurgle-Blessed", "#納垢賜福"),
     ("Hunting Grounds", "#狩獵場"),
-    ("Mutants", "#突變人"),
+    ("Mutants", "#變種人"),
     ("Poxbursters", "#自爆"),
     ("Sniper", "#狙擊手"),
     ("Monstrous", "#怪物"),

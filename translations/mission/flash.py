@@ -32,6 +32,10 @@ FLASH_MISSIONS = (
     #     "Nurgle-Blessed Shock Troop & Mutants Gauntlet (Cooldowns Reduced & Extra Barrels)",
     # ),
     (
+        "high_flash_mission_16",
+        "Hi-Intensity toxic_gas_01 Mutants Gauntlet (Hunting Grounds)",
+    ),
+    (
         "flash_mission_16",
         "Hi-Intensity toxic_gas_01 Mutants Gauntlet (Hunting Grounds)",
     ),

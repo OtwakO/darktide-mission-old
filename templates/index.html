@@ -66,6 +66,12 @@
                         <input type="checkbox" class="checkbox" name="{{ translation }}" />
                     </label>
                     {% endfor %}
+                    {% for book, translation in books.items() %}
+                    <label class="cursor-pointer label">
+                        <span class="label-text">{{ translation }}</span>
+                        <input type="checkbox" class="checkbox" name="{{ translation }}" />
+                    </label>
+                    {% endfor %}
 
                     <p class="font-bold text-center"> {{ ui_translations.filter_header }} </p>
                     <label class="cursor-pointer label">

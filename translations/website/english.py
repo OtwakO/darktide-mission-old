@@ -19,6 +19,12 @@ DIFFICULTIES = {
     "Damnation": "Damnation (T5)",
 }
 
+BOOKS = {
+    "No book": "No book",
+    "Recover Scriptures": "Recover Scriptures",
+    "Seize Grimoires": "Seize Grimoires",
+}
+
 FILTERS = {
     # Modifiers
     "Default": "Default",

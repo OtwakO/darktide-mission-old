@@ -26,6 +26,7 @@ async def index(request: Request) -> Template:
     language = request.query_params.get("language", "en")
     if language == "en":
         from translations.website.english import (
+            BOOKS,
             DIFFICULTIES,
             FILTERS,
             MAPS,
@@ -34,6 +35,7 @@ async def index(request: Request) -> Template:
 
     elif language == "zh-tw":
         from translations.website.traditional_chinese import (
+            BOOKS,
             DIFFICULTIES,
             FILTERS,
             MAPS,
@@ -47,6 +49,7 @@ async def index(request: Request) -> Template:
         "difficulties": DIFFICULTIES,
         "filters": FILTERS,
         "maps": MAPS,
+        "books": BOOKS,
     }
     return Template(template_name="index.html", context=context)
 

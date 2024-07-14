@@ -19,6 +19,12 @@ DIFFICULTIES = {
     "Damnation": "詛咒 (T5)",
 }
 
+BOOKS = {
+    "No book": "無書",
+    "Recover Scriptures": "取得紅書",
+    "Seize Grimoires": "取得白書",
+}
+
 FILTERS = {
     # Modifiers
     "Default": "普通",

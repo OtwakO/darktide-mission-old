@@ -41,7 +41,7 @@ FLASH_MISSIONS = (
     ),
     (
         "high_flash_mission_18",
-        "HI-Intensity toxic_gas_01 Monstrous Sniper Gauntlet",
+        "Hi-Intensity toxic_gas_01 Monstrous Sniper Gauntlet",
     ),
     (
         "flash_mission_18",

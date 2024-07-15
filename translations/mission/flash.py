@@ -37,10 +37,14 @@ FLASH_MISSIONS = (
     ),
     (
         "flash_mission_16",
-        "Hi-Intensity toxic_gas_01 Mutants Gauntlet (Hunting Grounds)",
+        "toxic_gas_01 Mutants Gauntlet (Hunting Grounds)",
+    ),
+    (
+        "high_flash_mission_18",
+        "HI-Intensity toxic_gas_01 Monstrous Sniper Gauntlet",
     ),
     (
         "flash_mission_18",
-        "Hi-Intensity toxic_gas_01 Monstrous Sniper Gauntlet",
+        "toxic_gas_01 Monstrous Sniper Gauntlet",
     ),
 )

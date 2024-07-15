@@ -47,6 +47,9 @@ class MissionGatherer:
             for mission in self.missions
         ]
 
+        # Change /mmtimport to /mmt
+        self.mmt_codes = [code.replace("/mmtimport", "/mmt") for code in self.mmt_codes]
+
     def filter_missions(self, missions, keywords: list[str]):
         filtered_missions_index = [
             index

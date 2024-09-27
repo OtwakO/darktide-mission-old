@@ -51,6 +51,7 @@ TRANSLATION = (
     ("Raid", "突擊任務"),
     ("Strike", "打擊任務"),
     ("Special", "特殊任務"),
+    ("Operations", "行動任務"),
     # Book
     ("No books", "無書"),
     ("Recover Scriptures", "取得紅書"),
@@ -74,6 +75,7 @@ TRANSLATION = (
     ("Smelter Complex HL-17-36", "HL-17-36 冶煉廠大樓"),
     ("Vigil Station Oblivium", "奧布里維姆守夜站"),
     ("Warren 6-19", "窄巷區 6-19"),
+    ("Clandestium Gloriana", "克蘭岱斯提恩 - 格洛里亞納"),
     ("km_enforcer_twins", "雙頭犬攻勢"),
-    ("core_research", "克蘭岱斯提恩 - 格洛里亞納"),
+    ("op_train", "末路特快車"),
 )

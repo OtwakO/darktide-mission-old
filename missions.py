@@ -35,15 +35,23 @@ class MissionGatherer:
         self.fix_new_mission()
 
     def fix_new_mission(self):
-        # Fix core_research missions
-        self.missions = [
-            mission.replace("core_research · ", "core_research · Repair · ")
-            for mission in self.missions
-        ]
+        # If new missions are missing mission type etc...
+
+        # # Fix core_research missions --> Patched
+        # self.missions = [
+        #     mission.replace("core_research · ", "core_research · Repair · ")
+        #     for mission in self.missions
+        # ]
 
         # Fix Twin missions
         self.missions = [
             mission.replace("km_enforcer_twins · ", "km_enforcer_twins · Special · ")
+            for mission in self.missions
+        ]
+
+        # Fix Train missions
+        self.missions = [
+            mission.replace("op_train · ", "op_train · Operations · ")
             for mission in self.missions
         ]
 

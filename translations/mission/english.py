@@ -42,6 +42,6 @@ TRANSLATION = (
     ("toxic_gas_less_resistance_01", "#Low-Intensity Toxic Gas"),
     ("toxic_gas_twins_01", "#Twin Toxic Gas"),
     # Maps
-    ("core_research", "Clandestium Gloriana"),
     ("km_enforcer_twins", "The Orthus Offensive"),
+    ("op_train", "Rolling Steel"),
 )

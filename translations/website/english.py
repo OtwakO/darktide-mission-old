@@ -7,8 +7,6 @@ UI_TRANSLATIONS = {
     "copy_success": "Copied to clipboard!",
     "maelstrom_translation": "Auric Maelstrom Only",
     "maps_header": "Maps",
-    "km_enforcer_twins": "The Orthus Offensive",
-    "core_research": "Clandestium Gloriana",
 }
 
 DIFFICULTIES = {
@@ -72,4 +70,7 @@ MAPS = {
     "Smelter Complex HL-17-36": "Smelter Complex HL-17-36",
     "Vigil Station Oblivium": "Vigil Station Oblivium",
     "Warren 6-19": "Warren 6-19",
+    "Clandestium Gloriana": "Clandestium Gloriana",
+    "The Orthus Offensive": "The Orthus Offensive",
+    "Rolling Steel": "Rolling Steel",
 }

@@ -7,8 +7,6 @@ UI_TRANSLATIONS = {
     "copy_success": "已複製到剪貼簿",
     "maelstrom_translation": "僅金漩渦",
     "maps_header": "地圖",
-    "km_enforcer_twins": "雙頭犬攻勢",
-    "core_research": "克蘭岱斯提恩 - 格洛里亞納",
 }
 
 DIFFICULTIES = {
@@ -72,4 +70,7 @@ MAPS = {
     "Smelter Complex HL-17-36": "HL-17-36 冶煉廠大樓",
     "Vigil Station Oblivium": "奧布里維姆守夜站",
     "Warren 6-19": "窄巷區 6-19",
+    "Clandestium Gloriana": "克蘭岱斯提恩 - 格洛里亞納",
+    "The Orthus Offensive": "雙頭犬攻勢",
+    "Rolling Steel": "末路特快車",
 }

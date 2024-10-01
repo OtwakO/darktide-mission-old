@@ -42,6 +42,19 @@ TRANSLATION = (
     ("toxic_gas_more_resistance_01", "#高強度瘟疫毒氣"),
     ("toxic_gas_less_resistance_01", "#低強度瘟疫毒氣"),
     ("toxic_gas_twins_01", "#雙頭犬瘟疫毒氣"),
+    ("moebian_21st_01", "#染疫的莫比亞第21師"),
+    ("moebian_21st_02", "#染疫的莫比亞第21師 #高強度 #狩獵場"),
+    ("moebian_21st_03", "#染疫的莫比亞第21師 #高強度 #交戰區"),
+    (
+        "moebian_21st_04",
+        "#染疫的莫比亞第21師 #高強度 #斷電",
+    ),
+    ("moebian_21st_05", "#染疫的莫比亞第21師 #高強度 #瘟疫毒氣"),
+    (
+        "moebian_21st_06",
+        "#染疫的莫比亞第21師 #高強度 #狙擊手 #清掃通風",
+    ),
+    ("moebian_21st_07", "#染疫的莫比亞第21師 #高強度 #突擊兵部隊"),
     # Mission Types
     ("Assassination", "刺殺任務"),
     ("Disruption", "破壞任務"),

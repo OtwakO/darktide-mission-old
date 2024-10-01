@@ -49,6 +49,8 @@ FILTERS = {
     "High-Intensity Toxic Gas": "高強度瘟疫毒氣",
     "Low-Intensity Toxic Gas": "低強度瘟疫毒氣",
     "Twin Toxic Gas": "雙頭犬瘟疫毒氣",
+    # Limited Event
+    "Infected Moebian 21st": "染疫的莫比亞第21師",
 }
 
 MAPS = {

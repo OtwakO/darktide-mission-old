@@ -41,6 +41,19 @@ TRANSLATION = (
     ("toxic_gas_more_resistance_01", "#High-Intensity Toxic Gas"),
     ("toxic_gas_less_resistance_01", "#Low-Intensity Toxic Gas"),
     ("toxic_gas_twins_01", "#Twin Toxic Gas"),
+    ("moebian_21st_01", "#Infected Moebian 21st"),
+    ("moebian_21st_02", "#Infected Moebian 21st #Hi-Intensity #Hunting Grounds"),
+    ("moebian_21st_03", "#Infected Moebian 21st #Hi-Intensity #Engagement Zone"),
+    (
+        "moebian_21st_04",
+        "#Infected Moebian 21st #Hi-Intensity #Power Supply Interruption",
+    ),
+    ("moebian_21st_05", "#Infected Moebian 21st #Hi-Intensity #Toxic Gas"),
+    (
+        "moebian_21st_06",
+        "#Infected Moebian 21st #Hi-Intensity #Sniper #Ventilation Purge",
+    ),
+    ("moebian_21st_07", "#Infected Moebian 21st #Hi-Intensity #Shock Troop"),
     # Maps
     ("km_enforcer_twins", "The Orthus Offensive"),
     ("op_train", "Rolling Steel"),

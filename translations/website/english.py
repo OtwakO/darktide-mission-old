@@ -49,6 +49,8 @@ FILTERS = {
     "High-Intensity Toxic Gas": "High-Intensity Toxic Gas",
     "Low-Intensity Toxic Gas": "Low-Intensity Toxic Gas",
     "Twin Toxic Gas": "Twin Toxic Gas",
+    # Limited Event
+    "Infected Moebian 21st": "Infected Moebian 21st",
 }
 
 MAPS = {

@@ -93,10 +93,10 @@ class MissionGatherer:
 
         translated_missions = []
         for mission in missions:
-            translated_mission = mission
+            translated_mission = mission.lower()
             for replacement in TRANSLATION:
                 translated_mission = re.sub(
-                    rf"{replacement[0]}", replacement[1], translated_mission
+                    rf"{replacement[0].lower()}", replacement[1], translated_mission
                 )
             translated_missions.append(translated_mission)
         return translated_missions

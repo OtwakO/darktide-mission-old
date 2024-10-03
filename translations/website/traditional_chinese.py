@@ -45,9 +45,9 @@ FILTERS = {
     "Cooldowns Reduced": "冷卻時間減少",
     "Barrels": "較多爆炸桶",
     # Toxic Gas
-    "Toxic Gas": "瘟疫毒氣",
-    "High-Intensity Toxic Gas": "高強度瘟疫毒氣",
-    "Low-Intensity Toxic Gas": "低強度瘟疫毒氣",
+    "Pox Gas": "瘟疫毒氣",
+    # "High-Intensity Toxic Gas": "高強度瘟疫毒氣",
+    # "Low-Intensity Toxic Gas": "低強度瘟疫毒氣",
     "Twin Toxic Gas": "雙頭犬瘟疫毒氣",
     # Limited Event
     "Infected Moebian 21st": "染疫的莫比亞第21師",
@@ -58,6 +58,7 @@ MAPS = {
     "Ascension Riser 31": "31號升降機",
     "Chasm Logistratum": "隘口後勤處",
     "Chasm Station HL-16-11": "HL-16-11 隘口站",
+    "Clandestium Gloriana": "克蘭岱斯提恩 - 格洛里亞納",
     "Comms-Plex 154/2f": "154/2f 通訊站",
     "Consignment Yard HL-17-36": "HL-17-36 托運場",
     "Enclavum Baross": "巴羅斯飛地",
@@ -68,11 +69,13 @@ MAPS = {
     "Power Matrix HL-17-36": "HL-17-36 能量矩陣",
     "Refinery Delta-17": "D17 - 精煉廠",
     "Relay Station TRS-150": "中繼站 TRS-150",
+    "Rolling Steel": "末路特快車",
     "Silo Cluster 18-66/a": "18-66/a 水倉群",
     "Smelter Complex HL-17-36": "HL-17-36 冶煉廠大樓",
+    "The Orthus Offensive": "雙頭犬攻勢",
     "Vigil Station Oblivium": "奧布里維姆守夜站",
     "Warren 6-19": "窄巷區 6-19",
-    "Clandestium Gloriana": "克蘭岱斯提恩 - 格洛里亞納",
-    "The Orthus Offensive": "雙頭犬攻勢",
-    "Rolling Steel": "末路特快車",
 }
+
+# Sort the maps alphabetically
+MAPS = dict(sorted(MAPS.items()))

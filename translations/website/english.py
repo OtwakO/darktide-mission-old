@@ -45,9 +45,9 @@ FILTERS = {
     "Cooldowns Reduced": "Cooldowns Reduced",
     "Barrels": "Barrels",
     # Toxic Gas
-    "Toxic Gas": "Toxic Gas",
-    "High-Intensity Toxic Gas": "High-Intensity Toxic Gas",
-    "Low-Intensity Toxic Gas": "Low-Intensity Toxic Gas",
+    "Pox Gas": "Pox Gas",
+    # "High-Intensity Toxic Gas": "High-Intensity Toxic Gas",
+    # "Low-Intensity Toxic Gas": "Low-Intensity Toxic Gas",
     "Twin Toxic Gas": "Twin Toxic Gas",
     # Limited Event
     "Infected Moebian 21st": "Infected Moebian 21st",
@@ -58,6 +58,7 @@ MAPS = {
     "Ascension Riser 31": "Ascension Riser 31",
     "Chasm Logistratum": "Chasm Logistratum",
     "Chasm Station HL-16-11": "Chasm Station HL-16-11",
+    "Clandestium Gloriana": "Clandestium Gloriana",
     "Comms-Plex 154/2f": "Comms-Plex 154/2f",
     "Consignment Yard HL-17-36": "Consignment Yard HL-17-36",
     "Enclavum Baross": "Enclavum Baross",
@@ -68,11 +69,16 @@ MAPS = {
     "Power Matrix HL-17-36": "Power Matrix HL-17-36",
     "Refinery Delta-17": "Refinery Delta-17",
     "Relay Station TRS-150": "Relay Station TRS-150",
+    "Rolling Steel": "Rolling Steel",
     "Silo Cluster 18-66/a": "Silo Cluster 18-66/a",
     "Smelter Complex HL-17-36": "Smelter Complex HL-17-36",
+    "The Orthus Offensive": "The Orthus Offensive",
     "Vigil Station Oblivium": "Vigil Station Oblivium",
     "Warren 6-19": "Warren 6-19",
-    "Clandestium Gloriana": "Clandestium Gloriana",
-    "The Orthus Offensive": "The Orthus Offensive",
-    "Rolling Steel": "Rolling Steel",
 }
+
+# Sort the maps alphabetically
+MAPS = dict(sorted(MAPS.items()))
+
+if __name__ == "__main__":
+    print(dict(sorted(MAPS.items())))

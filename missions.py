@@ -93,10 +93,13 @@ class MissionGatherer:
 
         translated_missions = []
         for mission in missions:
-            translated_mission = mission.lower()
+            translated_mission = mission
             for replacement in TRANSLATION:
                 translated_mission = re.sub(
-                    rf"{replacement[0].lower()}", replacement[1], translated_mission
+                    rf"{replacement[0]}",
+                    replacement[1],
+                    translated_mission,
+                    flags=re.IGNORECASE,
                 )
             translated_missions.append(translated_mission)
         return translated_missions
@@ -151,6 +154,12 @@ class MissionGatherer:
 if __name__ == "__main__":
     test = MissionGatherer()
     test.language = "en"
-    test.filter_keywords = ["Toxic Gas"]
+    test.filter_keywords = ["Monstrous", "Shock Troop", "Damnation", "Enclavum Baross"]
     missions = test.get_requested_missions(auric_maelstrom_only=False)
     print(missions)
+
+    debug_missions = [
+        "Enclavum Baross · Strike · Damnation · Monstrous Shock Troop Gauntlet With Snipers & Pox Gas · No books · Started 16hrs ago"
+    ]
+    debug_result = test.translate_missions(debug_missions, "en")
+    print(debug_result)

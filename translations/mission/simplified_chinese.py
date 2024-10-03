@@ -34,7 +34,7 @@ TRANSLATION = (
     ("Monstrous", "#怪物"),
     ("Ventilation Purge", "#清扫通风"),
     ("Power Supply Interruption", "#断电"),
-    ("Grenades", "#额外手雷"),
+    ("Grenades", "#额外手榴弹"),
     ("Melee", "#近战敌人"),
     ("Ranged", "#远程敌人"),
     ("Scab Enemies Only", "#仅血痂敌人"),

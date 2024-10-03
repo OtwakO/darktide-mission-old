@@ -40,7 +40,7 @@ TRANSLATION = (
     ("Cooldowns Reduced", "#Cooldowns Reduced"),
     ("Barrels", "#Barrels"),
     ("Pox Gas", "#Pox-Gas"),
-    ("toxic_gas_twins_01", "#Twin Pox Gas"),
+    ("toxic_gas_twins_01", "#Twin Toxic Gas"),
     ("moebian_21st_01", "#Infected Moebian 21st"),
     ("moebian_21st_02", "#Infected Moebian 21st #Hi-Intensity #Hunting Grounds"),
     ("moebian_21st_03", "#Infected Moebian 21st #Hi-Intensity #Engagement Zone"),

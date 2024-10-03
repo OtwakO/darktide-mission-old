@@ -87,6 +87,9 @@ class MissionGatherer:
         if language == "zh-tw":
             from translations.mission.traditional_chinese import TRANSLATION
 
+        elif language == "zh-cn":
+            from translations.mission.simplified_chinese import TRANSLATION
+
         # Return English missions if language is not supported
         else:
             from translations.mission.english import TRANSLATION
@@ -153,13 +156,14 @@ class MissionGatherer:
 
 if __name__ == "__main__":
     test = MissionGatherer()
-    test.language = "en"
-    test.filter_keywords = ["Monstrous", "Shock Troop", "Damnation", "Enclavum Baross"]
-    missions = test.get_requested_missions(auric_maelstrom_only=False)
-    print(missions)
+    # test.language = "en"
+    # test.filter_keywords = ["Monstrous", "Shock Troop", "Damnation", "Enclavum Baross"]
+    # missions = test.get_requested_missions(auric_maelstrom_only=False)
+    # print(missions)
 
     debug_missions = [
-        "Enclavum Baross · Strike · Damnation · Monstrous Shock Troop Gauntlet With Snipers & Pox Gas · No books · Started 16hrs ago"
+        "Enclavum Baross · Strike · Damnation · Monstrous Shock Troop Gauntlet With Snipers & Pox Gas · No books · Started 16hrs ago",
+        "Vigil Station Oblivium · Espionage · Damnation · Hi-intensity Pox Gas · No books · Started 6.5hrs ago",
     ]
-    debug_result = test.translate_missions(debug_missions, "en")
+    debug_result = test.translate_missions(debug_missions, "zh-cn")
     print(debug_result)

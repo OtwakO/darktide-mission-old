@@ -42,6 +42,15 @@ async def index(request: Request) -> Template:
             UI_TRANSLATIONS,
         )
 
+    elif language == "zh-cn":
+        from translations.website.simplified_chinese import (
+            BOOKS,
+            DIFFICULTIES,
+            FILTERS,
+            MAPS,
+            UI_TRANSLATIONS,
+        )
+
     context = {
         "server_entry_point": entry_point,
         "language": language,
@@ -66,6 +75,10 @@ async def get_missions(request: Request) -> Template:
                 FILTERS,
                 UI_TRANSLATIONS,
             )
+
+        elif language == "zh-cn":
+            mission_gatherer.language = "zh-cn"
+            from translations.website.simplified_chinese import FILTERS, UI_TRANSLATIONS
 
         else:
             mission_gatherer.language = "en"

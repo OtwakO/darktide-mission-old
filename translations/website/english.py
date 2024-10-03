@@ -45,7 +45,9 @@ FILTERS = {
     "Cooldowns Reduced": "Cooldowns Reduced",
     "Barrels": "Barrels",
     # Toxic Gas
-    "Pox Gas": "Pox Gas",
+    "Pox Gas": "Pox-Gas",
+    "Pox Gas (High Concentration)": "Hi-Concentrated Pox-Gas",
+    "Pox Gas (Low Concentration)": "Low-Concentrated Pox-Gas",
     # "High-Intensity Toxic Gas": "High-Intensity Toxic Gas",
     # "Low-Intensity Toxic Gas": "Low-Intensity Toxic Gas",
     "Twin Toxic Gas": "Twin Toxic Gas",

@@ -46,8 +46,8 @@ FILTERS = {
     "Barrels": "較多爆炸桶",
     # Toxic Gas
     "Pox Gas": "瘟疫毒氣",
-    # "High-Intensity Toxic Gas": "高強度瘟疫毒氣",
-    # "Low-Intensity Toxic Gas": "低強度瘟疫毒氣",
+    "Pox Gas (High Concentration)": "高濃度瘟疫毒氣",
+    "Pox Gas (Low Concentration)": "低濃度瘟疫毒氣",
     "Twin Toxic Gas": "雙頭犬瘟疫毒氣",
     # Limited Event
     "Infected Moebian 21st": "染疫的莫比亞第21師",

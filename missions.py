@@ -34,6 +34,24 @@ class MissionGatherer:
 
         self.fix_new_mission()
 
+    # Get mission credits and xp data
+    def get_all_mission_credits_xp(self):
+        req_url = "https://maelstroom.net/DT.json"
+        response = requests.get(req_url)
+        mission_data = response.json()
+        return mission_data
+
+    def find_mission_credits_xp_by_code(self, specific_mission_data):
+        credits = specific_mission_data["credits"]
+        xp = specific_mission_data["xp"]
+        if specific_mission_data["extraRewards"]:
+            for extra_reward_type, extra_reward_info in specific_mission_data[
+                "extraRewards"
+            ].items():
+                credits += extra_reward_info["credits"]
+                xp += extra_reward_info["xp"]
+        return credits, xp
+
     def fix_new_mission(self):
         # If new missions are missing mission type etc...
 
@@ -128,6 +146,7 @@ class MissionGatherer:
     # Main functions
     def get_requested_missions(self, auric_maelstrom_only=False):
         mission_data = []
+        all_credits_xp_data = self.get_all_mission_credits_xp()
         self.get_missions(auric_maelstrom_only)
         converted_missions = self.convert_flash_missions(self.missions)
         translated_missions = self.translate_missions(converted_missions, self.language)
@@ -138,6 +157,9 @@ class MissionGatherer:
             map_name, mission_type, difficulty, modifiers, book, started_time = (
                 self.get_mission_info(mission)
             )
+            credits, xp = self.find_mission_credits_xp_by_code(
+                all_credits_xp_data[chosen_mmt_codes[index].replace("/mmt ", "")]
+            )
             mission_data.append(
                 {
                     "map_name": map_name,
@@ -145,6 +167,8 @@ class MissionGatherer:
                     "difficulty": difficulty,
                     "modifiers": modifiers,
                     "book": book,
+                    "credits": credits,
+                    "xp": xp,
                     "started_time": started_time,
                     "mmt_code": chosen_mmt_codes[index],
                 }

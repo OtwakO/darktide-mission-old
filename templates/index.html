@@ -7,12 +7,8 @@
     <title>Darktide Mission</title>
     <link rel="icon"
         href="https://cdn.prod.website-files.com/65786ec854ee7451f4f7291a/65786ec854ee7451f4f729ba_favicon-32x32.png">
-    <link rel="prefetch"
-        href="https://raw.githubusercontent.com/OtwakO/darktide-mission/refs/heads/main/assets/icons/credits.png"
-        as="image" type="image/jpeg">
-    <link rel="prefetch"
-        href="https://raw.githubusercontent.com/OtwakO/darktide-mission/refs/heads/main/assets/icons/xp.png" as="image"
-        type="image/jpeg">
+    <link rel="prefetch" href="{{ server_entry_point }}/assets/icons/credits.png" as="image" type="image/jpeg">
+    <link rel="prefetch" href="{{ server_entry_point }}/assets/icons/xp.png" as="image" type="image/jpeg">
     <link href="https://cdn.jsdelivr.net/npm/daisyui@4.12.10/dist/full.min.css" rel="stylesheet" type="text/css" />
     <script src="https://cdn.tailwindcss.com"></script>
     <script src="https://unpkg.com/htmx.org@2.0.0"></script>
@@ -91,7 +87,8 @@
             </div>
             <div class="filter-list">
                 <form id="filter-form" hx-post="{{ server_entry_point }}/get_missions" hx-target="#mission-grid"
-                    hx-swap="innerHTML" hx-vals='{"language": "{{ language }}"}' hx-boost="true">
+                    hx-swap="innerHTML"
+                    hx-vals='{"language": "{{ language }}", "entry_point": "{{ server_entry_point }}"}' hx-boost="true">
                     <p class="font-bold text-center"> {{ ui_translations.difficulty_header }} </p>
                     {% for difficulty, translation in difficulties.items() %}
                     <label class="cursor-pointer label">
@@ -170,7 +167,7 @@
         cardDivs.forEach(div => {
             div.addEventListener('mouseenter', () => {
                 const imageSrc = div.getAttribute('data-image'); // Get the image source
-                tooltip.src = `https://raw.githubusercontent.com/OtwakO/darktide-mission/refs/heads/main/assets/maps/${imageSrc}.png`; // Update the tooltip image source
+                tooltip.src = `{{ server_entry_point }}/assets/maps/${imageSrc}.png`; // Update the tooltip image source
                 console.log(imageSrc);
             });
         });

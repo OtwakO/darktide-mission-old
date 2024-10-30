@@ -88,7 +88,9 @@ async def get_missions(request: Request) -> Template:
         filter_keywords = [
             key
             for key in form_data
-            if key != "language" and key != "auric_maelstrom_only"
+            if key != "language"
+            and key != "auric_maelstrom_only"
+            and key != "entry_point"
         ]
         mission_gatherer.filter_keywords = filter_keywords
         if form_data.get("auric_maelstrom_only", "false") == "on":
@@ -102,6 +104,7 @@ async def get_missions(request: Request) -> Template:
         context = {
             "missions": mission_data,
             "ui_translations": UI_TRANSLATIONS,
+            "server_entry_point": form_data.get("entry_point", ""),
         }
         return Template(template_name="mission.html", context=context)
 
@@ -110,7 +113,7 @@ app = Litestar(
     [
         index,
         get_missions,
-        create_static_files_router(path="/assets", directories=["assets"]),
+        create_static_files_router(path="/assets", directories=[ASSETS_DIR]),
     ],
     template_config=TemplateConfig(directory="templates", engine=JinjaTemplateEngine),
     cors_config=cors_config,

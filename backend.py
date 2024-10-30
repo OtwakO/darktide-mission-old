@@ -3,7 +3,6 @@ from litestar import Litestar, Request, get, post
 from litestar.config.cors import CORSConfig
 
 # from litestar.contrib.htmx.request import HTMXRequest
-from litestar.contrib.htmx.response import HTMXTemplate
 from litestar.contrib.jinja import JinjaTemplateEngine
 from litestar.response import Template
 from litestar.template.config import TemplateConfig

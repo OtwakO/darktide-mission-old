@@ -180,14 +180,15 @@ class MissionGatherer:
 
 if __name__ == "__main__":
     test = MissionGatherer()
-    # test.language = "en"
+    test.language = "en"
     # test.filter_keywords = ["Monstrous", "Shock Troop", "Damnation", "Enclavum Baross"]
-    # missions = test.get_requested_missions(auric_maelstrom_only=False)
-    # print(missions)
+    test.filter_keywords = ["Monstrous"]
+    missions = test.get_requested_missions(auric_maelstrom_only=False)
+    print(missions[0])
 
-    debug_missions = [
-        "Enclavum Baross · Strike · Damnation · Monstrous Shock Troop Gauntlet With Snipers & Pox Gas · No books · Started 16hrs ago",
-        "Vigil Station Oblivium · Espionage · Damnation · Hi-intensity Pox Gas · No books · Started 6.5hrs ago",
-    ]
-    debug_result = test.translate_missions(debug_missions, "zh-cn")
-    print(debug_result)
+    # debug_missions = [
+    #     "Enclavum Baross · Strike · Damnation · Monstrous Shock Troop Gauntlet With Snipers & Pox Gas · No books · Started 16hrs ago",
+    #     "Vigil Station Oblivium · Espionage · Damnation · Hi-intensity Pox Gas · No books · Started 6.5hrs ago",
+    # ]
+    # debug_result = test.translate_missions(debug_missions, "zh-cn")
+    # print(debug_result)

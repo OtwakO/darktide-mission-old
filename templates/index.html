@@ -8,10 +8,11 @@
     <link rel="icon"
         href="https://cdn.prod.website-files.com/65786ec854ee7451f4f7291a/65786ec854ee7451f4f729ba_favicon-32x32.png">
     <link rel="prefetch"
-        href="https://raw.githubusercontent.com/OtwakO/darktide-mission/refs/heads/main/assets/credits.png" as="image"
-        type="image/jpeg">
-    <link rel="prefetch" href="https://raw.githubusercontent.com/OtwakO/darktide-mission/refs/heads/main/assets/xp.png"
+        href="https://raw.githubusercontent.com/OtwakO/darktide-mission/refs/heads/main/assets/icons/credits.png"
         as="image" type="image/jpeg">
+    <link rel="prefetch"
+        href="https://raw.githubusercontent.com/OtwakO/darktide-mission/refs/heads/main/assets/icons/xp.png" as="image"
+        type="image/jpeg">
     <link href="https://cdn.jsdelivr.net/npm/daisyui@4.12.10/dist/full.min.css" rel="stylesheet" type="text/css" />
     <script src="https://cdn.tailwindcss.com"></script>
     <script src="https://unpkg.com/htmx.org@2.0.0"></script>
@@ -130,5 +131,31 @@
         </div>
     </div>
 </body>
+<script>
+    document.body.addEventListener('htmx:afterSwap', function (evt) {
+        // 2. Do your own logic here
+        console.log(evt.detail)
+    });
+
+    function loadImageTooltip() {
+        const tooltip = document.querySelector('.image-tooltip');
+        const cardDivs = document.querySelectorAll('.card');
+        const tooltipContainer = document.querySelector('.image-tooltip-container');
+
+        cardDivs.forEach(div => {
+            div.addEventListener('mouseenter', () => {
+                const imageSrc = div.getAttribute('data-image'); // Get the image source
+                tooltip.src = `https://raw.githubusercontent.com/OtwakO/darktide-mission/refs/heads/main/assets/maps/${imgSrc}.png`; // Update the tooltip image source
+                tooltipContainer.style.visibility = 'visible'; // Show the tooltip
+                tooltipContainer.style.opacity = '1'; // Make it fully visible
+            });
+
+            div.addEventListener('mouseleave', () => {
+                tooltipContainer.style.visibility = 'hidden'; // Hide the tooltip
+                tooltipContainer.style.opacity = '0'; // Make it transparent
+            });
+        });
+    }
+</script>
 
 </html>

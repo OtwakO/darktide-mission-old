@@ -62,6 +62,22 @@
     .xp-icon {
         filter: brightness(0) saturate(100%) invert(25%) sepia(75%) saturate(2339%) hue-rotate(344deg) brightness(88%) contrast(98%);
     }
+
+    .image-tooltip-container {
+        position: fixed;
+        visibility: hidden;
+        background-color: transparent;
+        opacity: 0;
+        transition: opacity 0.2s ease, visibility 0.2s ease;
+        z-index: 1000;
+    }
+
+    .image-tooltip {
+        width: 600px;
+        height: auto;
+        border-radius: 15px;
+        box-shadow: 0 4px 10px rgba(0, 0, 0, 0.8);
+    }
 </style>
 
 <body class="h-screen w-screen">
@@ -124,37 +140,61 @@
                 </form>
             </div>
         </div>
+
         <div class="mission-page-container basis-5/6 p-2">
             <div class="mission-grid" id="mission-grid">
 
             </div>
         </div>
+
+        <div class="image-tooltip-container">
+            <img class="image-tooltip" src="" />
+        </div>
     </div>
 </body>
+
 <script>
     document.body.addEventListener('htmx:afterSwap', function (evt) {
         // 2. Do your own logic here
-        console.log(evt.detail)
+        if (evt.detail.target.id === "mission-grid") {
+            loadImageTooltip();
+        }
     });
 
     function loadImageTooltip() {
         const tooltip = document.querySelector('.image-tooltip');
         const cardDivs = document.querySelectorAll('.card');
+        const tooltipHoverEle = document.querySelectorAll('.tooltip-hover');
         const tooltipContainer = document.querySelector('.image-tooltip-container');
 
         cardDivs.forEach(div => {
             div.addEventListener('mouseenter', () => {
                 const imageSrc = div.getAttribute('data-image'); // Get the image source
-                tooltip.src = `https://raw.githubusercontent.com/OtwakO/darktide-mission/refs/heads/main/assets/maps/${imgSrc}.png`; // Update the tooltip image source
+                tooltip.src = `https://raw.githubusercontent.com/OtwakO/darktide-mission/refs/heads/main/assets/maps/${imageSrc}.png`; // Update the tooltip image source
+            });
+        });
+
+        tooltipHoverEle.forEach(ele => {
+            ele.addEventListener('mouseenter', () => {
                 tooltipContainer.style.visibility = 'visible'; // Show the tooltip
                 tooltipContainer.style.opacity = '1'; // Make it fully visible
+                updateTooltipPosition(event); // Initial positioning
             });
 
-            div.addEventListener('mouseleave', () => {
+            ele.addEventListener('mouseleave', () => {
                 tooltipContainer.style.visibility = 'hidden'; // Hide the tooltip
                 tooltipContainer.style.opacity = '0'; // Make it transparent
             });
+
         });
+    }
+
+    function updateTooltipPosition(event) {
+        const tooltipContainer = document.querySelector('.image-tooltip-container');
+        const offset = 8; // Offset tooltip position from cursor
+
+        tooltipContainer.style.left = `${event.pageX + offset}px`;
+        tooltipContainer.style.top = `${event.pageY + offset}px`;
     }
 </script>
 

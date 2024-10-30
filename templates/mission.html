@@ -2,8 +2,8 @@
 <div class="card bg-base-100 shadow-xl m-2" data-image="{{ mission.image_name }}">
     <div class="card-body">
         <div class="card-header flex justify-between">
-            <h2 class="card-title justify-center">
-                {{ mission.map_name }}
+            <h2 class="card-title justify-center items-center">
+                {{ mission.map_name }} <i class="fa-regular fa-image text-stone-400 tooltip-hover"></i>
             </h2>
             <button class="btn btn-md btn-neutral"
                 onclick="navigator.clipboard.writeText('{{ mission.mmt_code }}');CrispyToast.success('{{ ui_translations.copy_success }}', { position: 'bottom-right'})">

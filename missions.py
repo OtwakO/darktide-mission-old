@@ -6,6 +6,7 @@ import requests
 from bs4 import BeautifulSoup
 
 from translations.mission.flash import FLASH_MISSIONS
+from translations.mission.tooltip_mapping import get_image_name_by_raw_map_name
 
 
 class MissionGatherer:
@@ -125,6 +126,20 @@ class MissionGatherer:
             translated_missions.append(translated_mission)
         return translated_missions
 
+    def get_raw_map_name_for_image_tooltip(self, map_name, language):
+        if language == "zh-tw":
+            from translations.mission.traditional_chinese import TRANSLATION
+
+        elif language == "zh-cn":
+            from translations.mission.simplified_chinese import TRANSLATION
+
+        else:
+            from translations.mission.english import TRANSLATION
+
+        for replacement in TRANSLATION:
+            if map_name == replacement[1]:
+                return replacement[0]
+
     def get_mission_info(self, mission):
         try:
             map_name, mission_type, difficulty, modifiers, book, started_time = (
@@ -157,6 +172,9 @@ class MissionGatherer:
             map_name, mission_type, difficulty, modifiers, book, started_time = (
                 self.get_mission_info(mission)
             )
+            raw_map_name = self.get_raw_map_name_for_image_tooltip(
+                map_name, self.language
+            )
             credits, xp = self.find_mission_credits_xp_by_code(
                 all_credits_xp_data[chosen_mmt_codes[index].replace("/mmt ", "")]
             )
@@ -170,6 +188,8 @@ class MissionGatherer:
                     "credits": credits,
                     "xp": xp,
                     "started_time": started_time,
+                    "raw_mission_name": raw_map_name,
+                    "image_name": get_image_name_by_raw_map_name(raw_map_name),
                     "mmt_code": chosen_mmt_codes[index],
                 }
             )

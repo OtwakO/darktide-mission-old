@@ -62,6 +62,22 @@
     .xp-icon {
         filter: brightness(0) saturate(100%) invert(25%) sepia(75%) saturate(2339%) hue-rotate(344deg) brightness(88%) contrast(98%);
     }
+
+    .image-tooltip-container {
+        position: fixed;
+        visibility: hidden;
+        background-color: transparent;
+        opacity: 0;
+        transition: opacity 0.2s ease, visibility 0.2s ease;
+        z-index: 1000;
+    }
+
+    .image-tooltip {
+        width: 600px;
+        height: auto;
+        border-radius: 15px;
+        box-shadow: 0 4px 10px rgba(0, 0, 0, 0.8);
+    }
 </style>
 
 <body class="h-screen w-screen">

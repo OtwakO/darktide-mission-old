@@ -52,7 +52,7 @@ async def index(request: Request) -> Template:
         )
 
     context = {
-        "server_entry_point": entry_point,
+        "server_entry_point": entry_point.strip("/"),
         "language": language,
         "ui_translations": UI_TRANSLATIONS,
         "difficulties": DIFFICULTIES,

@@ -1,6 +1,4 @@
 # -*- coding: utf-8 -*-
-from pathlib import Path
-
 from litestar import Litestar, Request, get, post
 from litestar.config.cors import CORSConfig
 
@@ -8,13 +6,11 @@ from litestar.config.cors import CORSConfig
 from litestar.contrib.htmx.response import HTMXTemplate
 from litestar.contrib.jinja import JinjaTemplateEngine
 from litestar.response import Template
-from litestar.static_files import create_static_files_router
 from litestar.template.config import TemplateConfig
 
 from missions import MissionGatherer
 
 cors_config = CORSConfig(allow_origins=["*"])
-ASSETS_DIR = Path("assets")
 
 
 def initialization():
@@ -110,11 +106,7 @@ async def get_missions(request: Request) -> Template:
 
 
 app = Litestar(
-    [
-        index,
-        get_missions,
-        create_static_files_router(path="/assets", directories=["assets"]),
-    ],
+    [index, get_missions],
     template_config=TemplateConfig(directory="templates", engine=JinjaTemplateEngine),
     cors_config=cors_config,
     on_startup=[initialization],

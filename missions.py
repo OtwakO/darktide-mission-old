@@ -135,7 +135,6 @@ class MissionGatherer:
 
         else:
             from translations.mission.english import TRANSLATION
-
         for replacement in TRANSLATION:
             if map_name == replacement[1]:
                 return replacement[0]
@@ -172,11 +171,11 @@ class MissionGatherer:
             map_name, mission_type, difficulty, modifiers, book, started_time = (
                 self.get_mission_info(mission)
             )
-            raw_map_name = self.get_raw_map_name_for_image_tooltip(
-                map_name, self.language
-            )
             credits, xp = self.find_mission_credits_xp_by_code(
                 all_credits_xp_data[chosen_mmt_codes[index].replace("/mmt ", "")]
+            )
+            raw_map_name = self.get_raw_map_name_for_image_tooltip(
+                map_name, self.language
             )
             mission_data.append(
                 {

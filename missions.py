@@ -146,8 +146,8 @@ class MissionGatherer:
     # Main functions
     def get_requested_missions(self, auric_maelstrom_only=False):
         mission_data = []
-        all_credits_xp_data = self.get_all_mission_credits_xp()
         self.get_missions(auric_maelstrom_only)
+        all_credits_xp_data = self.get_all_mission_credits_xp()
         converted_missions = self.convert_flash_missions(self.missions)
         translated_missions = self.translate_missions(converted_missions, self.language)
         chosen_missions, chosen_mmt_codes = self.filter_missions(

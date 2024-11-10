@@ -106,6 +106,7 @@
 
                     <div class="divider m-0 p-0"></div>
 
+                    {% if event_filters %}
                     <p class="font-bold text-center"> {{ ui_translations.event_filter_header }} </p>
                     {% for event_filter, translation in event_filters.items() %}
                     <label class="cursor-pointer label">
@@ -113,8 +114,8 @@
                         <input type="checkbox" class="checkbox" name="{{ translation }}" />
                     </label>
                     {% endfor %}
-
                     <div class="divider m-0 p-0"></div>
+                    {% endif %}
 
                     <p class="font-bold text-center"> {{ ui_translations.filter_header }} </p>
                     <label class="cursor-pointer label">

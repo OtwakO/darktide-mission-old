@@ -2,6 +2,7 @@ UI_TRANSLATIONS = {
     "search_header": "Filter Mission",
     "difficulty_header": "Difficulties",
     "filter_header": "Modifiers",
+    "event_filter_header": "Event Modifiers",
     "search_button": "Search",
     "copy_btn": "Copy",
     "copy_success": "Copied to clipboard!",
@@ -51,8 +52,11 @@ FILTERS = {
     # "High-Intensity Toxic Gas": "High-Intensity Toxic Gas",
     # "Low-Intensity Toxic Gas": "Low-Intensity Toxic Gas",
     "Twin Toxic Gas": "Twin Toxic Gas",
-    # Limited Event
-    "Infected Moebian 21st": "Infected Moebian 21st",
+}
+
+EVENT_FILTERS = {
+    # "Infected Moebian 21st": "Infected Moebian 21st",
+    "Mutated Horrors": "Mutated Horrors",
 }
 
 MAPS = {

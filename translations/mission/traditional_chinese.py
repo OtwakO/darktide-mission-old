@@ -1,5 +1,5 @@
 TRANSLATION = (
-    # Remove unwanted characters
+    ## Remove unwanted characters
     ("\(", ""),
     ("\)", ""),
     ("&", ""),
@@ -9,16 +9,16 @@ TRANSLATION = (
     ("With", ""),
     ("Started", ""),
     ("ago", ""),
-    # Precondition
+    ## Precondition
     ("Snipers", "Sniper"),
     ("hrs", " 小時前"),
-    # Difficulty
+    ## Difficulty
     ("Sedition", "暴動 (T1)"),
     ("Uprising", "起義 (T2)"),
     ("Malice", "惡毒 (T3)"),
     ("Heresy", "叛亂 (T4)"),
     ("Damnation", "詛咒 (T5)"),
-    # Modifiers
+    ## Modifiers
     ("Hi-intensity Pox Gas", "#高濃度瘟疫毒氣"),
     ("Low intensity Pox Gas", "#低濃度瘟疫毒氣"),
     ("Default", "#普通"),
@@ -42,6 +42,7 @@ TRANSLATION = (
     ("Barrels", "#較多爆炸桶"),
     ("Pox Gas", "#瘟疫毒氣"),
     ("toxic_gas_twins_01", "#雙頭犬瘟疫毒氣"),
+    ## Time limited modifiers (Events)
     ("moebian_21st_01", "#染疫的莫比亞第21師"),
     ("moebian_21st_02", "#染疫的莫比亞第21師 #高強度 #狩獵場"),
     ("moebian_21st_03", "#染疫的莫比亞第21師 #高強度 #交戰區"),
@@ -55,7 +56,20 @@ TRANSLATION = (
         "#染疫的莫比亞第21師 #高強度 #狙擊手 #清掃通風",
     ),
     ("moebian_21st_07", "#染疫的莫比亞第21師 #高強度 #突擊兵部隊"),
-    # Mission Types
+    ("nurgle_explosion_01", "#突變驚懼"),
+    ("nurgle_explosion_02", "#突變驚懼 #高強度 #狩獵場"),
+    ("nurgle_explosion_03", "#突變驚懼 #高強度"),
+    (
+        "nurgle_explosion_04",
+        "#突變驚懼 #高強度 #斷電",
+    ),
+    ("nurgle_explosion_05", "#突變驚懼 #高強度 #瘟疫毒氣"),
+    (
+        "nurgle_explosion_06",
+        "#突變驚懼 #高強度 #清掃通風",
+    ),
+    ("nurgle_explosion_07", "#突變驚懼 #高強度 #突擊兵部隊"),
+    ## Mission Types
     ("Assassination", "刺殺任務"),
     ("Disruption", "破壞任務"),
     ("Espionage", "諜報任務"),
@@ -65,11 +79,11 @@ TRANSLATION = (
     ("Strike", "打擊任務"),
     ("Special", "特殊任務"),
     ("Operations", "行動任務"),
-    # Book
+    ## Book
     ("No books", "無書"),
     ("Recover Scriptures", "取得紅書"),
     ("Seize Grimoires", "取得白書"),
-    # Maps
+    ## Maps
     ("Archivum Sycorax", "塞科拉克斯檔案館"),
     ("Ascension Riser 31", "31號升降機"),
     ("Chasm Logistratum", "隘口後勤處"),

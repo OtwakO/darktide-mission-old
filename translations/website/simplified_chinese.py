@@ -2,6 +2,7 @@ UI_TRANSLATIONS = {
     "search_header": "搜寻任务",
     "difficulty_header": "难度",
     "filter_header": "词缀",
+    "event_filter_header": "活动词缀",
     "search_button": "搜寻",
     "copy_btn": "复制",
     "copy_success": "已复制到剪贴簿",
@@ -51,6 +52,11 @@ FILTERS = {
     "Twin Toxic Gas": "双头犬瘟疫毒气",
     # Limited Event
     "Infected Moebian 21st": "被感染的莫比亚21团士兵",
+}
+
+EVENT_FILTERS = {
+    # "Infected Moebian 21st": "被感染的莫比亚21团士兵",
+    "Mutated Horrors": "变异惧妖",
 }
 
 MAPS = {

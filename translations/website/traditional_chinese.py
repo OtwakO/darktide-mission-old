@@ -2,6 +2,7 @@ UI_TRANSLATIONS = {
     "search_header": "搜尋任務",
     "difficulty_header": "難度",
     "filter_header": "詞綴",
+    "event_filter_header": "活動詞綴",
     "search_button": "搜尋",
     "copy_btn": "複製",
     "copy_success": "已複製到剪貼簿",
@@ -49,8 +50,11 @@ FILTERS = {
     "Pox Gas (High Concentration)": "高濃度瘟疫毒氣",
     "Pox Gas (Low Concentration)": "低濃度瘟疫毒氣",
     "Twin Toxic Gas": "雙頭犬瘟疫毒氣",
-    # Limited Event
-    "Infected Moebian 21st": "染疫的莫比亞第21師",
+}
+
+EVENT_FILTERS = {
+    # "Infected Moebian 21st": "染疫的莫比亞第21師",
+    "Mutated Horrors": "突變驚懼",
 }
 
 MAPS = {

@@ -29,6 +29,7 @@ async def index(request: Request) -> Template:
         from translations.website.english import (
             BOOKS,
             DIFFICULTIES,
+            EVENT_FILTERS,
             FILTERS,
             MAPS,
             UI_TRANSLATIONS,
@@ -38,6 +39,7 @@ async def index(request: Request) -> Template:
         from translations.website.traditional_chinese import (
             BOOKS,
             DIFFICULTIES,
+            EVENT_FILTERS,
             FILTERS,
             MAPS,
             UI_TRANSLATIONS,
@@ -47,6 +49,7 @@ async def index(request: Request) -> Template:
         from translations.website.simplified_chinese import (
             BOOKS,
             DIFFICULTIES,
+            EVENT_FILTERS,
             FILTERS,
             MAPS,
             UI_TRANSLATIONS,
@@ -58,6 +61,7 @@ async def index(request: Request) -> Template:
         "ui_translations": UI_TRANSLATIONS,
         "difficulties": DIFFICULTIES,
         "filters": FILTERS,
+        "event_filters": EVENT_FILTERS,
         "maps": MAPS,
         "books": BOOKS,
     }

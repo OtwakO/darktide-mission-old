@@ -1,5 +1,5 @@
 TRANSLATION = (
-    # Remove unwanted characters
+    ## Remove unwanted characters
     ("\(", ""),
     ("\)", ""),
     ("&", ""),
@@ -8,16 +8,16 @@ TRANSLATION = (
     ("Gauntlet", ""),
     ("With", ""),
     ("Started", ""),
-    # Precondition
+    ## Precondition
     ("hrs", " hours"),
     ("Snipers", "Sniper"),
-    # Difficulty
+    ## Difficulty
     ("Sedition", "Sedition (T1)"),
     ("Uprising", "Uprising (T2)"),
     ("Malice", "Malice (T3)"),
     ("Heresy", "Heresy (T4)"),
     ("Damnation", "Damnation (T5)"),
-    # Modifiers
+    ## Modifiers
     ("Hi-intensity Pox Gas", "#Hi-Concentrated Pox-Gas"),
     ("Low intensity Pox Gas", "#Low-Concentrated Pox-Gas"),
     ("Default", "#Default"),
@@ -41,6 +41,7 @@ TRANSLATION = (
     ("Barrels", "#Barrels"),
     ("Pox Gas", "#Pox-Gas"),
     ("toxic_gas_twins_01", "#Twin Toxic Gas"),
+    ## Time limited modifiers (Events)
     ("moebian_21st_01", "#Infected Moebian 21st"),
     ("moebian_21st_02", "#Infected Moebian 21st #Hi-Intensity #Hunting Grounds"),
     ("moebian_21st_03", "#Infected Moebian 21st #Hi-Intensity #Engagement Zone"),
@@ -54,7 +55,20 @@ TRANSLATION = (
         "#Infected Moebian 21st #Hi-Intensity #Sniper #Ventilation Purge",
     ),
     ("moebian_21st_07", "#Infected Moebian 21st #Hi-Intensity #Shock Troop"),
-    # Mission Types
+    ("nurgle_explosion_01", "#Mutated Horrors"),
+    ("nurgle_explosion_02", "#Mutated Horrors #Hi-Intensity #Hunting Grounds"),
+    ("nurgle_explosion_03", "#Mutated Horrors #Hi-Intensity"),
+    (
+        "nurgle_explosion_04",
+        "#Mutated Horrors #Hi-Intensity #Power Supply Interruption",
+    ),
+    ("nurgle_explosion_05", "#Mutated Horrors #Hi-Intensity #Toxic Gas"),
+    (
+        "nurgle_explosion_06",
+        "#Mutated Horrors #Hi-Intensity #Ventilation Purge",
+    ),
+    ("nurgle_explosion_07", "#Mutated Horrors #Hi-Intensity #Shock Troop"),
+    ## Mission Types
     ("Assassination", "Assassination"),
     ("Disruption", "Disruption"),
     ("Espionage", "Espionage"),
@@ -64,11 +78,11 @@ TRANSLATION = (
     ("Strike", "Strike"),
     ("Special", "Special"),
     ("Operations", "Operations"),
-    # Book
+    ## Book
     ("No books", "No books"),
     ("Recover Scriptures", "Recover Scriptures"),
     ("Seize Grimoires", "Seize Grimoires"),
-    # Maps
+    ## Maps
     ("Archivum Sycorax", "Archivum Sycorax"),
     ("Ascension Riser 31", "Ascension Riser 31"),
     ("Chasm Logistratum", "Chasm Logistratum"),

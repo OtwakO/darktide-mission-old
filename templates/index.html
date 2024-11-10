@@ -87,6 +87,9 @@
                 <form id="filter-form" hx-post="{{ server_entry_point }}/get_missions" hx-target="#mission-grid"
                     hx-swap="innerHTML"
                     hx-vals='{"language": "{{ language }}", "entry_point": "{{ server_entry_point }}"}' hx-boost="true">
+
+                    <div class="divider m-0 p-0"></div>
+
                     <p class="font-bold text-center"> {{ ui_translations.difficulty_header }} </p>
                     {% for difficulty, translation in difficulties.items() %}
                     <label class="cursor-pointer label">
@@ -101,6 +104,8 @@
                     </label>
                     {% endfor %}
 
+                    <div class="divider m-0 p-0"></div>
+
                     <p class="font-bold text-center"> {{ ui_translations.filter_header }} </p>
                     <label class="cursor-pointer label">
                         <span class="label-text">{{ ui_translations.maelstrom_translation }}</span>
@@ -112,6 +117,18 @@
                         <input type="checkbox" class="checkbox" name="{{ translation }}" />
                     </label>
                     {% endfor %}
+
+                    <div class="divider m-0 p-0"></div>
+
+                    <p class="font-bold text-center"> {{ ui_translations.event_filter_header }} </p>
+                    {% for event_filter, translation in event_filters.items() %}
+                    <label class="cursor-pointer label">
+                        <span class="label-text">{{ translation }}</span>
+                        <input type="checkbox" class="checkbox" name="{{ translation }}" />
+                    </label>
+                    {% endfor %}
+
+                    <div class="divider m-0 p-0"></div>
 
                     <p class="font-bold text-center"> {{ ui_translations.maps_header }} </p>
                     {% for map, translation in maps.items() %}

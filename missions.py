@@ -53,6 +53,13 @@ class MissionGatherer:
                 xp += extra_reward_info["xp"]
         return credits, xp
 
+    # Check if mission is auric
+    def is_auric_mission(self, specific_mission_data):
+        is_auric = specific_mission_data.get("category", False)
+        if is_auric:
+            return True
+        return False
+
     def fix_new_mission(self):
         # If new missions are missing mission type etc...
 
@@ -174,6 +181,9 @@ class MissionGatherer:
             credits, xp = self.find_mission_credits_xp_by_code(
                 all_credits_xp_data[chosen_mmt_codes[index].replace("/mmt ", "")]
             )
+            is_auric = self.is_auric_mission(
+                all_credits_xp_data[chosen_mmt_codes[index].replace("/mmt ", "")]
+            )
             raw_map_name = self.get_raw_map_name_for_image_tooltip(
                 map_name, self.language
             )
@@ -186,6 +196,7 @@ class MissionGatherer:
                     "book": book,
                     "credits": credits,
                     "xp": xp,
+                    "is_auric": is_auric,
                     "started_time": started_time,
                     "raw_mission_name": raw_map_name,
                     "image_name": get_image_name_by_raw_map_name(raw_map_name),

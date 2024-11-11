@@ -1,6 +1,6 @@
 {% for mission in missions %}
 <div class="card bg-base-100 shadow-xl m-2" data-image="{{ mission.image_name }}">
-    <div class="card-body">
+    <div class="card-body {% if mission.is_auric %}auric{% endif %}">
         <div class="card-header flex justify-between">
             <h2 class="card-title justify-center items-center">
                 {{ mission.map_name }} <i class="fa-regular fa-image text-stone-400 tooltip-hover"></i>

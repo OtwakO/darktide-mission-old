@@ -93,6 +93,7 @@ async def get_missions(request: Request) -> Template:
             key
             for key in form_data
             if key != "language"
+            and key != "auric_only"
             and key != "auric_maelstrom_only"
             and key != "entry_point"
         ]
@@ -105,6 +106,10 @@ async def get_missions(request: Request) -> Template:
         mission_data = mission_gatherer.get_requested_missions(
             auric_maelstrom_only=auric_maelstrom_only
         )
+        if form_data.get("auric_only", "false") == "on":
+            mission_data = [
+                mission for mission in mission_data if mission["is_auric"] is True
+            ]
         context = {
             "missions": mission_data,
             "ui_translations": UI_TRANSLATIONS,

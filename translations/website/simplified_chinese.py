@@ -6,7 +6,8 @@ UI_TRANSLATIONS = {
     "search_button": "搜寻",
     "copy_btn": "复制",
     "copy_success": "已复制到剪贴簿",
-    "maelstrom_translation": "仅金漩涡",
+    "auric_translation": "仅金级任务",
+    "auric_maelstrom_translation": "仅金漩涡",
     "maps_header": "地图",
 }
 

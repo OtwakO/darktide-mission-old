@@ -72,6 +72,11 @@
         border-radius: 15px;
         box-shadow: 0 4px 10px rgba(0, 0, 0, 0.8);
     }
+
+    .auric {
+        box-shadow: inset 0 0 0 4px #eab308;
+        border-radius: 6.4px;
+    }
 </style>
 
 <body class="h-screen w-screen">
@@ -119,7 +124,11 @@
 
                     <p class="font-bold text-center"> {{ ui_translations.filter_header }} </p>
                     <label class="cursor-pointer label">
-                        <span class="label-text">{{ ui_translations.maelstrom_translation }}</span>
+                        <span class="label-text">{{ ui_translations.auric_translation }}</span>
+                        <input type="checkbox" class="checkbox" name="auric_only" />
+                    </label>
+                    <label class="cursor-pointer label">
+                        <span class="label-text">{{ ui_translations.auric_maelstrom_translation }}</span>
                         <input type="checkbox" class="checkbox" name="auric_maelstrom_only" />
                     </label>
                     {% for filter, translation in filters.items() %}
@@ -138,18 +147,6 @@
                         <input type="checkbox" class="checkbox" name="{{ translation }}" />
                     </label>
                     {% endfor %}
-                    <!-- <label class="cursor-pointer label">
-                        <span class="label-text">{{ ui_translations.km_enforcer_twins }}</span>
-                        <input type="checkbox" class="checkbox" name="{{ ui_translations.km_enforcer_twins }}" />
-                    </label>
-                    <label class="cursor-pointer label">
-                        <span class="label-text">{{ ui_translations.core_research }}</span>
-                        <input type="checkbox" class="checkbox" name="{{ ui_translations.core_research }}" />
-                    </label>
-                    <label class="cursor-pointer label">
-                        <span class="label-text">{{ ui_translations.op_train }}</span>
-                        <input type="checkbox" class="checkbox" name="{{ ui_translations.op_train }}" />
-                    </label> -->
                 </form>
             </div>
         </div>

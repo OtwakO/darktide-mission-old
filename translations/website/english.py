@@ -6,7 +6,8 @@ UI_TRANSLATIONS = {
     "search_button": "Search",
     "copy_btn": "Copy",
     "copy_success": "Copied to clipboard!",
-    "maelstrom_translation": "Auric Maelstrom Only",
+    "auric_translation": "Auric Only",
+    "auric_maelstrom_translation": "Auric Maelstrom Only",
     "maps_header": "Maps",
 }
 

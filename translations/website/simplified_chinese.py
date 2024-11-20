@@ -51,8 +51,6 @@ FILTERS = {
     "Pox Gas (High Concentration)": "高浓度瘟疫毒气",
     "Pox Gas (Low Concentration)": "低浓度瘟疫毒气",
     "Twin Toxic Gas": "双头犬瘟疫毒气",
-    # Limited Event
-    "Infected Moebian 21st": "被感染的莫比亚21团士兵",
 }
 
 EVENT_FILTERS = {

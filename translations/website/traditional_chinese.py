@@ -55,7 +55,7 @@ FILTERS = {
 
 EVENT_FILTERS = {
     # "Infected Moebian 21st": "染疫的莫比亞第21師",
-    "Mutated Horrors": "突變驚懼",
+    # "Mutated Horrors": "突變驚懼",
 }
 
 MAPS = {

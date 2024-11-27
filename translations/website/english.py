@@ -57,7 +57,7 @@ FILTERS = {
 
 EVENT_FILTERS = {
     # "Infected Moebian 21st": "Infected Moebian 21st",
-    "Mutated Horrors": "Mutated Horrors",
+    # "Mutated Horrors": "Mutated Horrors",
 }
 
 MAPS = {

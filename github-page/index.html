@@ -110,7 +110,8 @@
                         <div class="flex gap-2">
                             <button class="btn btn-lg filter-search-btn"
                                 hx-post="https://darktide-mission.otwako.dev/send_report"
-                                hx-include="#report_author, #report_content" hx-swap="none">送出</button>
+                                hx-include="#report_author, #report_content" hx-swap="none"
+                                onclick="report_modal.close();CrispyToast.success('已送出', { position: 'bottom-right'})">送出</button>
                             <button class="btn btn-lg filter-search-btn" onclick="report_modal.close()">取消</button>
                         </div>
                 </div>

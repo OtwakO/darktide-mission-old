@@ -8,8 +8,6 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-apobj = apprise.Apprise()
-
 
 def get_discord_service():
     discord_url = os.getenv("DISCORD_WEBHOOK_URL")
@@ -17,6 +15,10 @@ def get_discord_service():
     discord_webhook_token = discord_url.split("/")[-1]
     discord_service = f"discord://{discord_webhook_id}/{discord_webhook_token}"
     return discord_service
+
+
+apobj = apprise.Apprise()
+apobj.add(get_discord_service())
 
 
 def send_notification(author, content):
@@ -28,7 +30,7 @@ def send_notification(author, content):
 {content}\n
 時間: {discord_timestamp}
 {"-"*50}"""
-    apobj.add(get_discord_service())
+
     apobj.notify(
         title="Darktide Mission Board - 問題/意見回報",
         body=message,

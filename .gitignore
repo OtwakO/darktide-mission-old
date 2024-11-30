@@ -6,3 +6,4 @@ result.json
 tailwind.config.js
 test
 gitlab-page
+.env

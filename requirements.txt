@@ -3,3 +3,5 @@
 requests
 litestar[standard]
 beautifulsoup4
+python-dotenv
+apprise

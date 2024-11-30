@@ -9,6 +9,7 @@ from litestar.static_files import create_static_files_router
 from litestar.template.config import TemplateConfig
 
 from missions import MissionGatherer
+from notification import send_notification
 
 cors_config = CORSConfig(allow_origins=["*"])
 ASSETS_DIR = Path("assets")
@@ -17,6 +18,17 @@ ASSETS_DIR = Path("assets")
 def initialization():
     global mission_gatherer
     mission_gatherer = MissionGatherer()
+
+
+@post("/send_report")
+async def send_report(request: Request) -> None:
+    form_data = await request.form()
+    username = form_data.get("report_author", None)
+    content = form_data.get("report_content", None)
+    if not username:
+        username = "Anonymous"
+    if content:
+        send_notification(username, content)
 
 
 @get("/")
@@ -123,6 +135,7 @@ app = Litestar(
         index,
         get_missions,
         create_static_files_router(path="/assets", directories=[ASSETS_DIR]),
+        send_report,
     ],
     template_config=TemplateConfig(directory="templates", engine=JinjaTemplateEngine),
     cors_config=cors_config,

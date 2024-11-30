@@ -96,6 +96,29 @@
             preload="mouseover">简体中文</button>
         <a data-m:click="refer_to=Gitlab" class="btn btn-lg filter-search-btn fixed top-4 left-4"
             href="https://otwako-projects.gitlab.io/darktide-mission/" target=”_blank”>備用節點 (載入慢可以試試)</a>
+        <div class="report-issue">
+            <button data-m:click="send_report" class="btn btn-lg filter-search-btn bottom-4 right-4 fixed"
+                onclick="report_modal.showModal()"><i class="fa-regular fa-envelope"> 問題回報/建議</i></button>
+            <dialog id="report_modal" class="modal">
+                <div class="modal-box w-1/3 flex flex-col gap-2">
+                    <div" class="flex align-center items-center justify-center flex-col gap-2">
+                        <label>回報問題/建議</label>
+                        <input type="text" id="report_author" placeholder="你的稱呼(選填)" name="report_author"
+                            class="input input-bordered w-full" />
+                        <textarea id="report_content" class="textarea textarea-bordered w-full" placeholder="內容"
+                            name="report_content"></textarea>
+                        <div class="flex gap-2">
+                            <button class="btn btn-lg filter-search-btn"
+                                hx-post="https://darktide-mission.otwako.dev/send_report"
+                                hx-include="#report_author, #report_content" hx-swap="none">送出</button>
+                            <button class="btn btn-lg filter-search-btn" onclick="report_modal.close()">取消</button>
+                        </div>
+                </div>
+                <form method="dialog" class="modal-backdrop">
+                    <button>取消</button>
+                </form>
+            </dialog>
+        </div>
     </div>
 </body>
 

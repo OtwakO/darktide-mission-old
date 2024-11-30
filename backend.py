@@ -22,13 +22,14 @@ def initialization():
 
 @post("/send_report")
 async def send_report(request: Request) -> None:
+    source_site = request.headers.get("hx-current-url", "")
     form_data = await request.form()
     username = form_data.get("report_author", None)
     content = form_data.get("report_content", None)
     if not username:
         username = "Anonymous"
     if content:
-        send_notification(username, content)
+        send_notification(username, content, source_site)
 
 
 @get("/")

@@ -21,7 +21,7 @@ apobj = apprise.Apprise()
 apobj.add(get_discord_service())
 
 
-def send_notification(author, content):
+def send_notification(author, content, source_site):
     current_time = int(datetime.timestamp(datetime.now()))
     discord_timestamp = f"<t:{current_time}:F>"
 
@@ -29,6 +29,7 @@ def send_notification(author, content):
 
 {content}\n
 時間: {discord_timestamp}
+來源網站: {source_site}
 {"-"*50}"""
 
     apobj.notify(

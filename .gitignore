@@ -7,4 +7,3 @@ tailwind.config.js
 test
 gitlab-page
 .env
-publish-page.bat

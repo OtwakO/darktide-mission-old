@@ -105,4 +105,5 @@ TRANSLATION = (
     ("Clandestium Gloriana", "克蘭岱斯提恩 - 格洛里亞納"),
     ("km_enforcer_twins", "雙頭犬攻勢"),
     ("op_train", "末路特快車"),
+    ("Dark Communion", "黑暗傳教團"),
 )

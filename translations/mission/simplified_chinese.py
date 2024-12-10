@@ -105,4 +105,5 @@ TRANSLATION = (
     ("Clandestium Gloriana", "荣光女王秘所"),
     ("km_enforcer_twins", "奥都斯攻势"),
     ("op_train", "钢轮滚滚"),
+    ("Dark Communion", "黑暗传教团"),
 )

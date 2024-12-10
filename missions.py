@@ -81,6 +81,12 @@ class MissionGatherer:
             for mission in self.missions
         ]
 
+        # Fix Dark Communion missions
+        self.missions = [
+            mission.replace("km_heresy · ", "Dark Communion · Investigation · ")
+            for mission in self.missions
+        ]
+
         # Change /mmtimport to /mmt
         self.mmt_codes = [code.replace("/mmtimport", "/mmt") for code in self.mmt_codes]
 
@@ -153,8 +159,10 @@ class MissionGatherer:
             )
         except ValueError:
             print(f"Invalid mission format: {mission}")
+            raise ValueError(f"Invalid mission format: {mission}")
         except Exception as e:
             print(f"Error parsing mission: {mission} with error {e}")
+            raise Exception(f"Error parsing mission: {mission} with error {e}")
         return (
             map_name,
             mission_type,

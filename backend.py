@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 from pathlib import Path
 
-from litestar import Litestar, Request, get, post
+from litestar import Litestar, Request, Response, get, post
 from litestar.config.cors import CORSConfig
 from litestar.contrib.jinja import JinjaTemplateEngine
 from litestar.response import Template
@@ -83,52 +83,66 @@ async def index(request: Request) -> Template:
 
 @post("/get_missions")
 async def get_missions(request: Request) -> Template:
-    if request.headers.get("hx-request", None) == "true":
-        form_data = await request.form()
-        language = form_data.get("language", "en")
+    try:
+        if request.headers.get("hx-request", None) == "true":
+            form_data = await request.form()
+            language = form_data.get("language", "en")
 
-        if language == "zh-tw":
-            mission_gatherer.language = "zh-tw"
-            from translations.website.traditional_chinese import (
-                FILTERS,
-                UI_TRANSLATIONS,
-            )
+            if language == "zh-tw":
+                mission_gatherer.language = "zh-tw"
+                from translations.website.traditional_chinese import (
+                    FILTERS,
+                    UI_TRANSLATIONS,
+                )
 
-        elif language == "zh-cn":
-            mission_gatherer.language = "zh-cn"
-            from translations.website.simplified_chinese import FILTERS, UI_TRANSLATIONS
+            elif language == "zh-cn":
+                mission_gatherer.language = "zh-cn"
+                from translations.website.simplified_chinese import (
+                    FILTERS,
+                    UI_TRANSLATIONS,
+                )
 
-        else:
-            mission_gatherer.language = "en"
-            from translations.website.english import FILTERS, UI_TRANSLATIONS
+            else:
+                mission_gatherer.language = "en"
+                from translations.website.english import FILTERS, UI_TRANSLATIONS
 
-        filter_keywords = [
-            key
-            for key in form_data
-            if key != "language"
-            and key != "auric_only"
-            and key != "auric_maelstrom_only"
-            and key != "entry_point"
-        ]
-        mission_gatherer.filter_keywords = filter_keywords
-        if form_data.get("auric_maelstrom_only", "false") == "on":
-            auric_maelstrom_only = True
-            mission_gatherer.filter_keywords.append(FILTERS["Hi-Intensity"])
-        else:
-            auric_maelstrom_only = False
-        mission_data = mission_gatherer.get_requested_missions(
-            auric_maelstrom_only=auric_maelstrom_only
-        )
-        if form_data.get("auric_only", "false") == "on":
-            mission_data = [
-                mission for mission in mission_data if mission["is_auric"] is True
+            filter_keywords = [
+                key
+                for key in form_data
+                if key != "language"
+                and key != "auric_only"
+                and key != "auric_maelstrom_only"
+                and key != "entry_point"
             ]
-        context = {
-            "missions": mission_data,
-            "ui_translations": UI_TRANSLATIONS,
-            "server_entry_point": form_data.get("entry_point", ""),
-        }
-        return Template(template_name="mission.html", context=context)
+            mission_gatherer.filter_keywords = filter_keywords
+            if form_data.get("auric_maelstrom_only", "false") == "on":
+                auric_maelstrom_only = True
+                mission_gatherer.filter_keywords.append(FILTERS["Hi-Intensity"])
+            else:
+                auric_maelstrom_only = False
+            mission_data = mission_gatherer.get_requested_missions(
+                auric_maelstrom_only=auric_maelstrom_only
+            )
+            if form_data.get("auric_only", "false") == "on":
+                mission_data = [
+                    mission for mission in mission_data if mission["is_auric"] is True
+                ]
+            context = {
+                "missions": mission_data,
+                "ui_translations": UI_TRANSLATIONS,
+                "server_entry_point": form_data.get("entry_point", ""),
+            }
+            return Template(template_name="mission.html", context=context)
+    except Exception as e:
+        source_site = request.headers.get("hx-current-url", "")
+        error_form_data = "".join(
+            [f"- {key}: {value}\n" for key, value in form_data.items()]
+        )
+        send_notification(
+            "System",
+            f"{e}\n\nForm data:\n{error_form_data}",
+            source_site,
+        )
 
 
 app = Litestar(

@@ -171,6 +171,14 @@
         }
     });
 
+    document.body.addEventListener("htmx:afterRequest", function (event) {
+        var statusCode = event.detail.xhr.status
+        var errorMsg = event.detail.xhr.statusText;
+        if (event.detail.successful !== true) {
+            CrispyToast.error(`${statusCode}: ${errorMsg}`, { position: 'bottom-right' });
+        }
+    })
+
     function loadImageTooltip() {
         const tooltip = document.querySelector('.image-tooltip');
         const cardDivs = document.querySelectorAll('.card');

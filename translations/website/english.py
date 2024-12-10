@@ -82,6 +82,7 @@ MAPS = {
     "The Orthus Offensive": "The Orthus Offensive",
     "Vigil Station Oblivium": "Vigil Station Oblivium",
     "Warren 6-19": "Warren 6-19",
+    "Dark Communion": "Dark Communion",
 }
 
 # Sort the maps alphabetically

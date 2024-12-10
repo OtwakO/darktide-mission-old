@@ -20,6 +20,7 @@ TOOLTIP_MAPPING = {
     "Clandestium Gloriana": "Clandestium_Gloriana",
     "km_enforcer_twins": "The_Orthus_Offensive",
     "op_train": "Rolling_Steel",
+    "Dark Communion": "Dark_Communion",
 }
 
 

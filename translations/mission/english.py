@@ -104,4 +104,5 @@ TRANSLATION = (
     ("Clandestium Gloriana", "Clandestium Gloriana"),
     ("km_enforcer_twins", "The Orthus Offensive"),
     ("op_train", "Rolling Steel"),
+    ("Dark Communion", "Dark Communion"),
 )

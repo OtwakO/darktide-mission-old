@@ -80,6 +80,7 @@ MAPS = {
     "The Orthus Offensive": "雙頭犬攻勢",
     "Vigil Station Oblivium": "奧布里維姆守夜站",
     "Warren 6-19": "窄巷區 6-19",
+    "Dark Communion": "黑暗傳教團",
 }
 
 # Sort the maps alphabetically

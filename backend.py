@@ -1,7 +1,8 @@
 # -*- coding: utf-8 -*-
 from pathlib import Path
 
-from litestar import Litestar, Request, Response, get, post
+from litestar import Litestar, Request, get, post
+from litestar.config.compression import CompressionConfig
 from litestar.config.cors import CORSConfig
 from litestar.contrib.jinja import JinjaTemplateEngine
 from litestar.response import Template
@@ -155,4 +156,5 @@ app = Litestar(
     template_config=TemplateConfig(directory="templates", engine=JinjaTemplateEngine),
     cors_config=cors_config,
     on_startup=[initialization],
+    compression_config=CompressionConfig(backend="gzip", gzip_compress_level=9),
 )

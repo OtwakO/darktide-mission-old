@@ -9,6 +9,7 @@ UI_TRANSLATIONS = {
     "auric_translation": "仅金级任务",
     "auric_maelstrom_translation": "仅金漩涡",
     "maps_header": "地图",
+    "empty_result": "没有找到任何任务",
 }
 
 DIFFICULTIES = {

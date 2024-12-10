@@ -133,7 +133,10 @@ async def get_missions(request: Request) -> Template:
                 "ui_translations": UI_TRANSLATIONS,
                 "server_entry_point": form_data.get("entry_point", ""),
             }
-            return Template(template_name="mission.html", context=context)
+            if mission_data:
+                return Template(template_name="mission.html", context=context)
+            else:
+                return Template(template_name="empty_result.html", context=context)
     except Exception as e:
         source_site = request.headers.get("hx-current-url", "")
         error_form_data = "".join(

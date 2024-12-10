@@ -9,6 +9,7 @@ UI_TRANSLATIONS = {
     "auric_translation": "Auric Only",
     "auric_maelstrom_translation": "Auric Maelstrom Only",
     "maps_header": "Maps",
+    "empty_result": "No missions found",
 }
 
 DIFFICULTIES = {

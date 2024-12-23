@@ -9,9 +9,8 @@ WORKDIR /app
 COPY . /app
 
 # Install the requirements
-RUN uv venv
 # RUN pip install --no-cache-dir --upgrade -r /app/requirements.txt
-RUN uv pip install -r requirements.txt
+RUN uv pip install –system –no-cache-dir -r requirements.txt
 
 # Expose the port the app runs on
 EXPOSE 80

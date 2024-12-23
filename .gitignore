@@ -2,10 +2,13 @@ __pycache__/
 *.pyc
 .venv
 .dockerignore
+.gitignore
 result.json
 tailwind.config.js
 test
 gitlab-page
 .env
+*.env
 publish-page.bat
 backup
+test*.py

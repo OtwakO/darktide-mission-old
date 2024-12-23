@@ -1,5 +1,6 @@
 # Set the base image using Python 3.12 and Debian Bookworm
-FROM python:3.12-slim-bookworm
+FROM python:3.12-alpine
+COPY --from=ghcr.io/astral-sh/uv:latest /uv /uvx /bin/
 
 # Set the working directory to /app
 WORKDIR /app
@@ -8,7 +9,9 @@ WORKDIR /app
 COPY . /app
 
 # Install the requirements
-RUN pip install --no-cache-dir --upgrade -r /app/requirements.txt
+RUN uv venv
+# RUN pip install --no-cache-dir --upgrade -r /app/requirements.txt
+RUN uv pip install -r requirements.txt
 
 # Expose the port the app runs on
 EXPOSE 80

@@ -10,7 +10,7 @@ COPY . /app
 
 # Install the requirements
 # RUN pip install --no-cache-dir --upgrade -r /app/requirements.txt
-RUN uv pip install –system –no-cache-dir -r requirements.txt
+RUN uv pip install --system --no-cache-dir -r requirements.txt
 
 # Expose the port the app runs on
 EXPOSE 80

@@ -68,6 +68,12 @@ TRANSLATION = (
         "#Mutated Horrors #Hi-Intensity #Ventilation Purge",
     ),
     ("nurgle_explosion_07", "#Mutated Horrors #Hi-Intensity #Shock Troop"),
+    ("abhuman_02", "#Brute Conscripts #Hi-Intensity #Hunting Grounds"),
+    ("abhuman_03", "#Brute Conscripts #Hi-Intensity"),
+    ("abhuman_04", "#Brute Conscripts #Hi-Intensity #Power Supply Interruption"),
+    ("abhuman_05", "#Brute Conscripts #Hi-Intensity #Toxic Gas"),
+    ("abhuman_06", "#Brute Conscripts #Hi-Intensity #Ventilation Purge"),
+    ("abhuman_07", "#Brute Conscripts #Hi-Intensity #Shock Troop"),
     ## Mission Types
     ("Assassination", "Assassination"),
     ("Disruption", "Disruption"),

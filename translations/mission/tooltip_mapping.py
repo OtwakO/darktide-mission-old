@@ -26,7 +26,7 @@ TOOLTIP_MAPPING = {
 
 # Get image name based on raw english map name
 def get_image_name_by_raw_map_name(map_name):
-    image_name = TOOLTIP_MAPPING.get(map_name, "")
+    image_name = TOOLTIP_MAPPING.get(map_name, "expired")
     if image_name == "":
         print(f"No image name found for map name: {map_name}")
     return image_name

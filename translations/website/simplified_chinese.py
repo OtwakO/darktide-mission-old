@@ -57,6 +57,7 @@ FILTERS = {
 EVENT_FILTERS = {
     # "Infected Moebian 21st": "被感染的莫比亚21团士兵",
     # "Mutated Horrors": "变异惧妖",
+    "Brute Conscripts": "蛮子动员兵",
 }
 
 MAPS = {

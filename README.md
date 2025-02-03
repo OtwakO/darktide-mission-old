@@ -1,3 +1,5 @@
+Moved to new repo for a overhauled version: https://github.com/OtwakO/darktide-mission
+
 Website:
 
 -   https://otwako.github.io/darktide-mission
